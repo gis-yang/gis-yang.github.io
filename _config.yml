@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
