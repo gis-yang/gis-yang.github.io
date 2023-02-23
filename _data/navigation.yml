@@ -23,6 +23,6 @@ main:
   - title: "Team"
     url: /about/
   - title: "Gallery"
-    url: /tags/
+    url: /gallery/
   - title: "News"
     url: /posts/
