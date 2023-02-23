@@ -1,7 +1,7 @@
 main:
   - title: "Projects"
     url: /categories/
-    dropdown:
+    sublinks:
       - title: "UAV for Eelgrass Disease"
         url: /categories/
       - title: "Wildfire Remote Sensing"
