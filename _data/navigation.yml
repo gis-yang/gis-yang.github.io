@@ -15,7 +15,7 @@ main:
       - title: "Other Projects"
         url: /categories/
   - title: "Publications"
-    url: /categories/
+    url: /publications/
   - title: "Resources"
     url: /categories/
   - title: "Facilities"
