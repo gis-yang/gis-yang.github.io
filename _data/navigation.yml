@@ -1,19 +1,6 @@
 main:
   - title: "Projects"
     url: /projects/
-    sublinks:
-      - title: "UAV for Eelgrass Disease"
-        url: /categories/
-      - title: "Wildfire Remote Sensing"
-        url: /categories/
-      - title: "Urban Heat Effect"
-        url: /categories/
-      - title: "Crime Prediction"
-        url: /categories/
-      - title: "ST-Cokriging"
-        url: /categories/
-      - title: "Other Projects"
-        url: /categories/
   - title: "Publications"
     url: /publications/
   - title: "Resources"
