@@ -5,20 +5,35 @@ permalink: /UAV_wildfire/
 author_profile: False
 ---
 
-[The Wildfire Interdisciplinary Research Center (WIRC)](https://www.sjsu.edu/wildfire/) at San Jose State University investigates California wildfires using a variety of disciplinary and research approaches, including physical, social-economic, meteorological, and geographical methods. We utilize tower weather stations, Doppler radars, and aerial remote sensing technologies to study wildfire and burn events. While traditional remote sensing technologies are limited by coarse spatial resolution from satellite imagery, high cost, and long preparation time for aerial mapping, drones offer temporal flexibility and cost-effectiveness, particularly for lower latitude mapping to capture and monitor fire events. Furthermore, once a solution has been established, drone mapping systems are convenient and cost-effective for performing repeated mapping and monitoring of post-burn effects resulting from wildfires.
-<img align="center" width="720" src="/assets/images/Fire2.png">
+## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
+I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) the UAV mapping of coastal seagrass sites along the Pacific (west) coast of North America through a $1.3 million collaborative NSF grant for the UCF portion, one of the earliest attempts to employ UAV mapping in coastal management and seagrass conservation. This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing. 
 
-In October 2022, SJSU WIRC and Cal Fire conducted a coordinated Canyon Fire experiment in a selected canyon near Salinas in Northern California. The experiment was monitored using airborne IR systems, Radar/Lidar, and weather tower stations, while various UAV platforms/sensors collected mapping data and ground measurements. One month prior to the experiment, drones were flown twice to capture high-resolution orthomosaic imagery in both multispectral and RGB bands. The structure to motion algorithm was used to collect the pre-burn surface volume represented by the Digital Elevation Model (DEM) with a 3 cm spatial resolution. During the canyon fire, a Matrice 200 drone with a FLIR Zemuse H20T thermal camera collected real-time thermal videos of the fire behavior. Post-burn data, including optical spectral imagery and DEM, were collected after the event. This experiment provided invaluable measurements of pre- and post-fire land change patterns and during-fire dynamics using both remotely sensed data and in-situ metrology stations.
+<img align="center" width="720" src="/images/AK_Fieldwork.png">
 
-<img align="center" width="720" src="/assets/images/fire3.png">
+ Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institute. Our collaborators include: 
+ [Carla Gomes (Cornell)](https://www.cs.cornell.edu/gomes/), [Deanna Beatty (UCD)](https://deannabeatty.github.io/), [Drew Harvell(Cornell)](http://www.eeb.cornell.edu/harvell/),
+ [Emmett Duffy (SI)](https://marinegeo.si.edu/emmett-duffy), [Fiona Tomas Nash (OSU)](https://fw.oregonstate.edu/users/fiona-tomas-nash), [Ginny Eckert (UAF)](https://alaskaseagrant.org/about/directory/ginny-eckert/), [John Stachowicz (UCD)](https://stachlab.wordpress.com/), [Kevin Hovel (SDSU)](http://sci.sdsu.edu/hovel/), 
+ [Leah Harper (SI)](https://marinegeo.si.edu/), [Lillian Aoki (Cornell)](https://lillianaoki.weebly.com/), [Lia Domke (UAF)](https://www.uaf.edu/uaf/),  [Margot Hessing-Lewis (Hakai)](https://www.hakai.org/), [Olivia Graham (Cornell)](https://twitter.com/o_jgraham), 
+ 
+ <img align="center" width="720" src="/images/Drones_locations.jpg">
 
-The project generated data on fire behavior, fuel types, wildfire mapping, and vegetation time-series change for the California canyon burn site. This data includes original drone imagery from autonomous mapping, processed drone orthomosaic imagery for both RGB bands and multispectral, drone thermal mapping video, Drone LiDAR cloud point mapping, Digital Elevation Model (DEM), Digital Surface Model (DSM), and Ground Control Points (GCP) obtained using high-performance GPS for drone image registration. Additionally, video footage and photos were captured for media consumption, and auxiliary satellite/aerial data were assimilated when applicable. Field station data was also generated for vegetation coverage and fuel distribution. 
+I have been leading a drone mapping team travel along the Pacific coast and collected over 10,000 drone remote sensing images along the U.S. Pacific coast. The drone remote sensing and field sampling sites include (From north to south): (1) six sites around Prince of Wales Island, Alaska; (2) five sites on the Central Coast of British Columbia (by Hakai team); (3) five sites in the San Juan Islands; (4) three sites in Yaquina Bay, Oregon; (5) two sites in Coos Bay, Oregon; (6) six sites in Bodega Bay and Tomales Bay, northern California; and (7) six sites in San Diego and Mission Bay in southern California.
 
-We currently working on process and analyze the time-series drone mapping and ground data, and generate Anderson fuel classification maps based on RGB and multispectral imagery. This informative dataset will be combined with the during-fire and post-fire burn data to compare the effect and development of different vagatation/fuel that has been burned during and after the fire. Also, the DEM data will be compared before and after the burn to assess the volume change before and after fire, combining the subset with classification results from the multispectral data to see how the burn affects the different vegetation types. Moreover, in the following year we will continue using multispectral to map the area multiple times for this year to monitor how the vegetation grew after fire, compared with the control group, the no-burn area vegetation growing condition. 
+<img align="center" width="720" src="/images/OR_eelgrass.jpg">
 
-<img align="center" width="720" src="/assets/images/fire4.png">
+For more info and viewing the data, please visit our [Project Page](https://www.citizensciencegis.org/nsfsmithsoniandrones) and ArcGIS [Story Map](https://storymaps.arcgis.com/stories/e554d25d27264872b3a02daa0bc91ecb?adumkts=product&aduc=social&adum=external&aduSF=twitter&utm_Source=social&aduca=mi_arcgis_storymaps_awareness&aduco=video&adulb=multiple&adusn=multiple&aduat=storymap&adupt=awareness&sf_id=701f2000001C36aAAC).
 
-See our storymap about the [Canyon Fire experiment](https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f)
 
-<img align="center" width="720" src="/assets/images/fire5.png">
-[3D visualization of study canyon](https://sjsugis.maps.arcgis.com/home/webscene/viewer.html?webscene=f042d970db014fa2aed423ff448ff1ca)
+
+## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
+
+For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
+<img align="center" width="720" src="/images/CK_cloud.jpg">
+ 
+
+## [K12 outreach, participatory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
+I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
+<img align="center" width="720" src="/images/sandbox.jpg">
+
+
+
