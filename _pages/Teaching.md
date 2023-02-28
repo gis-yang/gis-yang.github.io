@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /Teaching/
-author_profile: True
+author_profile: False
 ---
 
 ## [Open-access drone mapping course](https://gis-yang.github.io/DroneMapping/)
