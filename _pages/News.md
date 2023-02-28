@@ -2,12 +2,9 @@
 layout: archive
 title: "News"
 permalink: /News/
-author_profile: true
-redirect_from:
-  - /blog
+author_profile: false
 ---
 
-{% include base_path %}
 
 2021
 ======
