@@ -3,6 +3,7 @@ layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: False
+classes: wide
 ---
 
 ## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
