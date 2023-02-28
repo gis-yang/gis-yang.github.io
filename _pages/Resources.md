@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Resources"
-permalink: /Resources/
-author_profile: True
+permalink: /resources/
+author_profile: false
 ---
 
 ## [Spatial Analytics and Visualization (SAVI) Center](https://www.sjsu.edu/savi-urbp/index.php)
