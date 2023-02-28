@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "UAV Seagrass"
 permalink: /UAV_seagrass/
 author_profile: False
