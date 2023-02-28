@@ -3,6 +3,7 @@ layout: archive
 title: "UAV Wildfire"
 permalink: /UAV_wildfire/
 author_profile: False
+classes: wide
 ---
 
 [The Wildfire Interdisciplinary Research Center (WIRC)](https://www.sjsu.edu/wildfire/) at San Jose State University investigates California wildfires using a variety of disciplinary and research approaches, including physical, social-economic, meteorological, and geographical methods. We utilize tower weather stations, Doppler radars, and aerial remote sensing technologies to study wildfire and burn events. While traditional remote sensing technologies are limited by coarse spatial resolution from satellite imagery, high cost, and long preparation time for aerial mapping, drones offer temporal flexibility and cost-effectiveness, particularly for lower latitude mapping to capture and monitor fire events. Furthermore, once a solution has been established, drone mapping systems are convenient and cost-effective for performing repeated mapping and monitoring of post-burn effects resulting from wildfires.
