@@ -2,7 +2,7 @@
 layout: archive
 title: "Projects"
 permalink: /Projects/
-author_profile: True
+author_profile: False
 ---
 
 ## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
