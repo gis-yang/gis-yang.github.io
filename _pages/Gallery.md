@@ -13,10 +13,5 @@ author_profile: true
 [![image](/images/Gallery/Anderson.jpg){:width="420px"}](https://doi.org/10.1016/j.jag.2019.03.010) |[![image](/images/Gallery/Crime.jpg){:width="420px"}](https://doi.org/10.1080/13658816.2020.1737701)
 --|--
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 
