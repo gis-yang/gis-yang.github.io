@@ -19,21 +19,21 @@ I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/
 
 I have been leading a drone mapping team travel along the Pacific coast and collected over 10,000 drone remote sensing images along the U.S. Pacific coast. The drone remote sensing and field sampling sites include (From north to south): (1) six sites around Prince of Wales Island, Alaska; (2) five sites on the Central Coast of British Columbia (by Hakai team); (3) five sites in the San Juan Islands; (4) three sites in Yaquina Bay, Oregon; (5) two sites in Coos Bay, Oregon; (6) six sites in Bodega Bay and Tomales Bay, northern California; and (7) six sites in San Diego and Mission Bay in southern California.
 
-<img align="center" width="720" src="/images/OR_eelgrass.jpg">
+<img align="center" width="720" src="/assets/images/OR_eelgrass.jpg">
+
+
+
+<img align="center" width="720" src="/assets/images/Drone_Training.png">
+I maintain an [Open-access drone mapping course](https://gis-yang.github.io/DroneMapping/) designed to teach the use of drones for collecting remote sensing data for coastal mapping and seagrass conservation. This training course was created for research partners and the broader community to learn how to fly drones and perform data processing using Geographic Information Science (GIS) methods. The course covers topics such as drone flight, coastal mapping principles, safety guidelines, preflight planning, FAA Part 107 examination, drone image stitching software, geographic fieldwork principles, and GIS-based drone image analysis.. 
+
 
 For more info and viewing the data, please visit our [Project Page](https://www.citizensciencegis.org/nsfsmithsoniandrones) and ArcGIS [Story Map](https://storymaps.arcgis.com/stories/e554d25d27264872b3a02daa0bc91ecb?adumkts=product&aduc=social&adum=external&aduSF=twitter&utm_Source=social&aduca=mi_arcgis_storymaps_awareness&aduco=video&adulb=multiple&adusn=multiple&aduat=storymap&adupt=awareness&sf_id=701f2000001C36aAAC).
 
-
-
-## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
-
-For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
-<img align="center" width="720" src="/assets/images/CK_cloud.jpg">
- 
-
-## [K12 outreach, participatory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
-I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
-<img align="center" width="720" src="/images/sandbox.jpg">
-
-
-
+References:
+* Yang, B., Hawthorne, T.L., Aoki, L.R., Beatty, D.S., Domke, L.K., Copeland, T., Eckert, G.L., Graham, O.J., Harper, L., Hessing-Lewis, M. Rappazzo, B., and Hovel, K.A., et al., (2023). Low-Altitude UAV Imaging Accurately Quantifies Eelgrass Wasting Disease from Alaska to California. Geophysical Research Letters [DOI: 10.1029/2022GL101985](https://doi.org/10.1029/2022GL101985)
+* Aoki, L.R., Yang,B., O.J. Graham, C. Gomes, B. Rappazzo, T.L. Hawthorne, J.E. Duffy, and D. Harvell. 2023. UAV high-resolution imaging and disease surveys combine to quantify climate-related decline in seagrass meadows. *Oceanography 36(Supplement 1)* [DOI:10.5670/oceanog.2023.s1.12](https://doi.org/10.5670/oceanog.2023.s1.12)
+* Graham, O.J., Stephens, T., Rappazzo, B., Klohmann, C., Dayal, S., Adamczyk, E.M., Olson, A., Hessing-Lewis, M., Eisenlord, M., Yang, B., Burge, C., Gomes, C., Harvell, D., (2023) Deeper habitats and cooler temperatures moderate a climate-driven seagrass disease. Phil. Trans. R. Soc. B 378: 20220016 [DOI:10.1098/rstb.2022.0016](https://doi.org/10.1098/rstb.2022.0016)
+* 6.	Aoki, L.R., Rappazzo, B., Beatty, D.S., Domke, L.K., Eckert, G.L., Eisenlord, M.E., Graham, O.J., Harper, L., Hawthorne, T.L., Hessing-Lewis, M. and Hovel, K.A., Yang, B., et al., (2022). Disease surveillance by artificial intelligence links eelgrass wasting disease to ocean warming across latitudes. *Limnology and Oceanography*. [DOI:10.1002/lno.12152](https://doi.org/10.1002/lno.12152)
+* Beatty DS, Aoki LR, … Yang, B. et al.,  (2022) Predictable Changes in Eelgrass Microbiomes with Increasing Wasting Disease Prevalence across 23° Latitude in the Northeastern Pacific. mSystems 0, e00224-22. [DOI: 10.1128/msystems.00224-22](https://journals.asm.org/doi/10.1128/msystems.00224-22)
+* Beatty D.S., Aoki L.R., Graham O.J., Yang B. (2021). The future is big—and small: remote sensing enables cross-scale comparisons of microbiome dynamics and ecological consequences. *mSystems* 6:e01106-21. [DOI:10.1128/mSystems.01106-21](https://doi.org/10.1128/mSystems.01106-21)
+* Yang, B.; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Feinman, M.; Searson, H. (2020) Developing an Introductory UAV/Drone Mapping Training Program for Seagrass Monitoring and Research. *Drones* (Journal Cover Story), 4, 70. [DOI:10.3390/drones4040070](https://doi.org/10.3390/drones4040070) 
