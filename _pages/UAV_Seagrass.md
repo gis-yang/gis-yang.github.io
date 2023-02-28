@@ -10,6 +10,10 @@ We co-lead with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/perso
 
 <img align="center" width="720" src="/assets/images/AK_Fieldwork.png">
 
+Wastingdisease causes healthy eelgrass lose greenness, which captured by low altitude UAV mapping and fine-scale image analysis for disease prevalence and severity. UAV's temporal flexibility can better capture low tide or certain time frames and with larger coverage. Eelgrass in situ samples processed by EeLISA tool developed by CornellEEB and Computer science, AI-based eelgrass blades scan to valid the remotely sensed data. Statistical results suggest that Green Leaf Area Index (G-LAI) can explain up to 58% of eelgrass disease variation. By incorporating optical UAV mapping and high-resolution (<5cm) image processing, detection and monitoring of marine diseases are now more efficient and quick.
+
+<img align="center" width="720" src="/assets/images/flowchart.jpg">
+
  Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institute. Our collaborators include: 
  [Carla Gomes (Cornell)](https://www.cs.cornell.edu/gomes/), [Deanna Beatty (UCD)](https://deannabeatty.github.io/), [Drew Harvell(Cornell)](http://www.eeb.cornell.edu/harvell/),
  [Emmett Duffy (SI)](https://marinegeo.si.edu/emmett-duffy), [Fiona Tomas Nash (OSU)](https://fw.oregonstate.edu/users/fiona-tomas-nash), [Ginny Eckert (UAF)](https://alaskaseagrant.org/about/directory/ginny-eckert/), [John Stachowicz (UCD)](https://stachlab.wordpress.com/), [Kevin Hovel (SDSU)](http://sci.sdsu.edu/hovel/), 
