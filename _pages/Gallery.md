@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: galery
 title: "Gallery"
-permalink: /Gallery/
+permalink: /gallery/
 author_profile: false
 ---
 [![image](/images/Gallery/dronetraining.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/images/Gallery/CarrieBow_GPSMap.jpg){:width="420px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) 
