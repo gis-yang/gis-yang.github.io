@@ -6,10 +6,10 @@ main:
   - title: "Resources"
     url: /resources/
   - title: "Facilities"
-    url: /tags/
-  - title: "Team"
     url: /about/
+  - title: "Team"
+    url: /tags/
   - title: "Gallery"
     url: /gallery/
   - title: "News"
-    url: /posts/
+    url: /news/
