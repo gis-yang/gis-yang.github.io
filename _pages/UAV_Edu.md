@@ -15,7 +15,7 @@ feature_row_dronetraining:
 
 feature_row_K12:
   - image_path: /assets/images/K12.png
-    title: "Drone for K12 education"
+    title: "Drone with MSTI K12 summercamp"
     excerpt: "Drone and GIS technologies are utilized for K12 education in the Mineta Summer Transportation Institute (MSTI). The MSTI offers students the opportunity to earn three transferable college credits in environmental studies from SJSU upon completion of all course requirements and a final exam. As part of the program, Dr. Bo Yang instructs local high school students on drones and aerial mapping."
     url: "https://blogs.sjsu.edu/newsroom/2022/sjsu-teaches-transportation-impact-and-innovations-to-high-school-students/"
     btn_label: "Read More"
@@ -29,7 +29,13 @@ feature_row_workshops:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
+feature_row_workshops:
+  - image_path: /assets/images/unnamed.jpg
+    title: "NSF Research experience for K12 teachers"
+    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
+    url: "https://sjsu.edu/savi-urbp/workshops/index.php"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row_dronetraining" type="left" %}
