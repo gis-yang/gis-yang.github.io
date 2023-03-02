@@ -3,7 +3,18 @@ layout: archive
 title: "UAV for Education"
 permalink: /UAV_edu/
 author_profile: False
+
+feature_row_left:
+  - image_path: /assets/images/Drone3.jpg
+    title: "Other Drone Mapping Projects"
+    excerpt: "Browse more drone mapping projects, including mapping of an African American village, the Florida coastal area, hydrology BMP management, and the Serpent Mound archaeological site."
+    url: /UAV_others/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="feature_row_left" type="left" %}
+
 
 ## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
 I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) the UAV mapping of coastal seagrass sites along the Pacific (west) coast of North America through a $1.3 million collaborative NSF grant for the UCF portion, one of the earliest attempts to employ UAV mapping in coastal management and seagrass conservation. This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing. 
@@ -24,12 +35,6 @@ I have been leading a drone mapping team travel along the Pacific coast and coll
 For more info and viewing the data, please visit our [Project Page](https://www.citizensciencegis.org/nsfsmithsoniandrones) and ArcGIS [Story Map](https://storymaps.arcgis.com/stories/e554d25d27264872b3a02daa0bc91ecb?adumkts=product&aduc=social&adum=external&aduSF=twitter&utm_Source=social&aduca=mi_arcgis_storymaps_awareness&aduco=video&adulb=multiple&adusn=multiple&aduat=storymap&adupt=awareness&sf_id=701f2000001C36aAAC).
 
 
-
-## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
-
-For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
-<img align="center" width="720" src="/images/CK_cloud.jpg">
- 
 
 ## [K12 outreach, participatory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
 I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
