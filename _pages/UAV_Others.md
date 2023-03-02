@@ -3,37 +3,60 @@ layout: archive
 title: "UAV Others"
 permalink: /UAV_others/
 author_profile: False
+classes: wide
+
+feature_row_dronetraining:
+  - image_path: /assets/images/Drone_Training.png
+    title: "Mapping Joe minters Afirican American Village"
+    excerpt: "Open-access drone mapping training course to teach research partners and broader communities how to collect remote sensing data. This training course covers various topics such as flying drones, mapping principles, safety guidelines, preflight planning, FAA Part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS-based drone image analysis. "
+    url: "https://gis-yang.github.io/DroneMapping/"
+    btn_label: "View on GitHub"
+    btn_class: "btn--primary"
+
+feature_row_K12:
+  - image_path: /assets/images/K12.png
+    title: "Drone mapping the Florida Coastal"
+    excerpt: "Drone and GIS technologies are utilized for K12 education in the Mineta Summer Transportation Institute (MSTI). The MSTI offers students the opportunity to earn three transferable college credits in environmental studies from SJSU upon completion of all course requirements and a final exam. As part of the program, Dr. Bo Yang instructs local high school students on drones and aerial mapping."
+    url: "https://blogs.sjsu.edu/newsroom/2022/sjsu-teaches-transportation-impact-and-innovations-to-high-school-students/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_workshops:
+  - image_path: /assets/images/IMG_9032.jpg
+    title: "Drone for Hydological BML Management"
+    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
+    url: "https://sjsu.edu/savi-urbp/workshops/index.php"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_RET:
+  - image_path: /assets/images/unnamed.jpg
+    title: "Drone Mapping the OH Serpent Mound"
+    excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
+    url: "https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383"
+    btn_label: "Video Record"
+    btn_class: "btn--primary"
+
+feature_row_Club:
+  - image_path: /assets/images/IMG_1462.jpeg
+    title: "SJSU GIS and Drone society"
+    excerpt: "The SJSU GIS and Drone Society (formerly the GIS Club) welcomes individuals from all majors. The society comprises people with a shared interest in staying abreast of the latest developments in geography, from gaining a deeper understanding of GIS to exploring the potential of drones. Throughout the semester, we organize various activities, including touring San Jose as a group, participating in study sessions to support each other, and engaging in fun activities."
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSckqZqSM6gefLt8d5iLDeQKq03pmbF2PAB6B1HSBe08jmObXg/viewform"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-## [NSF Drone Mapping and GIS for coastal seagrass](https://www.citizensciencegis.org/nsfsmithsoniandrones)
-I am co-leading with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) the UAV mapping of coastal seagrass sites along the Pacific (west) coast of North America through a $1.3 million collaborative NSF grant for the UCF portion, one of the earliest attempts to employ UAV mapping in coastal management and seagrass conservation. This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing. 
+{% include feature_row id="feature_row_dronetraining" type="left" %}
 
-<img align="center" width="720" src="/images/AK_Fieldwork.png">
+{% include feature_row id="feature_row_K12" type="right" %}
 
- Several research institutes/universities are involved in interdisciplinary collaborations, including Smithsonian MarineGeo, Cornell University, UC Davis, University of Alaska Fairbanks, Oregon State University, San Diego State University, Hakai institute. Our collaborators include: 
- [Carla Gomes (Cornell)](https://www.cs.cornell.edu/gomes/), [Deanna Beatty (UCD)](https://deannabeatty.github.io/), [Drew Harvell(Cornell)](http://www.eeb.cornell.edu/harvell/),
- [Emmett Duffy (SI)](https://marinegeo.si.edu/emmett-duffy), [Fiona Tomas Nash (OSU)](https://fw.oregonstate.edu/users/fiona-tomas-nash), [Ginny Eckert (UAF)](https://alaskaseagrant.org/about/directory/ginny-eckert/), [John Stachowicz (UCD)](https://stachlab.wordpress.com/), [Kevin Hovel (SDSU)](http://sci.sdsu.edu/hovel/), 
- [Leah Harper (SI)](https://marinegeo.si.edu/), [Lillian Aoki (Cornell)](https://lillianaoki.weebly.com/), [Lia Domke (UAF)](https://www.uaf.edu/uaf/),  [Margot Hessing-Lewis (Hakai)](https://www.hakai.org/), [Olivia Graham (Cornell)](https://twitter.com/o_jgraham), 
- 
- <img align="center" width="720" src="/images/Drones_locations.jpg">
+{% include feature_row id="feature_row_workshops" type="left" %}
 
-I have been leading a drone mapping team travel along the Pacific coast and collected over 10,000 drone remote sensing images along the U.S. Pacific coast. The drone remote sensing and field sampling sites include (From north to south): (1) six sites around Prince of Wales Island, Alaska; (2) five sites on the Central Coast of British Columbia (by Hakai team); (3) five sites in the San Juan Islands; (4) three sites in Yaquina Bay, Oregon; (5) two sites in Coos Bay, Oregon; (6) six sites in Bodega Bay and Tomales Bay, northern California; and (7) six sites in San Diego and Mission Bay in southern California.
+{% include feature_row id="feature_row_RET" type="right" %}
 
-<img align="center" width="720" src="/images/OR_eelgrass.jpg">
-
-For more info and viewing the data, please visit our [Project Page](https://www.citizensciencegis.org/nsfsmithsoniandrones) and ArcGIS [Story Map](https://storymaps.arcgis.com/stories/e554d25d27264872b3a02daa0bc91ecb?adumkts=product&aduc=social&adum=external&aduSF=twitter&utm_Source=social&aduca=mi_arcgis_storymaps_awareness&aduco=video&adulb=multiple&adusn=multiple&aduat=storymap&adupt=awareness&sf_id=701f2000001C36aAAC).
+{% include feature_row id="feature_row_Club" type="left" %}
 
 
-
-## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
-
-For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
-<img align="center" width="720" src="/images/CK_cloud.jpg">
- 
-
-## [K12 outreach, participatory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
-I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
-<img align="center" width="720" src="/images/sandbox.jpg">
 
 
 
