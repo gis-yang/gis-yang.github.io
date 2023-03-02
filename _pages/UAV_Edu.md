@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: "UAV for Education"
+title: "Drones for Education"
 permalink: /UAV_edu/
 author_profile: False
+classes: wide
 
-feature_row_left:
-  - image_path: /assets/images/Drone3.jpg
+feature_row_dronetraining:
+  - image_path: /assets/images/Drone_Training.png
     title: "Other Drone Mapping Projects"
-    excerpt: "Browse more drone mapping projects, including mapping of an African American village, the Florida coastal area, hydrology BMP management, and the Serpent Mound archaeological site."
-    url: /UAV_others/
-    btn_label: "Read More"
+    excerpt: "Open-access drone mapping training course to teach research partners and broader communities how to collect remote sensing data. This training course covers various topics such as flying drones, mapping principles, safety guidelines, preflight planning, FAA Part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS-based drone image analysis. "
+    url: "https://gis-yang.github.io/DroneMapping/"
+    btn_label: "View on GitHub"
     btn_class: "btn--primary"
 ---
 
