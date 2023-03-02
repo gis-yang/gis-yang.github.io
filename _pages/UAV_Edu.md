@@ -52,7 +52,7 @@ feature_row_Club:
 
 {% include feature_row id="feature_row_workshops" type="left" %}
 
-{% include feature_row id="feature_row_RET" type="left" %}
+{% include feature_row id="feature_row_RET" type="right" %}
 
 {% include feature_row id="feature_row_Club" type="left" %}
 
