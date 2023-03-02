@@ -29,19 +29,19 @@ feature_row_workshops:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_workshops:
+feature_row_RET:
   - image_path: /assets/images/unnamed.jpg
     title: "NSF Research experience for K12 teachers"
-    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
-    url: "https://sjsu.edu/savi-urbp/workshops/index.php"
-    btn_label: "Read More"
+    excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
+    url: "https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383"
+    btn_label: "Video Record"
     btn_class: "btn--primary"
 
-feature_row_workshops:
+feature_row_Club:
   - image_path: /assets/images/IMG_1462.jpeg
     title: "SJSU GIS and Drone society"
-    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
-    url: "https://sjsu.edu/savi-urbp/workshops/index.php"
+    excerpt: "The SJSU GIS and Drone Society (formerly the GIS Club) welcomes individuals from all majors. The society comprises people with a shared interest in staying abreast of the latest developments in geography, from gaining a deeper understanding of GIS to exploring the potential of drones. Throughout the semester, we organize various activities, including touring San Jose as a group, participating in study sessions to support each other, and engaging in fun activities."
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSckqZqSM6gefLt8d5iLDeQKq03pmbF2PAB6B1HSBe08jmObXg/viewform"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -52,12 +52,11 @@ feature_row_workshops:
 
 {% include feature_row id="feature_row_workshops" type="left" %}
 
+{% include feature_row id="feature_row_RET" type="left" %}
+
+{% include feature_row id="feature_row_Club" type="left" %}
 
 
-
-## [K12 outreach, participatory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
-I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
-<img align="center" width="720" src="/images/sandbox.jpg">
 
 
 
