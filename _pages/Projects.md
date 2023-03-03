@@ -7,15 +7,15 @@ classes: wide
 
 feature_row_droneseagrass:
   - image_path: /assets/images/AK_eelgrass.jpg
-    title: "Open Access Drone Course"
+    title: "Drone mapping coastal seagrass habitats"
     excerpt: "This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing."
     url: /UAV_seagrass/
     btn_label: "Read More"
     btn_class: "btn--primary"
-	
+
 feature_row_dronewildfire:
   - image_path: /assets/images/Fire2.png
-    title: "Open Access Drone Course"
+    title: "Drone and remote sensing for California wildfire"
     excerpt: "Our research utilizes UAV/drone remote sensing with meteorology instruments to investigate wildfire and burn events. Drones provide a cost-effective and temporally flexible approach, especially in low-latitude mapping, for capturing and monitoring fire events. Moreover, once implemented, drone mapping systems offer a convenient and cost-effective solution for repeatedly mapping and monitoring post-burn effects resulting from wildfires."
     url: /UAV_wildfire/
     btn_label: "Read More"
