@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Our Amazing Science Team"
 permalink: /team/
 author_profile: False
