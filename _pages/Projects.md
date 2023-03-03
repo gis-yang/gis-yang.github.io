@@ -5,6 +5,22 @@ permalink: /projects/
 author_profile: False
 classes: wide
 
+feature_row_droneseagrass:
+  - image_path: /assets/images/AK_eelgrass.jpg
+    title: "Open Access Drone Course"
+    excerpt: "This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing."
+    url: /UAV_seagrass/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+	
+feature_row_dronewildfire:
+  - image_path: /assets/images/Fire2.png
+    title: "Open Access Drone Course"
+    excerpt: "Our research utilizes UAV/drone remote sensing with meteorology instruments to investigate wildfire and burn events. Drones provide a cost-effective and temporally flexible approach, especially in low-latitude mapping, for capturing and monitoring fire events. Moreover, once implemented, drone mapping systems offer a convenient and cost-effective solution for repeatedly mapping and monitoring post-burn effects resulting from wildfires."
+    url: /UAV_wildfire/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row_dronetraining:
   - image_path: /assets/images/Drone_Training.png
     title: "Open Access Drone Course"
@@ -44,6 +60,30 @@ feature_row_Club:
     url: "https://docs.google.com/forms/d/e/1FAIpQLSckqZqSM6gefLt8d5iLDeQKq03pmbF2PAB6B1HSBe08jmObXg/viewform"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row_right:
+  - image_path: /assets/images/Image_20230301103055.jpg
+    title: "Urban Heat and Urban Transporation"
+    excerpt: "We use thermal remote sensing and the urban heat budget to isolate and quantify the transportation impact on urban heat and climate change."
+    url: "https://www.nature.com/articles/s43247-022-00427-4"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_left2:
+  - image_path: /assets/images/CK_cloud.jpg
+    title: "Crime Prediction and Spatial Statistics"
+    excerpt: "We develop a novel geostatistical technique to integrate historical crime data and urban transitional zones identified from the VIIRS nightlight imagery for more accurate crime prediction."
+    url: "https://github.com/gis-yang/Crime-prediction"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_right2:
+  - image_path: /assets/images/gis_Copy.png
+    title: "ST-Cokriging and Image Fusion/Assimilation"
+    excerpt: "We develop a spatio-temporal Cokriging (ST-Cokriging) method for assimilating multi-sensor remote sensing data that optimally determines parameters by accounting for spatio-temporal covariance. This method yields more reliable assimilation results than previous methods, effectively filling data gaps while providing quantitative uncertainty estimates."
+    url: "https://www.sciencedirect.com/science/article/pii/S0034425720305630?via%3Dihub"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row_dronetraining" type="left" %}
@@ -55,6 +95,12 @@ feature_row_Club:
 {% include feature_row id="feature_row_RET" type="right" %}
 
 {% include feature_row id="feature_row_Club" type="left" %}
+
+{% include feature_row id="feature_row_right" type="right" %}
+
+{% include feature_row id="feature_row_left2" type="left" %}
+
+{% include feature_row id="feature_row_right2" type="right" %}
 
 
 ## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
