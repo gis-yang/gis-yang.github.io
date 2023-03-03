@@ -86,9 +86,9 @@ feature_row_right2:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_dronetraining" type="left" %}
+{% include feature_row id="feature_row_droneseagrass" type="left" %}
 
-{% include feature_row id="feature_row_K12" type="right" %}
+{% include feature_row id="feature_row_dronewildfire" type="right" %}
 
 {% include feature_row id="feature_row_workshops" type="left" %}
 

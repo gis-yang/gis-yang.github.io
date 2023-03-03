@@ -5,15 +5,7 @@ permalink: /UAV_others/
 author_profile: False
 classes: wide
 
-feature_row_dronetraining:
-  - image_path: /assets/images/Drone_Training.png
-    title: "Mapping Joe minters Afirican American Village"
-    excerpt: "Open-access drone mapping training course to teach research partners and broader communities how to collect remote sensing data. This training course covers various topics such as flying drones, mapping principles, safety guidelines, preflight planning, FAA Part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS-based drone image analysis. "
-    url: "https://gis-yang.github.io/DroneMapping/"
-    btn_label: "View on GitHub"
-    btn_class: "btn--primary"
-
-feature_row_K12:
+feature_row_FL:
   - image_path: /assets/images/K12.png
     title: "Drone mapping the Florida Coastal"
     excerpt: "Drone and GIS technologies are utilized for K12 education in the Mineta Summer Transportation Institute (MSTI). The MSTI offers students the opportunity to earn three transferable college credits in environmental studies from SJSU upon completion of all course requirements and a final exam. As part of the program, Dr. Bo Yang instructs local high school students on drones and aerial mapping."
@@ -21,7 +13,15 @@ feature_row_K12:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_workshops:
+feature_row_Africa:
+  - image_path: /assets/images/Drone_Training.png
+    title: "Mapping Joe minters Afirican American Village"
+    excerpt: "Open-access drone mapping training course to teach research partners and broader communities how to collect remote sensing data. This training course covers various topics such as flying drones, mapping principles, safety guidelines, preflight planning, FAA Part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS-based drone image analysis. "
+    url: "https://gis-yang.github.io/DroneMapping/"
+    btn_label: "View on GitHub"
+    btn_class: "btn--primary"
+
+feature_row_BMP:
   - image_path: /assets/images/IMG_9032.jpg
     title: "Drone for Hydological BML Management"
     excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
@@ -29,7 +29,7 @@ feature_row_workshops:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_RET:
+feature_row_Serpent:
   - image_path: /assets/images/unnamed.jpg
     title: "Drone Mapping the OH Serpent Mound"
     excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
@@ -46,13 +46,13 @@ feature_row_Club:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_dronetraining" type="left" %}
+{% include feature_row id="feature_row_FL" type="left" %}
 
-{% include feature_row id="feature_row_K12" type="right" %}
+{% include feature_row id="feature_row_Africa" type="right" %}
 
-{% include feature_row id="feature_row_workshops" type="left" %}
+{% include feature_row id="feature_row_BMP" type="left" %}
 
-{% include feature_row id="feature_row_RET" type="right" %}
+{% include feature_row id="feature_row_Serpent" type="right" %}
 
 {% include feature_row id="feature_row_Club" type="left" %}
 
