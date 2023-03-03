@@ -17,7 +17,7 @@ feature_row_team:
     excerpt: "To be added the team meber"
 ---
 
-{% include feature_row_team %}
+{% include feature_row id="feature_row_team" %}
 
 
 
