@@ -5,22 +5,6 @@ permalink: /projects/
 author_profile: False
 classes: wide
 
-feature_row_droneseagrass:
-  - image_path: /assets/images/AK_eelgrass.jpg
-    title: "Open Access Drone Course"
-    excerpt: "This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing."
-    url: /UAV_seagrass/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-	
-feature_row_dronewildfire:
-  - image_path: /assets/images/Fire2.png
-    title: "Open Access Drone Course"
-    excerpt: "Our research utilizes UAV/drone remote sensing with meteorology instruments to investigate wildfire and burn events. Drones provide a cost-effective and temporally flexible approach, especially in low-latitude mapping, for capturing and monitoring fire events. Moreover, once implemented, drone mapping systems offer a convenient and cost-effective solution for repeatedly mapping and monitoring post-burn effects resulting from wildfires."
-    url: /UAV_wildfire/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 feature_row_dronetraining:
   - image_path: /assets/images/Drone_Training.png
     title: "Open Access Drone Course"
@@ -86,9 +70,7 @@ feature_row_right2:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row_droneseagrass" type="left" %}
 
-{% include feature_row id="feature_row_dronewildfire" type="right" %}
 
 {% include feature_row id="feature_row_workshops" type="left" %}
 
