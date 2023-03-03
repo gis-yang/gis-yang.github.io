@@ -6,31 +6,31 @@ author_profile: False
 classes: wide
 
 feature_row_FL:
-  - image_path: /assets/images/K12.png
+  - image_path: /assets/images/FL.jpg
     title: "Drone mapping the Florida Coastal"
-    excerpt: "Drone and GIS technologies are utilized for K12 education in the Mineta Summer Transportation Institute (MSTI). The MSTI offers students the opportunity to earn three transferable college credits in environmental studies from SJSU upon completion of all course requirements and a final exam. As part of the program, Dr. Bo Yang instructs local high school students on drones and aerial mapping."
-    url: "https://blogs.sjsu.edu/newsroom/2022/sjsu-teaches-transportation-impact-and-innovations-to-high-school-students/"
+    excerpt: "This paper aims to demonstrate quantitatively the improved resolution achieved by utilizing a multispectral UAV mapping technique for advanced mapping and assessment of coastal land cover. Field trials of the multispectral UAV mapping were conducted over the Indian River Lagoon along the central Atlantic coast of Florida. Ground Control Points (GCPs) were collected to generate a rigorously geo-referenced dataset of UAV imagery, allowing for comparison to geo-referenced satellite and aerial imagery. Multi-spectral satellite imagery (Sentinel-2) was also obtained for the same region to map land cover. NDVI and object-oriented classification methods were employed to compare the mapping capabilities of UAVs and satellites."
+    url: "https://www.mdpi.com/2504-446X/3/3/60"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row_Africa:
-  - image_path: /assets/images/Drone_Training.png
+  - image_path: /assets/images/Joe.png
     title: "Mapping Joe minters Afirican American Village"
-    excerpt: "Open-access drone mapping training course to teach research partners and broader communities how to collect remote sensing data. This training course covers various topics such as flying drones, mapping principles, safety guidelines, preflight planning, FAA Part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS-based drone image analysis. "
-    url: "https://gis-yang.github.io/DroneMapping/"
+    excerpt: "The application of advanced technology to document and preserve an art installation will be demonstrated through the mapping and digital documentation of artist Joe Minter's work. Minter, a found-object artist in Birmingham, has constructed a collection entitled "African Village in America" around his home in Birmingham, Alabama, which narrates his life story and cultural movement. With the University of Alabama's expertise in geographic imaging, art curation, digital cataloguing, and art history, a digital rendering is being created to provide immediate access to the artist's site-specific presentation of found-object sculptures for scholars and the public. Previously, visitors were required to view the monumental environment in person, but the digital rendering will make it accessible to a wider audience. "
+    url: "https://1drv.ms/v/s!AqgbJT_jEQK6u718KNT3i33eCxSdtQ?e=p4I4Eh"
     btn_label: "View on GitHub"
     btn_class: "btn--primary"
 
 feature_row_BMP:
-  - image_path: /assets/images/IMG_9032.jpg
+  - image_path: /assets/images/BMP.png
     title: "Drone for Hydological BML Management"
     excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
-    url: "https://sjsu.edu/savi-urbp/workshops/index.php"
+    url: "http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row_Serpent:
-  - image_path: /assets/images/unnamed.jpg
+  - image_path: /assets/images/Serpent.png
     title: "Drone Mapping the OH Serpent Mound"
     excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
     url: "https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383"
