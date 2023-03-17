@@ -57,7 +57,7 @@ feature_row_Club:
 {% include feature_row id="feature_row_Club" type="left" %}
 
 # References
-- excerpt: "Yang, B.; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Feinman, M.; Searson, H. (2020) Developing an Introductory UAV/Drone Mapping Training Program for Seagrass Monitoring and Research. *Drones* (Journal Cover Story), 4, 70. [DOI:10.3390/drones4040070](https://doi.org/10.3390/drones4040070)"
+excerpt: "Yang, B.; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Feinman, M.; Searson, H. (2020) Developing an Introductory UAV/Drone Mapping Training Program for Seagrass Monitoring and Research. *Drones* (Journal Cover Story), 4, 70. [DOI:10.3390/drones4040070](https://doi.org/10.3390/drones4040070)"
 
 
 

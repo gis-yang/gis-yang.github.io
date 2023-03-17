@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 classes: wide
-css:
-  - /assets/css/smaller-font.css
 ---
 
 *2023:*
