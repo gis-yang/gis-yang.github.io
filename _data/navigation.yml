@@ -15,46 +15,43 @@ main:
     url: /news/
     
 docs:
-  - title: Getting Started
+  - title: Research
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Publications"
+        url: /publications/
+      - title: "UAV coastal remote sensing"
+        url: /UAV_seagrass/
+      - title: "Wildfire mapping and modeling"
+        url: /UAV_wildfire/
+      - title: "Urban Crime Prediction"
+        url: "https://github.com/gis-yang/Crime-prediction"
+      - title: "ST-Cokriging Algorithm"
+        url: "https://www.sciencedirect.com/science/article/abs/pii/S0034425720305630?via%3Dihub"
+      - title: "All projects"
+        url: /projects/
 
-  - title: Customization
+  - title: Education
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
+      - title: "Drone for education"
+        url: /UAV_edu/
+      - title: "Open access Drone course"
         url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Teaching"
+        url: /teaching/
 
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
 
-  - title: Extras
+  - title: About
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Facilities"
+        url: /facilities/
+      - title: "Resources"
+        url: /resources/
+      - title: "Science team"
+        url: /team/
+
+  - title: Posts
+    children:
+      - title: "Gallery"
+        url: /gallery/
+      - title: "News"
+        url: /news/
