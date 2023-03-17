@@ -148,11 +148,11 @@ feature_row_right2:
 
 {% include feature_row id="feature_row_FL" type="left" %}
 
-{% include feature_row id="feature_row_right" type="right" %}
+{% include feature_row id="feature_row_right" type="left" %}
 
 {% include feature_row id="feature_row_left2" type="left" %}
 
-{% include feature_row id="feature_row_right2" type="right" %}
+{% include feature_row id="feature_row_right2" type="left" %}
 
 {% include feature_row id="feature_row_Africa" type="left" %}
 
