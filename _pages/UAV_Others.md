@@ -37,13 +37,7 @@ feature_row_Serpent:
     btn_label: "Video Record"
     btn_class: "btn--primary"
 
-feature_row_Club:
-  - image_path: /assets/images/IMG_1462.jpeg
-    title: "SJSU GIS and Drone society"
-    excerpt: "The SJSU GIS and Drone Society (formerly the GIS Club) welcomes individuals from all majors. The society comprises people with a shared interest in staying abreast of the latest developments in geography, from gaining a deeper understanding of GIS to exploring the potential of drones. Throughout the semester, we organize various activities, including touring San Jose as a group, participating in study sessions to support each other, and engaging in fun activities."
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSckqZqSM6gefLt8d5iLDeQKq03pmbF2PAB6B1HSBe08jmObXg/viewform"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="feature_row_FL" type="left" %}
@@ -54,7 +48,6 @@ feature_row_Club:
 
 {% include feature_row id="feature_row_Serpent" type="right" %}
 
-{% include feature_row id="feature_row_Club" type="left" %}
 
 
 
