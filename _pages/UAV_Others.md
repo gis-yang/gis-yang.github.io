@@ -4,6 +4,8 @@ title: "All UAV projects"
 permalink: /UAV_other/
 author_profile: False
 classes: wide
+sidebar:
+  nav: "docs"
 
 feature_row_FL:
   - image_path: /assets/images/FL.jpg

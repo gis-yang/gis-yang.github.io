@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: False
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 ## [Open-access drone mapping course](https://gis-yang.github.io/DroneMapping/)

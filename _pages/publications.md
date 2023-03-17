@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 *2023:*

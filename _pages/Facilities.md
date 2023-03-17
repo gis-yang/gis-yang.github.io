@@ -3,6 +3,8 @@ layout: archive
 title: "Facilities"
 permalink: /facilities/
 author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 ## [Spatial Analytics and Visualization (SAVI) Center](https://www.sjsu.edu/savi-urbp/index.php)

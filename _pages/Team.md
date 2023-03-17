@@ -4,6 +4,8 @@ title: "Our Amazing Science Team"
 permalink: /team/
 author_profile: False
 classes: wide
+sidebar:
+  nav: "docs"
 
 feature_row_team1:
   - image_path: /assets/images/bio-photo-2.jpg

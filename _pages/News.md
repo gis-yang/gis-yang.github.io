@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: false
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 

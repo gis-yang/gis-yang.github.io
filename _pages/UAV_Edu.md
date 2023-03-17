@@ -4,6 +4,8 @@ title: "Drones for Education"
 permalink: /UAV_edu/
 author_profile: False
 classes: wide
+sidebar:
+  nav: "docs"
 
 feature_row_dronetraining:
   - image_path: /assets/images/Drone_Training.png
