@@ -24,5 +24,5 @@ Citizen Science GIS, a 2017 Esri Special Achievement in GIS Award winner (one of
 
 
 ## [Open Source Geospatial Foundation (OSGeo)](https://grass.osgeo.org/)
-I am in the developer team of GRASS7 for satellite image segmentation module (i.segment). GRASS GIS, commonly referred to as GRASS (Geographic Resources Analysis Support System), is a free and open source Geographic Information System (GIS) software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+ GRASS GIS, often known as GRASS (Geographic Resources Analysis Support System), is a free and open-source Geographic Information System (GIS) software suite employed for geospatial data management, analysis, image processing, graphics and map production, spatial modeling, and visualization. We have partnered with the developer team of GRASS 7 for the satellite image segmentation module (i.segment).
 <img align="center" width="720" src="/assets/images/grass-gis.png">
