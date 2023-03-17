@@ -9,7 +9,7 @@ sidebar:
 ---
 
 ## [Spatial Analytics and Visualization (SAVI) Center](https://www.sjsu.edu/savi-urbp/index.php)
-The SAVi Center at SJSU uses the power of geography and Geographic Information Science to produce impactful research and professional services to serve our university departments, neighborhood organizations, public agencies and private sector entities in Silicon Valley and the Bay Area.
+The SAVi Center at San Jose State University engages in research, education, and industry collaboration. The center focuses on urban planning, high-tech zones, economic geography, remote sensing, machine learning, and AI algorithms. Utilizing the strengths of geography and Geographic Information Science, the SAVi Center generates influential research and professional services to support university departments, local community organizations, public agencies, and private sector entities throughout Silicon Valley and the Bay Area.
 
 ## [SJSU NSF Industry-University Cooperative Wildfire Interdisciplinary Research Center (WIRC)](https://www.sjsu.edu/wildfire/)
 National Science Foundation IUCRC at San Jose State University, concentrates on comprehensive wildfire research to enhance understanding and management globally. Our interdisciplinary team explores physical and social aspects of wildfire science, striving to deliver impactful findings and improved tools and policies for communities and industry stakeholders worldwide.

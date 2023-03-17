@@ -16,7 +16,7 @@ feature_row_team1:
     excerpt: "Graduate Research Assistant and Remote Sensing Lead"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Melanie Morales"
-    excerpt: "Graduate Research Assistant Lab Logistics Coordinator"
+    excerpt: "Graduate Research Assistant and Lab Logistics Coordinator"
 
 feature_row_team2:
   - image_path: /assets/images/bio-photo-2.jpg
