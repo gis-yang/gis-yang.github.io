@@ -3,6 +3,7 @@ layout: archive
 title: "Facilities"
 permalink: /facilities/
 author_profile: false
+classes: wide
 sidebar:
   nav: "docs"
 ---
