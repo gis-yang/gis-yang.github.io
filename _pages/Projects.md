@@ -21,6 +21,62 @@ feature_row_dronewildfire:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+feature_row_FL:
+  - image_path: /assets/images/FL.jpg
+    title: "Drone mapping the Florida Coastal"
+    excerpt: "Field trials of the multispectral UAV mapping were conducted over the Indian River Lagoon along the central Atlantic coast of Florida with Ground Control Points (GCPs), allowing for comparison to geo-referenced satellite and aerial imagery. Multi-spectral satellite imagery (Sentinel-2) was also obtained for the same region to map land cover. NDVI and object-oriented classification methods were employed to compare the mapping capabilities of UAVs and satellites."
+    url: "https://www.mdpi.com/2504-446X/3/3/60"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_right:
+  - image_path: /assets/images/Image_20230301103055.jpg
+    title: "Urban Heat and Urban Transporation"
+    excerpt: "We use thermal remote sensing and the urban heat budget to isolate and quantify the transportation impact on urban heat and climate change."
+    url: "https://www.nature.com/articles/s43247-022-00427-4"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_left2:
+  - image_path: /assets/images/CK_cloud.jpg
+    title: "Crime Prediction and Spatial Statistics"
+    excerpt: "We develop a novel geostatistical technique to integrate historical crime data and urban transitional zones identified from the VIIRS nightlight imagery for more accurate crime prediction."
+    url: "https://github.com/gis-yang/Crime-prediction"
+    btn_label: "Codes"
+    btn_class: "btn--primary"
+
+feature_row_right2:
+  - image_path: /assets/images/gis_Copy.png
+    title: "ST-Cokriging and Image Fusion/Assimilation"
+    excerpt: "We develop a spatio-temporal Cokriging (ST-Cokriging) method for assimilating multi-sensor remote sensing data that optimally determines parameters by accounting for spatio-temporal covariance. This method yields more reliable assimilation results than previous methods, effectively filling data gaps while providing quantitative uncertainty estimates."
+    url: "https://www.sciencedirect.com/science/article/pii/S0034425720305630?via%3Dihub"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_Africa:
+  - image_path: /assets/images/Joe.png
+    title: "Mapping Joe minters Afirican American Village"
+    excerpt: "The application of advanced technology to document and preserve an art installation demonstrated through the mapping and digital documentation of artist Joe Minter work. Minter, a found-object artist in Birmingham, has constructed a collection entitled African Village in America around his home in Birmingham, Alabama, which narrates his life story and cultural movement. Previously, visitors were required to view the monumental environment in person, but the digital rendering will make it accessible to a wider audience"
+    url: "https://1drv.ms/v/s!AqgbJT_jEQK6u718KNT3i33eCxSdtQ?e=p4I4Eh"
+    btn_label: "Drone Visualization Video"
+    btn_class: "btn--primary"
+
+feature_row_BMP:
+  - image_path: /assets/images/BMP.png
+    title: "Drone for Hydological BML Management"
+    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
+    url: "http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_Serpent:
+  - image_path: /assets/images/Serpent.png
+    title: "Drone Mapping the OH Serpent Mound"
+    excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
+    url: "https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383"
+    btn_label: "Video Record"
+    btn_class: "btn--primary"
+
 feature_row_dronetraining:
   - image_path: /assets/images/Drone_Training.png
     title: "Open Access Drone Course"
@@ -90,6 +146,20 @@ feature_row_right2:
 
 {% include feature_row id="feature_row_dronewildfire" type="left" %}
 
+{% include feature_row id="feature_row_FL" type="left" %}
+
+{% include feature_row id="feature_row_right" type="right" %}
+
+{% include feature_row id="feature_row_left2" type="left" %}
+
+{% include feature_row id="feature_row_right2" type="right" %}
+
+{% include feature_row id="feature_row_Africa" type="left" %}
+
+{% include feature_row id="feature_row_BMP" type="left" %}
+
+{% include feature_row id="feature_row_Serpent" type="left" %}
+
 {% include feature_row id="feature_row_workshops" type="left" %}
 
 {% include feature_row id="feature_row_RET" type="left" %}
@@ -103,15 +173,6 @@ feature_row_right2:
 {% include feature_row id="feature_row_right2" type="left" %}
 
 
-## [Geospatial data science & machine learning for environmental science](https://github.com/gis-yang/Crime-prediction)
-
-For my doctoral dissertation, I developed and implemented a novel geo-statistical method that used to assimilate multi-scale data sets with different temporal sampling frequencies and different spatial densities. The algorithm has been made available in Python and ArcGIS packages with a user-friendly interface. High-performance computing on supercomputer and parallel computing are utilized to enhance the efficiency of the algorithm.
-<img align="center" width="720" src="/images/CK_cloud.jpg">
- 
-
-## [K12 outreach, participatory GIS research, and Citizen Science](http://www.citizensciencegis.org/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant/?preview_id=4979&preview_nonce=b4d097d0f3&preview=true&_thumbnail_id=4982)
-I am co-leading the NSF RET project to build mutually rewarding partnerships with K-12 science teachers to transfer teachers’ experience in cutting edge research to the broader impact content in the classroom. Iwork with teachers participating fieldworks and developing science lessons using fieldwork data and drone mapping principles to support inquiry-based learning with students.
-<img align="center" width="720" src="/images/sandbox.jpg">
 
 
 

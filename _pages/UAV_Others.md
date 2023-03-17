@@ -37,7 +37,6 @@ feature_row_Serpent:
     btn_label: "Video Record"
     btn_class: "btn--primary"
 
-
 ---
 
 {% include feature_row id="feature_row_FL" type="left" %}
