@@ -11,18 +11,18 @@ feature_row_team1:
     excerpt: "Principal Investigator"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Owen Hussey"
-    excerpt: "Remote Sensing Lead"
+    excerpt: "Graduate Research Assistant and Remote Sensing Lead"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Melanie Morales"
-    excerpt: "Lab Logistics Coordinator"
+    excerpt: "Graduate Research Assistant Lab Logistics Coordinator"
 
 feature_row_team2:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Xiangyu Ren"
-    excerpt: "Spatial Data Scientist"
+    excerpt: "Graduate Research Assistant and GIS developer"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Jessica Reimann"
-    excerpt: "Undergraduate Research Assistant"
+    excerpt: "REU Research Assistant"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Tou In Kwan"
     excerpt: "Graduate Research Assistant"
@@ -33,7 +33,7 @@ feature_row_team3:
     excerpt: "Drone Remote Sensing Specialist"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "My-Thu Tran"
-    excerpt: "To be added the team meber"
+    excerpt: "Graduate Research Assistant"
 
 ---
 {% include feature_row id="feature_row_team1" %}
