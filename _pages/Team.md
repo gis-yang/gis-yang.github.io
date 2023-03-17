@@ -8,7 +8,7 @@ classes: wide
 feature_row_team1:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Dr. Bo Yang"
-    excerpt: "Director of Geofly Lab"
+    excerpt: "Principal Investigator"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Owen Hussey"
     excerpt: "Remote Sensing Lead"
