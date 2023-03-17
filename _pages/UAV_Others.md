@@ -16,7 +16,7 @@ feature_row_FL:
 feature_row_Africa:
   - image_path: /assets/images/Joe.png
     title: "Mapping Joe minters Afirican American Village"
-    excerpt: "The application of advanced technology to document and preserve an art installation will be demonstrated through the mapping and digital documentation of artist Joe Minter's work. Minter, a found-object artist in Birmingham, has constructed a collection entitled 'African Village in America' around his home in Birmingham, Alabama, which narrates his life story and cultural movement. With the University of Alabama's expertise in geographic imaging, art curation, digital cataloguing, and art history, a digital rendering is being created to provide immediate access to the artist's site-specific presentation of found-object sculptures for scholars and the public. Previously, visitors were required to view the monumental environment in person, but the digital rendering will make it accessible to a wider audience"
+    excerpt: "The application of advanced technology to document and preserve an art installation will be demonstrated through the mapping and digital documentation of artist Joe Minter's work. Minter, a found-object artist in Birmingham, has constructed a collection entitled 'African Village in America' around his home in Birmingham, Alabama, which narrates his life story and cultural movement. Previously, visitors were required to view the monumental environment in person, but the digital rendering will make it accessible to a wider audience"
     url: "https://1drv.ms/v/s!AqgbJT_jEQK6u718KNT3i33eCxSdtQ?e=p4I4Eh"
     btn_label: "View on GitHub"
     btn_class: "btn--primary"
