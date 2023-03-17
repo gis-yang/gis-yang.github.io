@@ -73,8 +73,8 @@ feature_row_Serpent:
   - image_path: /assets/images/Serpent.png
     title: "Drone Mapping the OH Serpent Mound"
     excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
-    url: "https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383"
-    btn_label: "Video Record"
+    url: "https://drive.google.com/open?id=1htKxPFb6LkoI8W-gXRmvGRavPibIApvq&authuser=bo.yang02%40sjsu.edu&usp=drive_fs"
+    btn_label: "View Data"
     btn_class: "btn--primary"
 
 feature_row_dronetraining:
