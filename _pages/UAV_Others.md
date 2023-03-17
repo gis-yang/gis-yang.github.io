@@ -18,7 +18,7 @@ feature_row_Africa:
     title: "Mapping Joe minters Afirican American Village"
     excerpt: "The application of advanced technology to document and preserve an art installation demonstrated through the mapping and digital documentation of artist Joe Minter work. Minter, a found-object artist in Birmingham, has constructed a collection entitled African Village in America around his home in Birmingham, Alabama, which narrates his life story and cultural movement. Previously, visitors were required to view the monumental environment in person, but the digital rendering will make it accessible to a wider audience"
     url: "https://1drv.ms/v/s!AqgbJT_jEQK6u718KNT3i33eCxSdtQ?e=p4I4Eh"
-    btn_label: "View on GitHub"
+    btn_label: "Drone Visualization Video"
     btn_class: "btn--primary"
 
 feature_row_BMP:
