@@ -21,11 +21,41 @@ feature_row_Africa:
     btn_label: "View on GitHub"
     btn_class: "btn--primary"
 
+feature_row_BMP:
+  - image_path: /assets/images/BMP.png
+    title: "Drone for Hydological BML Management"
+    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
+    url: "http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_Serpent:
+  - image_path: /assets/images/Serpent.png
+    title: "Drone Mapping the OH Serpent Mound"
+    excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
+    url: "https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383"
+    btn_label: "Video Record"
+    btn_class: "btn--primary"
+
+feature_row_Club:
+  - image_path: /assets/images/IMG_1462.jpeg
+    title: "SJSU GIS and Drone society"
+    excerpt: "The SJSU GIS and Drone Society (formerly the GIS Club) welcomes individuals from all majors. The society comprises people with a shared interest in staying abreast of the latest developments in geography, from gaining a deeper understanding of GIS to exploring the potential of drones. Throughout the semester, we organize various activities, including touring San Jose as a group, participating in study sessions to support each other, and engaging in fun activities."
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSckqZqSM6gefLt8d5iLDeQKq03pmbF2PAB6B1HSBe08jmObXg/viewform"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row_FL" type="left" %}
 
 {% include feature_row id="feature_row_Africa" type="right" %}
+
+{% include feature_row id="feature_row_BMP" type="left" %}
+
+{% include feature_row id="feature_row_Serpent" type="right" %}
+
+{% include feature_row id="feature_row_Club" type="left" %}
+
 
 
 
