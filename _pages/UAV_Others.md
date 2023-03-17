@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "UAV Others"
-permalink: /UAV_others/
+permalink: /UAV_other/
 author_profile: False
 classes: wide
 
