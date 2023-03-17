@@ -4,6 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: False
 classes: wide
+sidebar:
+  nav: "docs"
 
 feature_row_droneseagrass:
   - image_path: /assets/images/AK_eelgrass.jpg
