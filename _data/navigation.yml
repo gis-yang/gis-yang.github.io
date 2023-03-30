@@ -60,8 +60,6 @@ docs:
     children:
       - title: "Google Scholar"
         url: "https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en"
-      - title: "SJSU Page"
-        url: "https://www.sjsu.edu/people/bo.yang/"
       - title: "GitHub"
         url: "https://github.com/gis-yang?tab=repositories"
       - title: "Twitter"
