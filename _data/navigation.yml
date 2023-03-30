@@ -55,3 +55,18 @@ docs:
         url: /gallery/
       - title: "News"
         url: /news/
+
+  - title: Links
+    children:
+      - title: "Google Scholar"
+        url: "https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en"
+      - title: "SJSU Page"
+        url: "https://www.sjsu.edu/people/bo.yang/"
+      - title: "GitHub"
+        url: "https://github.com/gis-yang?tab=repositories"
+      - title: "Twitter"
+        url: "https://twitter.com/BoYangGeo"
+      - title: "Linkedin"
+        url: "https://www.linkedin.com/in/gisboyang/"
+      - title: "ORCID"
+        url: "https://orcid.org/0000-0001-7439-192X"       
