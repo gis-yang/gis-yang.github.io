@@ -70,22 +70,14 @@ feature_row_Drones3:
 feature_row_ground:
   - image_path: /assets/images/Trimble.png
     title: "Trimble GNSS"
-    excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
-    url: /UAV_seagrass/
-    btn_label: "Specs"
-    btn_class: "btn--primary"
+    excerpt: "high-performance and compact GNSS receiver for high-quality, location-based data collection and management"
   - image_path: /assets/images/ASD.png
     title: "Field Spectroradiometer"
-    excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
-    url: /UAV_wildfire/
-    btn_label: "Specs"
-    btn_class: "btn--primary"
+    excerpt: "High-performance instrument captures precise spectral data across a wide wavelength range"
   - image_path: /assets/images/YSI.png
     title: "YSI water sonde"
-    excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
-    url: /UAV_edu/
-    btn_label: "Specs"
-    btn_class: "btn--primary"
+    excerpt: "This advanced multi-parameter instrument measures key water quality parameters such as temperature, conductivity, dissolved oxygen, pH, turbidity, and more"
+
 
 ---
 {% include feature_row id="feature_row_Drones1" %}
