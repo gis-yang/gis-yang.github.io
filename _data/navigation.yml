@@ -37,7 +37,7 @@ docs:
       - title: "Open access Drone course"
         url: "https://gis-yang.github.io/DroneMapping/"
       - title: "Facilities"
-         url: /facilities/
+        url: /facilities/
       - title: "Teaching"
         url: /teaching/
 
