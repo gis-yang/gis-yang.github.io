@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Facilities"
+layout: single
+title: "GeoFly lab facilities and insturments"
 permalink: /facilities/
 author_profile: false
 classes: wide
@@ -67,19 +67,13 @@ feature_row_ground:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
-contact: 
-  - excerpt: 'Facilates and Instruments at Geofly Lab'
-
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row_Drones1 %}
-
 {% include feature_row_Drones2 %}
-
 {% include feature_row_ground %}
+
+
 
 
 
