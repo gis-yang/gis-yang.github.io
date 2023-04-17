@@ -68,10 +68,10 @@ feature_row_ground:
     btn_class: "btn--primary"
 
 ---
+{% include feature_row id="feature_row_Drones1" %}
+{% include feature_row id="feature_row_Drones2" %}
+{% include feature_row id="feature_row_ground" %}
 
-{% include feature_row_Drones1 %}
-{% include feature_row_Drones2 %}
-{% include feature_row_ground %}
 
 
 
