@@ -10,20 +10,20 @@ sidebar:
 feature_row_Drones1:
   - image_path: /assets/images/Inspire2.png
     title: "Inspire 2"
-    excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
-    url: /UAV_seagrass/
+    excerpt: "Multispectral drone platform with intelligent flight features. 27 minutes flight time"
+    url: "https://www.dji.com/inspire-2/info"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/M200.png
-    title: "Mattrice 200"
-    excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
-    url: /UAV_wildfire/
+    title: "Matrice 200"
+    excerpt: "Versatile and rugged thermal drone platform supports multiple payload configurations. 38 minutes flight time"
+    url: "https://www.dji.com/matrice-200-series/info"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/M300RTK.png
-    title: "Mattrice 300 RTK"
-    excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
-    url: /UAV_edu/
+    title: "Matrice 300 RTK"
+    excerpt: "state-of-the-art industrial drone solution with LiDAR/RGB aerial mapping capabilities. 55-minute maximum flight time"
+    url: "https://www.dji.com/matrice-300/specs"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
