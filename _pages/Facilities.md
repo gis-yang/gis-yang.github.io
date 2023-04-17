@@ -30,40 +30,40 @@ feature_row_Drones1:
 feature_row_Drones2:
   - image_path: /assets/images/P4P.png
     title: "DJI phantom IV Pro"
-    excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
-    url: /UAV_seagrass/
+    excerpt: "Aerial photography and videography drone designed to capture stunning images and breathtaking footage"
+    url: "https://www.dji.com/phantom-4-pro/info"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Mavic3.png
     title: "DJI Mavic 3"
-    excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
-    url: /UAV_wildfire/
+    excerpt: "Dual-camera foldable drones that takes aerial photography and videography to new heights"
+    url: "https://www.dji.com/mavic-3/specs"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/MiniSE.png
     title: "DJI MINI SE"
-    excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
-    url: /UAV_edu/
+    excerpt: "Weighing just 249 grams a perfect entry point for beginners and educationnal use alike."
+    url: "https://www.dji.com/mini-se/specs"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row_Drones3:
   - image_path: /assets/images/10band.png
     title: "Micasense 10band Dual Sensor"
-    excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
-    url: /UAV_seagrass/
+    excerpt: "This advanced sensor system combines two powerful 5-band sensors, capturing high-resolution imagery across ten spectral bands, including visible light, near-infrared, and red edge. "
+    url: "https://support.micasense.com/hc/en-us/articles/360037369993-RedEdge-MX-Dual-Camera-System-Integration-Guide"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Thermal.png
     title: "Zenmuse H20T Thermal Sensor"
-    excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
-    url: /UAV_wildfire/
+    excerpt: "thermal sensor provides precise temperature measurements to identify heat signatures and monitor infrastructure efficiently. "
+    url: "https://www.dji.com/zenmuse-h20-series/specs"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/LiDAR.png
     title: "Zenmuse L1 LiDAR Sensor"
-    excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
-    url: /UAV_edu/
+    excerpt: "Advanced Livox LiDAR technology captures up to 240,000 points per second, enabling the generation of accurate, high-density point clouds for forestry and infrastructure inspection"
+    url: "https://www.dji.com/zenmuse-l1/specs"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
