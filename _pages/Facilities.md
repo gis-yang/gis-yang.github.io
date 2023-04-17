@@ -9,19 +9,19 @@ sidebar:
 
 feature_row_Drones1:
   - image_path: /assets/images/AK_Seagrass2.png
-    title: "Coastal Ecosystem Monitor"
+    title: "Inspire 2"
     excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
     url: /UAV_seagrass/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Wildfire1.PNG
-    title: "Wildfire Mapping"
+    title: "Mattrice 200"
     excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
     url: /UAV_wildfire/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Drone_Edu.jpg
-    title: "Drone for Education"
+    title: "Mattrice 300 RTK"
     excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
     url: /UAV_edu/
     btn_label: "Read More"
@@ -29,19 +29,19 @@ feature_row_Drones1:
 
 feature_row_Drones2:
   - image_path: /assets/images/AK_Seagrass2.png
-    title: "Coastal Ecosystem Monitor"
+    title: "DJI phantom IV Pro"
     excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
     url: /UAV_seagrass/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Wildfire1.PNG
-    title: "Wildfire Mapping"
+    title: "DJI Mavic 3"
     excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
     url: /UAV_wildfire/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Drone_Edu.jpg
-    title: "Drone for Education"
+    title: "DJI MINI"
     excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
     url: /UAV_edu/
     btn_label: "Read More"
@@ -49,19 +49,19 @@ feature_row_Drones2:
 
 feature_row_ground:
   - image_path: /assets/images/AK_Seagrass2.png
-    title: "Coastal Ecosystem Monitor"
+    title: "Trimble GNSS"
     excerpt: "Collaborative research using UAV to investigate eelgrass wasting disease"
     url: /UAV_seagrass/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Wildfire1.PNG
-    title: "Wildfire Mapping"
+    title: "Field Spectroradiometer"
     excerpt: "Use multi-sensor remote sensing and drone mapping for modeling California wildfires"
     url: /UAV_wildfire/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Drone_Edu.jpg
-    title: "Drone for Education"
+    title: "YSI water sonde"
     excerpt: "Empower STEM education with drones and GIS - Inspiring the next generation of scientists"
     url: /UAV_edu/
     btn_label: "Read More"
