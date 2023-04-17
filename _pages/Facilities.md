@@ -56,7 +56,7 @@ feature_row_Drones3:
     btn_class: "btn--primary"
   - image_path: /assets/images/Thermal.png
     title: "Zenmuse H20T Thermal Sensor"
-    excerpt: "thermal sensor provides precise temperature measurements to identify heat signatures and monitor infrastructure efficiently. "
+    excerpt: "Thermal sensor provides precise temperature measurements to identify heat signatures and monitor infrastructure efficiently. "
     url: "https://www.dji.com/zenmuse-h20-series/specs"
     btn_label: "Specs"
     btn_class: "btn--primary"
