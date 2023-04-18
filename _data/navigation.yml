@@ -5,7 +5,7 @@ main:
     url: /publications/
   - title: "Resources"
     url: /resources/
-  - title: "Facilities"
+  - title: "Instruments"
     url: /facilities/
   - title: "Team"
     url: /team/
@@ -43,7 +43,7 @@ docs:
 
   - title: About
     children:
-      - title: "Facilities"
+      - title: "Instruments"
         url: /facilities/
       - title: "Team"
         url: /team/

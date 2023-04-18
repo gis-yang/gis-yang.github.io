@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "GeoFly lab facilities and insturments"
+title: "GeoFly lab instruments"
 permalink: /facilities/
 author_profile: false
 classes: wide
