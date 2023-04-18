@@ -36,23 +36,17 @@ docs:
         url: /UAV_edu/
       - title: "Open drone course"
         url: "https://gis-yang.github.io/DroneMapping/"
-      - title: "Facilities"
-        url: /facilities/
+      - title: "Resources"
+        url: /resources/
       - title: "Teaching"
         url: /teaching/
-
 
   - title: About
     children:
       - title: "Facilities"
         url: /facilities/
-      - title: "Resources"
-        url: /resources/
       - title: "Team"
         url: /team/
-
-  - title: Posts
-    children:
       - title: "Gallery"
         url: /gallery/
       - title: "News"
