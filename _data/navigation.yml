@@ -19,13 +19,13 @@ docs:
     children:
       - title: "Publications"
         url: /publications/
-      - title: "UAV coastal remote sensing"
+      - title: "Coastal Ecosystem"
         url: /UAV_seagrass/
-      - title: "Wildfire mapping and modeling"
+      - title: "Wildfire Mapping"
         url: /UAV_wildfire/
-      - title: "Urban Crime Prediction"
+      - title: "Crime Prediction"
         url: "https://github.com/gis-yang/Crime-prediction"
-      - title: "ST-Cokriging Algorithm"
+      - title: "ST-Cokriging"
         url: "https://www.sciencedirect.com/science/article/abs/pii/S0034425720305630?via%3Dihub"
       - title: "All projects"
         url: /projects/
@@ -34,7 +34,7 @@ docs:
     children:
       - title: "Drone for education"
         url: /UAV_edu/
-      - title: "Open access Drone course"
+      - title: "Open drone course"
         url: "https://gis-yang.github.io/DroneMapping/"
       - title: "Facilities"
         url: /facilities/
@@ -48,7 +48,7 @@ docs:
         url: /facilities/
       - title: "Resources"
         url: /resources/
-      - title: "Science team"
+      - title: "Team"
         url: /team/
 
   - title: Posts
