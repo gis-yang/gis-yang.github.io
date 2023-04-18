@@ -26,7 +26,7 @@ feature_row_Africa:
 feature_row_BMP:
   - image_path: /assets/images/BMP.png
     title: "Drone for Hydological BML Management"
-    excerpt: "SAVI's drone workshop covers several aspects, including assessing participants and providing training in drone operations, preparing, planning, and realizing flights, discussing airspace regulations, processing and analyzing imagery, and managing data. Trainees are assigned self-study tutorials to promote continued learning for drone mapping. The training program consists of five sections that are implemented in the field and a post-training self-study guide to prepare participants for the FAA Part 107 examination. (Free for SJSU students)"
+    excerpt: "This study aims to show the benefits of using higher resolution images in Best Management Practices (BMPs) analysis. A drone was used to collect better surface and elevation data, provided more accurate information about the study area, better watershed outlines, a more comprehensive list of suitable BMP locations, and a more reliable cost-effectiveness estimate than using low-resolution data. The study also determined how effective the chosen BMPs would be under future climate changes and identified the best BMPs for reducing urban runoff. "
     url: "http://www.jeionline.org/index.php?journal=mys&page=article&op=view&path%5B%5D=202000433"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -34,7 +34,7 @@ feature_row_BMP:
 feature_row_Serpent:
   - image_path: /assets/images/Serpent.png
     title: "Drone Mapping the OH Serpent Mound"
-    excerpt: "mutually rewarding partnerships with K-12 science teachers, transferring their experience in cutting-edge research to classroom content with broader impacts. I collaborate with teachers during fieldwork activities and assist in developing science lessons that utilize fieldwork data and drone mapping principles to promote inquiry-based learning with students."
+    excerpt: "The Serpent Mound is an ancient and fascinating archaeological site located in Adams County, Ohio, USA. The mound is thought to have been built by the Adena culture (800 BCE – 100 CE) or the Fort Ancient culture (1000-1750 CE), though its exact origins are still debated among researchers. Drone mapping has been used to capture a bird's-eye view of the Serpent Mound, which is believed to have served as a sacred space for various ceremonial and spiritual purposes, possibly linked to astronomical events such as the summer solstice, winter solstice, and equinoxes."
     url: "https://drive.google.com/open?id=1htKxPFb6LkoI8W-gXRmvGRavPibIApvq&authuser=bo.yang02%40sjsu.edu&usp=drive_fs"
     btn_label: "View Data"
     btn_class: "btn--primary"
