@@ -81,8 +81,8 @@ feature_row_ground:
 
 ---
 {% include feature_row id="feature_row_Drones1" %}
-{% include feature_row id="feature_row_Drones2" %}
 {% include feature_row id="feature_row_Drones3" %}
+{% include feature_row id="feature_row_Drones2" %}
 {% include feature_row id="feature_row_ground" %}
 
 
