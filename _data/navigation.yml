@@ -19,11 +19,11 @@ docs:
     children:
       - title: "Publications"
         url: /publications/
-      - title: "Coastal Ecosystem"
+      - title: "Coastal ecosystem"
         url: /UAV_seagrass/
-      - title: "Wildfire Mapping"
+      - title: "California wildfire"
         url: /UAV_wildfire/
-      - title: "Crime Prediction"
+      - title: "Crime prediction"
         url: "https://github.com/gis-yang/Crime-prediction"
       - title: "ST-Cokriging"
         url: "https://www.sciencedirect.com/science/article/abs/pii/S0034425720305630?via%3Dihub"
