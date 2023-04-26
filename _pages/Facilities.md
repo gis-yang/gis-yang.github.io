@@ -1,14 +1,22 @@
 ---
 layout: single
-title: "GeoFly lab instruments"
+title: "GeoFly lab facilities and instruments"
 permalink: /facilities/
 author_profile: false
 classes: wide
 sidebar:
   nav: "docs"
 
+feature_row_left:
+  - image_path: /assets/images/Lab113.jpg
+    title: "Geo-spatial lab at Washinton Square Hall"
+    excerpt: "Browse more drone mapping projects, including mapping of an African American village, the Florida coastal area, hydrology BMP management, and the Serpent Mound archaeological site."
+    url: "https://goo.gl/maps/kZJh1BBCTnP2ahpP8"
+    btn_label: "Lab Location"
+    btn_class: "btn--primary"
+
 feature_row_Drones1:
-  - image_path: /assets/images/Inspire2.png
+  - image_path: /assets/images/Drone3.jpg
     title: "Inspire 2"
     excerpt: "Multispectral drone platform with intelligent flight features. 27 minutes flight time"
     url: "https://www.dji.com/inspire-2/info"
@@ -80,6 +88,7 @@ feature_row_ground:
 
 
 ---
+{% include feature_row id="feature_row_left" type="left" %}
 {% include feature_row id="feature_row_Drones1" %}
 {% include feature_row id="feature_row_Drones3" %}
 {% include feature_row id="feature_row_Drones2" %}

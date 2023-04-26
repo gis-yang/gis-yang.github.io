@@ -43,7 +43,7 @@ docs:
 
   - title: About
     children:
-      - title: "Instruments"
+      - title: "Facilities"
         url: /facilities/
       - title: "Team"
         url: /team/
