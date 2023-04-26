@@ -10,10 +10,11 @@ sidebar:
 feature_row_left:
   - image_path: /assets/images/Lab113.jpg
     title: "SJSU Geo-spatial lab "
-    excerpt: "Browse more drone mapping projects, including mapping of an African American village, the Florida coastal area, hydrology BMP management, and the Serpent Mound archaeological site."
+    excerpt: "30 high performance computers with SSD storage, projector, and etc "
     url: "https://goo.gl/maps/kZJh1BBCTnP2ahpP8"
     btn_label: "Washington Square Hall"
     btn_class: "btn--primary"
+excerpt: "software avlabible at SJSU geoFly lab include ArcGIS Pro, Erdas, Esri Drone2Map..."
 
 feature_row_Drones1:
   - image_path: /assets/images/Drone3.jpg
