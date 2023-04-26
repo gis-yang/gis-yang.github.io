@@ -10,11 +10,13 @@ sidebar:
 feature_row_left:
   - image_path: /assets/images/Lab113.jpg
     title: "SJSU Geo-spatial lab "
-    excerpt: "30 high performance computers with SSD storage, projector, and etc "
+    excerpt: "The SJSU geo-spatial lab is a cutting-edge facility that offers advanced technology to students and faculty. It features 30 high-performance computers with SSD storage, larger memory, and high-end video cards with CUDA parallel computing ability. Dual-monitoring screens and high-resolution projectors enhance the visual experience, and the lab also has a seminar room and student lounge for collaborative learning. With more exciting features in the pipeline, such as an augmented reality contour map sandbox, geo-visualization wall, and map galleries."
     url: "https://goo.gl/maps/kZJh1BBCTnP2ahpP8"
     btn_label: "Washington Square Hall"
     btn_class: "btn--primary"
-excerpt: "software avlabible at SJSU geoFly lab include ArcGIS Pro, Erdas, Esri Drone2Map..."
+
+intro: 
+  - excerpt: 'The SJSU geo-spatial lab is an innovative facility that provides students and research partners with access to the latest geospatial technology tools. With full licenses for ArcGIS Pro, Esri Drone2Map, remote sensing software packages like ERDAS and ENVI, as well as MS Office Suite and statistical analysis packages, the lab offers a comprehensive suite of software to support geospatial analysis, modeling, and visualization. Students and researchers can explore and analyze complex geospatial data with ease, while developing the skills necessary to thrive in the geospatial technology field. '
 
 feature_row_Drones1:
   - image_path: /assets/images/Drone3.jpg
@@ -90,6 +92,7 @@ feature_row_ground:
 
 ---
 {% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_Drones1" %}
 {% include feature_row id="feature_row_Drones3" %}
 {% include feature_row id="feature_row_Drones2" %}
