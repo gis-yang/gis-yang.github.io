@@ -9,10 +9,10 @@ sidebar:
 
 feature_row_left:
   - image_path: /assets/images/Lab113.jpg
-    title: "Geo-spatial lab at Washinton Square Hall"
+    title: "SJSU Geo-spatial lab "
     excerpt: "Browse more drone mapping projects, including mapping of an African American village, the Florida coastal area, hydrology BMP management, and the Serpent Mound archaeological site."
     url: "https://goo.gl/maps/kZJh1BBCTnP2ahpP8"
-    btn_label: "Lab Location"
+    btn_label: "Washington Square Hall"
     btn_class: "btn--primary"
 
 feature_row_Drones1:
