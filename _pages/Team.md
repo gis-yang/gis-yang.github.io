@@ -27,7 +27,7 @@ feature_row_team2:
     excerpt: "Graduate Research Assistant and Aerial Data Analyst"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Jessica Reimann"
-    excerpt: "REU Research Assistant"
+    excerpt: "NSF REU Research Assistant"
 
 feature_row_team3:
   - image_path: /assets/images/Bryan.png
