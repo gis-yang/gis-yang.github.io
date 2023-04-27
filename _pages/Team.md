@@ -16,18 +16,18 @@ feature_row_team1:
     excerpt: "Graduate Research Assistant and Remote Sensing Lead"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Melanie Morales"
-    excerpt: "Graduate Research Assistant and Lab Logistics Coordinator"
+    excerpt: "Graduate Research Assistant and Lab Assistant Coordinator"
 
 feature_row_team2:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Xiangyu Ren"
-    excerpt: "Graduate Research Assistant and GIS developer"
+    excerpt: "Graduate Research Assistant and GIS Developer"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Jessica Reimann"
     excerpt: "REU Research Assistant"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Tou In Kwan"
-    excerpt: "Graduate Research Assistant"
+    excerpt: "Graduate Research Assistant and GIS analyst"
 
 feature_row_team3:
   - image_path: /assets/images/bio-photo-2.jpg
