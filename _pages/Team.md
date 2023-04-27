@@ -29,9 +29,6 @@ feature_row_team2:
     title: "Tou In Kwan"
     excerpt: "Graduate Research Assistant and Aerial Data Analyst"
 
-Alumni: 
-  - excerpt: 'Lab Alumni'
-
 feature_row_team3:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Bryan Malone"
@@ -43,7 +40,7 @@ feature_row_team3:
 ---
 {% include feature_row id="feature_row_team1" %}
 {% include feature_row id="feature_row_team2" %}
-{% include feature_row id="Alumni" type="center" %}
+## Lab Alumni
 {% include feature_row id="feature_row_team3" %}
 
 
