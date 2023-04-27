@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 
 feature_row_team1:
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/bio-photo.jpg
     title: "Dr. Bo Yang"
     excerpt: "Assistant Professor and Principal Investigator"
   - image_path: /assets/images/bio-photo-2.jpg
@@ -30,7 +30,7 @@ feature_row_team2:
     excerpt: "REU Research Assistant"
 
 feature_row_team3:
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/Bryan.png
     title: "Bryan Malone"
     excerpt: "Foothill College"
   - image_path: /assets/images/bio-photo-2.jpg
