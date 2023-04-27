@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Our Amazing Science Team"
+title: "Geo-Fly Science Team"
 permalink: /team/
 author_profile: False
 classes: wide
