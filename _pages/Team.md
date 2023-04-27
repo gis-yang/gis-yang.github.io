@@ -32,10 +32,10 @@ feature_row_team2:
 feature_row_team3:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Bryan Malone"
-    excerpt: "Drone Remote Sensing Specialist"
+    excerpt: "Foothill College"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "My-Thu Tran"
-    excerpt: "Graduate Research Assistant"
+    excerpt: "PhD in SDSU and UCSB"
 
 ---
 {% include feature_row id="feature_row_team1" %}
