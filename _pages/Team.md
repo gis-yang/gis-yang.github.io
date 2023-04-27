@@ -33,7 +33,7 @@ feature_row_team3:
   - image_path: /assets/images/Bryan.png
     title: "Bryan Malone"
     excerpt: "Foothill College"
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/MyThuTran.jpg
     title: "My-Thu Tran"
     excerpt: "PhD in Geography joint program of SDSU & UCSB"
 
