@@ -35,7 +35,7 @@ feature_row_team3:
     excerpt: "Foothill College"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "My-Thu Tran"
-    excerpt: "PhD in SDSU and UCSB"
+    excerpt: "PhD in Geography joint program of SDSU & UCSB"
 
 ---
 {% include feature_row id="feature_row_team1" %}
