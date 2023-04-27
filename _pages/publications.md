@@ -11,7 +11,7 @@ sidebar:
 *2023:*
 * Yang, B., Hawthorne, T.L., Aoki, L.R., Beatty, D.S., Domke, L.K., Copeland, T., Eckert, G.L., Graham, O.J., Harper, L., Hessing-Lewis, M. Rappazzo, B., and Hovel, K.A., et al., (2023). Low-Altitude UAV Imaging Accurately Quantifies Eelgrass Wasting Disease from Alaska to California. *Geophysical Research Letters* [DOI: 10.1029/2022GL101985](https://doi.org/10.1029/2022GL101985)
 * Aoki, L.R., Yang,B., O.J. Graham, C. Gomes, B. Rappazzo, T.L. Hawthorne, J.E. Duffy, and D. Harvell. 2023. UAV high-resolution imaging and disease surveys combine to quantify climate-related decline in seagrass meadows. *Oceanography 36(Supplement 1)* [DOI:10.5670/oceanog.2023.s1.12](https://doi.org/10.5670/oceanog.2023.s1.12)
-Shu S, Yu O-Y, Schoonover C, Liu H, Yang B. (2023) Unmanned Aerial Vehicle-Based Structure from Motion Technique for Precise Snow Depth Retrieval—Implication for Optimal Ground Control Point Deployment Strategy. Remote Sensing. 15(9):2297. [DOI:10.3390/rs15092297](https://doi.org/10.3390/rs15092297)
+* Shu S, Yu O-Y, Schoonover C, Liu H, Yang B. (2023) Unmanned Aerial Vehicle-Based Structure from Motion Technique for Precise Snow Depth Retrieval—Implication for Optimal Ground Control Point Deployment Strategy. Remote Sensing. 15(9):2297. [DOI:10.3390/rs15092297](https://doi.org/10.3390/rs15092297)
 * Graham, O.J., Stephens, T., Rappazzo, B., Klohmann, C., Dayal, S., Adamczyk, E.M., Olson, A., Hessing-Lewis, M., Eisenlord, M., Yang, B., Burge, C., Gomes, C., Harvell, D., (2023) Deeper habitats and cooler temperatures moderate a climate-driven seagrass disease. *Phil. Trans. R. Soc. B* 378: 20220016 [DOI:10.1098/rstb.2022.0016](https://doi.org/10.1098/rstb.2022.0016)
 
 *2022:*
