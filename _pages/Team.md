@@ -23,11 +23,11 @@ feature_row_team2:
     title: "Xiangyu Ren"
     excerpt: "Graduate Research Assistant and GIS Developer"
   - image_path: /assets/images/bio-photo-2.jpg
-    title: "Jessica Reimann"
-    excerpt: "REU Research Assistant"
-  - image_path: /assets/images/bio-photo-2.jpg
     title: "Tou In Kwan"
     excerpt: "Graduate Research Assistant and Aerial Data Analyst"
+  - image_path: /assets/images/bio-photo-2.jpg
+    title: "Jessica Reimann"
+    excerpt: "REU Research Assistant"
 
 feature_row_team3:
   - image_path: /assets/images/bio-photo-2.jpg
