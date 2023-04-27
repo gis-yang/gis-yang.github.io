@@ -16,7 +16,7 @@ feature_row_team1:
     excerpt: "Graduate Research Assistant and Remote Sensing Lead"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Melanie Morales"
-    excerpt: "Graduate Research Assistant and Lab Assistant Coordinator"
+    excerpt: "Graduate Research Assistant and Lab Assistant Manager"
 
 feature_row_team2:
   - image_path: /assets/images/bio-photo-2.jpg
@@ -27,7 +27,10 @@ feature_row_team2:
     excerpt: "REU Research Assistant"
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Tou In Kwan"
-    excerpt: "Graduate Research Assistant and GIS analyst"
+    excerpt: "Graduate Research Assistant and Aerial Data Analyst"
+
+Alumni: 
+  - excerpt: 'Lab Alumni'
 
 feature_row_team3:
   - image_path: /assets/images/bio-photo-2.jpg
@@ -40,6 +43,7 @@ feature_row_team3:
 ---
 {% include feature_row id="feature_row_team1" %}
 {% include feature_row id="feature_row_team2" %}
+{% include feature_row id="Alumni" type="center" %}
 {% include feature_row id="feature_row_team3" %}
 
 
