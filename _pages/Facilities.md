@@ -16,7 +16,7 @@ feature_row_left:
     btn_class: "btn--primary"
 
 intro: 
-  - excerpt: 'The SJSU geo-spatial lab is an innovative facility that provides students and research partners with access to the latest geospatial technology tools. With full licenses for ArcGIS Pro, Esri Drone2Map, remote sensing software packages like ERDAS and ENVI, as well as MS Office Suite and statistical analysis packages, the lab offers a comprehensive suite of software to support geospatial analysis, modeling, and visualization. Students and researchers can explore and analyze complex geospatial data with ease, while developing the skills necessary to thrive in the geospatial technology field. '
+  - excerpt: 'The SJSU Geo-Spatial Lab is an innovative facility dedicated to providing students and research partners with access to cutting-edge geospatial technology tools. Equipped with full licenses for ArcGIS Pro, Esri Drone2Map, remote sensing software packages like ERDAS and ENVI, open access GIS systems such as QGIS and Google Earth Engine, as well as the MS Office Suite and statistical analysis packages, the lab offers a comprehensive suite of software to support geospatial analysis, modeling, and visualization.'
 
 feature_row_Drones1:
   - image_path: /assets/images/Drone3.jpg

@@ -22,7 +22,7 @@ feature_row_team2:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Xiangyu Ren"
     excerpt: "Graduate Research Assistant and GIS Developer"
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/Profile_Photo_Tou.jpg
     title: "Tou In Kwan"
     excerpt: "Graduate Research Assistant and Aerial Data Analyst"
   - image_path: /assets/images/bio-photo-2.jpg
