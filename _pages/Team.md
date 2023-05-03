@@ -11,7 +11,7 @@ feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
     title: "Dr. Bo Yang"
     excerpt: "Assistant Professor and Principal Investigator"
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/Owen.jpg
     title: "Owen Hussey"
     excerpt: "Graduate Research Assistant and Remote Sensing Lead"
   - image_path: /assets/images/bio-photo-2.jpg
