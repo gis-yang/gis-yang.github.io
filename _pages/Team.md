@@ -19,7 +19,7 @@ feature_row_team1:
     excerpt: "Graduate Research Assistant and Lab Assistant Manager"
 
 feature_row_team2:
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/Xiangyu.jpg
     title: "Xiangyu Ren"
     excerpt: "Graduate Research Assistant and GIS Developer"
   - image_path: /assets/images/Profile_Photo_Tou.jpg
