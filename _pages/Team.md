@@ -51,7 +51,7 @@ feature_row_START:
 feature_row_team3:
   - image_path: /assets/images/Bryan.png
     title: "Bryan Malone"
-    excerpt: "Foothill College"
+    excerpt: "Systems Analyst at Siemens Healthcare"
   - image_path: /assets/images/MyThuTran.jpg
     title: "My-Thu Tran"
     excerpt: "PhD in Geography joint program of SDSU & UCSB"
