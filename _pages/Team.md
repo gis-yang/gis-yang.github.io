@@ -14,12 +14,12 @@ feature_row_team1:
   - image_path: /assets/images/Owen.jpg
     title: "Owen Hussey"
     excerpt: "Graduate Research Assistant and Remote Sensing Lead"
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/Melanie.JPG
     title: "Melanie Morales"
-    excerpt: "Graduate Research Assistant and Lab Assistant Manager"
+    excerpt: "Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant. She cherishes family time, often gathering over home-cooked meals. As she nears her Master's completion, Melanie envisions a GIS-driven career and contemplates pursuing a Ph.D. in the future."
 
 feature_row_team2:
-  - image_path: /assets/images/Xiangyu.jpg
+  - image_path: /assets/images/Xiangyu (2).jpg
     title: "Xiangyu Ren"
     excerpt: "Graduate Research Assistant and GIS Developer"
   - image_path: /assets/images/Profile_Photo_Tou.jpg
