@@ -33,14 +33,20 @@ feature_row_REU:
   - image_path: /assets/images/bio-photo-2.jpg
     title: "Jessica Reimann"
     excerpt: "NSF REU Research Assistant"
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/William.jpg
     title: "William Lee"
-    excerpt: "NSF REU Research Assistant"
+    excerpt: "I'm a recent Geography graduate interested in incorporating a variety of disciplines and increasing my domain knowledge in the natural sciences, social sciences, or formal sciences to conduct GIS analyses. I joined the Geofly Lab for the NSF REU program at my alma mater, and am currently working on understanding the spatial impacts of eelgrass wasting disease. In the future, I plan to take my knowledge and experiences toward working as a GIS Developer or GIS Manager in either the public sector or private sector in the near future."
 
 feature_row_START:
+  - image_path: /assets/images/Alexis.jpg
+    title: "Alexis Herb"
+    excerpt: "I have 2 bachelor’s degrees, Integrative Biology and Marine Science; I almost have a minor in Forestry (one class/technicality shy).  I did a little Environmental Engineering graduate school work at UC Davis, where I bumbled into upper division math and realized I liked that better.  Currently I work part time as a GIS tech for the Alameda County Fire Department.  As an intern in the NSF START program, I'm hoping to learn about using AI to find objects in images, and gain experience in using drones to collect data."
+  - image_path: /assets/images/Meli.jpg
+    title: "Melina Kompella"
+    excerpt: "I am a Geographic Information Systems Technology student at Foothill College and an NSF research intern at SJSU. I have worked in wildland fire for the Forest Service, and I am now pivoting to research in mapping fire behavior and management tools. I am interested in the role humans can play in managing fire-impacted landscapes and building ecosystem resilience. GIS technology and aerial mapping are fantastic tools for learning about these ecosystems while mitigating human impact, and I'm excited to use them in my research."
   - image_path: /assets/images/bio-photo-2.jpg
-    title: "Jessica Reimann"
-    excerpt: "I'm a recent Geography graduate interested in incorporating a variety of disciplines and increasing my domain knowledge in the natural sciences, social sciences, or formal sciences to conduct GIS analyses. I joined the Geofly Lab for the NSF REU program at my alma mater, and am currently working on understanding the spatial impacts of eelgrass wasting disease. In the future, I plan to take my knowledge and experiences toward working as a GIS Developer or GIS Manager in either the public sector or private sector in the near future."
+    title: "Devin Jones"
+    excerpt: "NSF START Intern"
 
 feature_row_team3:
   - image_path: /assets/images/Bryan.png
