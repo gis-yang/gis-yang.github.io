@@ -7,6 +7,16 @@ classes: wide
 sidebar:
   nav: "docs"
 
+feature_row_left:
+  - image_path: /assets/images/bio-photo.jpg
+    title: "Dr. Bo Yang"
+    excerpt: "Assistant Professor and Principal Investigator at SJSU"
+    title: "Drone mapping coastal seagrass habitats"
+    excerpt: "This is bio of Dr. Bo Yang, test test. This is bio of Dr. Bo Yang, test test.This is bio of Dr. Bo Yang, test test."
+    url: /UAV_seagrass/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
     title: "Dr. Bo Yang"
@@ -57,6 +67,7 @@ feature_row_team3:
     excerpt: "PhD in Geography joint program of SDSU & UCSB"
 
 ---
+{% include feature_row id="feature_row_left" %}
 {% include feature_row id="feature_row_team1" %}
 {% include feature_row id="feature_row_team2" %}
 ## NSF REU
