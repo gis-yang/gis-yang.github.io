@@ -10,7 +10,7 @@ sidebar:
 feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
     title: "Dr. Bo Yang"
-    excerpt: "Assistant Professor and Principal Investigator"
+    excerpt: "Assistant Professor and Principal Investigator at SJSU"
   - image_path: /assets/images/Owen.jpg
     title: "Owen Hussey"
     excerpt: "Graduate Research Assistant"
