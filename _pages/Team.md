@@ -20,7 +20,7 @@ feature_row_left:
 feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
     title: "Dr. Bo Yang"
-    excerpt: "Assistant Professor and Principal Investigator at SJSU"
+    excerpt: "Assistant Professor and Principal Investigator"
   - image_path: /assets/images/Owen.jpg
     title: "Owen Hussey"
     excerpt: "Graduate Research Assistant"
@@ -67,7 +67,7 @@ feature_row_team3:
     excerpt: "PhD in Geography joint program of SDSU & UCSB"
 
 ---
-{% include feature_row id="feature_row_left" %}
+{% include feature_row id="feature_row_left" type="left" %}
 {% include feature_row id="feature_row_team1" %}
 {% include feature_row id="feature_row_team2" %}
 ## NSF REU
