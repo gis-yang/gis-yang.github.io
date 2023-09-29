@@ -9,11 +9,9 @@ sidebar:
 
 feature_row_left:
   - image_path: /assets/images/bio-photo.jpg
-    image_size: "400x300"
+    image_size: 400x300
     title: "Dr. Bo Yang"
-    excerpt: "Assistant Professor and Principal Investigator at SJSU"
-    title: "Drone mapping coastal seagrass habitats"
-    excerpt: "This is bio of Dr. Bo Yang, test test. This is bio of Dr. Bo Yang, test test.This is bio of Dr. Bo Yang, test test."
+    excerpt: "Assistant Professor and Principal Investigator at SJSU. Drone mapping coastal seagrass habitats. This is bio of Dr. Bo Yang, test test. This is bio of Dr. Bo Yang, test test.This is bio of Dr. Bo Yang, test test."
     url: /UAV_seagrass/
     btn_label: "Read More"
     btn_class: "btn--primary"
