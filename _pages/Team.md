@@ -10,7 +10,6 @@ sidebar:
 feature_row_left:
   - image_path: /assets/images/bio-photo.jpg
     title: "Dr. Bo Yang"
-	<h2>Principal Investigator and assistant professor </h2>
     excerpt: "Dr. Bo Yang, the Principal Investigator of the GeoFly Lab, possesses an interdisciplinary background with a BA in Mathematics, a Master's in Computer Science, and a Ph.D. in Geography. His pioneering research is concentrated on leveraging cutting-edge technologies in Geographical Information Systems (GIS), remote sensing, and UAV/Drone mapping. With a commitment to advancing geospatial sciences, Dr. Yang has led the GeoFly Lab at San Jose State University (SJSU) to substantial acclaim, securing pivotal support and grants from renowned institutions including NSF, NASA, USDOT, and Cal Fire, encompassing notable programs like NSF Build and Broaden, IUCRC, REU, and START. The GeoFly Lab is a world-leading UAV mapping lab, focusing on Drone/UAV mapping and high-resolution image analysis for coastal intertidal modeling and wildfire monitoring. It is renowned for its innovative approaches and excellence in geospatial research and technology development."
     url: /UAV_seagrass/
     btn_label: "Read More"
