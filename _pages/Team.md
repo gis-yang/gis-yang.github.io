@@ -19,9 +19,6 @@ feature_row_Owen:
   - image_path: /assets/images/Owen.jpg
     title: "Owen Hussey"
     excerpt: "Owen Hussey is the graduate assatint for MTI project …"
-    url: /UAV_seagrass/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 	
 feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
