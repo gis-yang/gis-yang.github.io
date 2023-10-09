@@ -17,6 +17,9 @@ feature_row_Bo:
   - image_path: /assets/images/Owen.jpg
     title: "Owen Hussey"
     excerpt: "Owen Hussey is the graduate assistint for MTI project"
+  - image_path: /assets/images/Melanie.JPG
+    title: "Melanie Morales"
+    excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
 
 feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
