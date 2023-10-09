@@ -20,6 +20,9 @@ feature_row_Bo:
   - image_path: /assets/images/Melanie.JPG
     title: "Melanie Morales"
     excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
+  - image_path: /assets/images/Xiangyu.jpg
+    title: "Xiangyu Ren"
+    excerpt: "**Graduate Research assistant (Prescribe fire project)** <br />Xiangyu Ren is the graduate research assistant for wildfire project…"
 
 feature_row_team1:
   - image_path: /assets/images/bio-photo.jpg
