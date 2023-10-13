@@ -31,7 +31,7 @@ feature_row_BoTeam:
     excerpt: "**Graduate Research assistant (Home Ignition Zone Project)** <br />Currently pursuing a Master's degree in geography, Henri is interested in remote sensing applications and GIS with regards to environmental and physical topics. His involvement with coastal eelgrass mapping and home ignition zone assessments for wildfire prevention reflect these goals. With nearly a decade of advertising experience under his belt, as well as a love for music and the outdoors, Henri is a true multidisciplinarian."
 
 feature_row_REU:
-  - image_path: /assets/images/Jessica_Reimann_1.jpg
+  - image_path: /assets/images/Jessica_1.jpg
     title: "Jessica Reimann"
     excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
   - image_path: /assets/images/William_1.jpg
