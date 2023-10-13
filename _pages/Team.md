@@ -14,19 +14,19 @@ feature_row_BoTeam:
     url: /UAV_seagrass/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Owen.jpg
+  - image_path: /assets/images/Owen_1.jpg
     title: "Owen Hussey"
     excerpt: "**Graduate Research Assistant (MTI and NSF START)** <br />Owen Hussey is the graduate assistint for MTI project"
-  - image_path: /assets/images/Melanie.JPG
+  - image_path: /assets/images/Melanie_1.JPG
     title: "Melanie Morales"
     excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
-  - image_path: /assets/images/Xiangyu.jpg
+  - image_path: /assets/images/Xiangyu_1.jpg
     title: "Xiangyu Ren"
     excerpt: "**Graduate Research Assistant (Prescribe fire project)** <br />Xiangyu Ren is the graduate research assistant for wildfire project…"
-  - image_path: /assets/images/Profile_Photo_Tou.jpg
+  - image_path: /assets/images/Profile_Photo_Tou_1.jpg
     title: "Tou-in Kwan"
     excerpt: "**Graduate Research Assistant (NSF Build and Broaden)** <br />Graduate Research Assistant for Coastal Seagrass mapping project"
-  - image_path: /assets/images/Brillon_2023.jpg
+  - image_path: /assets/images/Brillon_2023_1.jpg
     title: "Henri Brillon"
     excerpt: "**Graduate Research assistant (Home Ignition Zone Project)** <br />Currently pursuing a Master's degree in geography, Henri is interested in remote sensing applications and GIS with regards to environmental and physical topics. His involvement with coastal eelgrass mapping and home ignition zone assessments for wildfire prevention reflect these goals. With nearly a decade of advertising experience under his belt, as well as a love for music and the outdoors, Henri is a true multidisciplinarian."
 
