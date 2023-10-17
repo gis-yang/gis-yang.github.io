@@ -23,15 +23,27 @@ feature_row_BoTeam:
   - image_path: /assets/images/Melanie_1.jpg
     title: "Melanie Morales"
     excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
+    url: "https://www.linkedin.com/in/melanie-morales-b376b2213/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Xiangyu_1.jpg
     title: "Xiangyu Ren"
     excerpt: "**Graduate Research Assistant (Prescribe fire project)** <br />Xiangyu Ren is the graduate research assistant for wildfire project…"
+    url: "https://www.linkedin.com/in/xiangyu-ren-700b5510b/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Profile_Photo_Tou_1.jpg
     title: "Tou-in Kwan"
     excerpt: "**Graduate Research Assistant (NSF Build and Broaden)** <br />Graduate Research Assistant for Coastal Seagrass mapping project"
+    url: "https://www.linkedin.com/in/tou-in-benno-kwan-8b6264173/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Brillon_2023_1.jpg
     title: "Henri Brillon"
     excerpt: "**Graduate Research assistant (Home Ignition Zone Project)** <br />Currently pursuing a Master's degree in geography, Henri is interested in remote sensing applications and GIS with regards to environmental and physical topics. His involvement with coastal eelgrass mapping and home ignition zone assessments for wildfire prevention reflect these goals. With nearly a decade of advertising experience under his belt, as well as a love for music and the outdoors, Henri is a true multidisciplinarian."
+    url: "https://www.linkedin.com/in/henribrillon/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
 
 feature_row_REU:
   - image_path: /assets/images/Jessica_1.jpg
