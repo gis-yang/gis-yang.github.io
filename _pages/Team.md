@@ -12,11 +12,14 @@ feature_row_BoTeam:
     title: "Dr. Bo Yang"
     excerpt: "**Principal Investigator and assistant professor**  <br />Dr. Bo Yang is the Principal Investigator at the GeoFly Lab, a world-leading UAV mapping facility. Holding an interdisciplinary background with a BA in Mathematics, a Master's in Computer Science, and a Ph.D. in Geography, Dr. Yang's research is pioneering in its focus on leveraging cutting-edge technologies in Geographical Information Systems (GIS), remote sensing, and UAV/Drone mapping for environmental research. The GeoFly Lab at San Jose State University (SJSU) conducts research on a broad range of topics and has garnered support from esteemed agencies such as NSF, NASA, USDOT, and Cal Fire. Their projects include the NSF's Build and Broaden, IUCRC, REU, and START programs."
     url: "https://www.linkedin.com/in/gisboyang/"
-    btn_label: "Read More"
+    btn_label: "Linkedin"
     btn_class: "btn--primary"
   - image_path: /assets/images/Owen_1.jpg
     title: "Owen Hussey"
     excerpt: "**Graduate Research Assistant (MTI and NSF START)** <br />Originally a Geology major at San Jose State University, Owen found a passion for GIS while attending his coursework during the opening months of the COVID pandemic. After graduating, he went back to SJSU to pursue an Advanced Certification in GIS through the Geography department, before committing full-time to the MA in Geography program. Along with GIS, Owen has also found a strong interest in remote-sensing and drone technologies, leading him to join and work on multiple research projects, such as coastal eelgrass mapping, highway expansion effects on surrounding vegetation, and prescribed burn data collection."
+    url: "https://www.linkedin.com/in/owen-hussey-695345223/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Melanie_1.jpg
     title: "Melanie Morales"
     excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
