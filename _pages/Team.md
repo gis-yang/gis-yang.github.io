@@ -17,9 +17,6 @@ feature_row_BoTeam:
   - image_path: /assets/images/Owen_1.jpg
     title: "Owen Hussey"
     excerpt: "**Graduate Research Assistant (MTI and NSF START)** <br />Originally a Geology major at San Jose State University, Owen found a passion for GIS while attending his coursework during the opening months of the COVID pandemic. After graduating, he went back to SJSU to pursue an Advanced Certification in GIS through the Geography department, before committing full-time to the MA in Geography program. Along with GIS, Owen has also found a strong interest in remote-sensing and drone technologies, leading him to join and work on multiple research projects, such as coastal eelgrass mapping, highway expansion effects on surrounding vegetation, and prescribed burn data collection."
-	url: https://www.linkedin.com/in/owen-hussey-695345223/
-	btn_label: "Linkedin_Owen"
-    btn_class: "btn--primary"
   - image_path: /assets/images/Melanie_1.jpg
     title: "Melanie Morales"
     excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
