@@ -16,7 +16,7 @@ feature_row_BoTeam:
     btn_class: "btn--primary"
   - image_path: /assets/images/Owen_1.jpg
     title: "Owen Hussey"
-	url:https://www.linkedin.com/in/owen-hussey-695345223/
+	url: https://www.linkedin.com/in/owen-hussey-695345223/
 	btn_label: "Linkedin"
     btn_class: "btn--primary"
     excerpt: "**Graduate Research Assistant (MTI and NSF START)** <br />Originally a Geology major at San Jose State University, Owen found a passion for GIS while attending his coursework during the opening months of the COVID pandemic. After graduating, he went back to SJSU to pursue an Advanced Certification in GIS through the Geography department, before committing full-time to the MA in Geography program. Along with GIS, Owen has also found a strong interest in remote-sensing and drone technologies, leading him to join and work on multiple research projects, such as coastal eelgrass mapping, highway expansion effects on surrounding vegetation, and prescribed burn data collection."
