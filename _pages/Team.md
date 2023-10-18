@@ -28,7 +28,7 @@ feature_row_BoTeam:
     btn_class: "btn--primary"
   - image_path: /assets/images/Xiangyu_1.jpg
     title: "Xiangyu Ren"
-    excerpt: "**Graduate Research Assistant (Prescribe fire project)** <br />Xiangyu Ren is the graduate research assistant for wildfire project…"
+    excerpt: "**Graduate Research Assistant (Prescribe fire project)** <br />Xiangyu Ren is a multidisciplinary geographer with a passion for GeoAI and remote sensing. She gained her Ph.D in environmental science, and now she is currently pursuing the master's degree in Geography with a concentration in Geographic Information Systems at San Jose State University. Also, Xiangyu is a certificated drone pilot. Applying her multidisciplinary knowledge and skills in geospatial analysis, she contributes in various projects involving crime prediction, wildfire management, and ecological consulting."
     url: "https://www.linkedin.com/in/xiangyu-ren-700b5510b/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
