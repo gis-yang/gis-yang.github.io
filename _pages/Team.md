@@ -60,6 +60,9 @@ feature_row_START:
   - image_path: /assets/images/Meli_1.jpg
     title: "Melina Kompella"
     excerpt: "**NSF START Research Intern** <br />I am a Geographic Information Systems Technology student at Foothill College and an NSF research intern at SJSU. I have worked in wildland fire for the Forest Service, and I am now pivoting to research in mapping fire behavior and management tools. I am interested in the role humans can play in managing fire-impacted landscapes and building ecosystem resilience. GIS technology and aerial mapping are fantastic tools for learning about these ecosystems while mitigating human impact, and I'm excited to use them in my research."
+    url: "https://www.linkedin.com/in/melina-kompella-91a548178/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Devin_1.jpg
     title: "Devin Jones"
     excerpt: "**NSF START Research Intern** <br />I am a natural explorer with a background in photography and post production editing. I exited the nonprofit world during the pandemic and have embarked on a knowledge journey in hopes of centering my passion for the visual world in my work. I am certified in film and post production editing, a licensed drone pilot, and a seasoned photographer. I am new to GIS, but enjoying the ride."
