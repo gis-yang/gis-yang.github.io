@@ -9,15 +9,12 @@ sidebar:
 ---
 
 gallery1:
-   - url: "https://gis-yang.github.io/gallery/"
-     image_path: /assets/images/Gallery/_TMC2574.jpg
+   - image_path: /assets/images/Gallery/_TMC2574.jpg
 	 alt: "test test"
-   - url: "https://gis-yang.github.io/gallery/"
-     image_path: /assets/images/Gallery/_TMC3023.jpg
-	 alt: "test test"
-   - url: "https://gis-yang.github.io/gallery/"
-     image_path: /assets/images/Gallery/_TMC4022.jpg
-	 alt: "test test"
+   - image_path: /assets/images/Gallery/_TMC3023.jpg
+	 alt: "test test2"
+   - image_path: /assets/images/Gallery/_TMC4022.jpg
+	 alt: "test test3"
 
 ---
 {% include galley id="gallery1" layout="half" caption="This is a half gallery layout example." %}
