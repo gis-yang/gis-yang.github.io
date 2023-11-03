@@ -6,13 +6,14 @@ author_profile: false
 classes: wide
 sidebar:
   nav: "docs"
-
-gallery:
-   - image_path: /assets/images/Gallery/_TMC2574.jpg
-   - image_path: /assets/images/Gallery/_TMC3023.jpg
-   - image_path: /assets/images/Gallery/_TMC4022.jpg
-
 ---
-{% include galley caption="This is a gallery example." %}
+[![image](/assets/images/Gallery/dronetraining.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/CarrieBow_GPSMap.jpg){:width="420px"}](http://www.citizensciencegis.org/capturing-the-beauty-of-belize-from-above-with-drones-to-support-science-and-discovery-with-smithsonian-marinegeo/) 
+--|--
+[![image](/assets/images/Gallery/FHL.jpg){:width="420px"}](http://www.citizensciencegis.org/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell/)|[![image](/assets/images/Gallery/eelgrass.jpg){:width="420px"}](http://www.citizensciencegis.org/projects/drone-mapping/)
+--|--
+[![image](/assets/images/Gallery/Training-sites.jpg){:width="420px"}](http://www.citizensciencegis.org/projects/drone-mapping/) | [![image](/assets/images/Gallery/AK_Grass.jpg){:width="420px"}](http://www.citizensciencegis.org/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier/) 
+--|--
+[![image](/assets/images/Gallery/Anderson.jpg){:width="420px"}](https://doi.org/10.1016/j.jag.2019.03.010) |[![image](/assets/images/Gallery/Crime.jpg){:width="420px"}](https://doi.org/10.1080/13658816.2020.1737701)
+--|--
 
 
