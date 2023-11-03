@@ -45,13 +45,11 @@ sidebar:
 --|--
 [![image](/assets/images/Gallery/Picture3.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture4.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
 --|--
-[![image](/assets/images/Gallery/Picture5.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture6.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
+[![image](/assets/images/Gallery/Picture5.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture12.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
 --|--
 [![image](/assets/images/Gallery/Picture7.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture8.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
 --|--
 [![image](/assets/images/Gallery/Picture9.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture10.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
---|--
-[![image](/assets/images/Gallery/Picture11.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture12.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
 --|--
 [![image](/assets/images/Gallery/Picture13.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) | [![image](/assets/images/Gallery/Picture14.jpg){:width="420px"}](https://doi.org/10.3390/drones3030060) 
 --|--
