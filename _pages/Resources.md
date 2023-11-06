@@ -10,19 +10,19 @@ sidebar:
 feature_row1:
   - image_path: /assets/images/SJSU.jpg
     title: "San José State University"
-    excerpt: "San José State University (SJSU), at the heart of Silicon Valley, is a comprehensive public institution and the oldest state university in California. Established in 1857, SJSU is lauded for its academic diversity, innovative spirit, and close industry ties, providing vibrant educational opportunities and serving as a gateway for students aiming to lead in the tech-driven economy."
+    excerpt: "San José State University (SJSU), established in 1857 at the heart of Silicon Valley, is a comprehensive public institution and the oldest state university in California."
     url: "https://sjsu.edu/"
     btn_label: "More Info"
     btn_class: "btn--primary"
   - image_path: /assets/images/URBP.jpg
     title: "SJSU Department of Urban and Regional Planning"
-    excerpt: "At SJSU's Department of Urban and Regional Planning, students access the region's only accredited Urban Planning Master's alongside diverse programs, including BA and MA in Geography, BS in GIS, and a Master's in Public Relations. Situated in downtown San José, this department provides enriched educational and career-focused experiences in the heart of Northern California's urban expanse."
+    excerpt: "At SJSU's Department of Urban and Regional Planning, students access the region's only accredited Urban Planning Master's alongside diverse programs, including BA and MA in Geography, BS in GIS, and a Master's in Public Relations. "
     url: "https://www.sjsu.edu/urbanplanning/"
     btn_label: "More Info"
     btn_class: "btn--primary"
   - image_path: /assets/images/Club.png
     title: "SJSU GIS and Drone Society"
-    excerpt: "The SJSU GIS and Drone Society is a dynamic student organization dedicated to the fields of GIS, remote sensing, drone mapping, computer vision, and machine learning. Our mission is to equip students with essential resources and networks to excel in GIS and UAS. We regularly share innovative breakthroughs, club news, events, and highlight our members' dedication and achievements."
+    excerpt: "The SJSU GIS and Drone Society is a dynamic student organization dedicated to the fields of GIS, remote sensing, drone mapping, computer vision, and machine learning. We regularly share innovative breakthroughs, club news, events, and highlight our members' dedication and achievements."
     url: "https://www.linkedin.com/company/90439721"
     btn_label: "Linkedin Page"
     btn_class: "btn--primary"
@@ -70,7 +70,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/AAG.png
     title: "American Association of Geographers (AAG)"
-    excerpt: "The American Association of Geographers (AAG) is a leading network advancing the field of geography. Through advocacy, research, and education, the AAG supports its members worldwide, promoting interdisciplinary collaborations to address social, environmental, and geographic challenges, ensuring the vitality and public relevance of geographic knowledge."
+    excerpt: "The American Association of Geographers (AAG) is a leading network advancing the field of geography. Through advocacy, research, and education, the AAG supports its members worldwide, promoting interdisciplinary collaborations to address social, environmental, and geographic challenges."
     url: "https://www.aag.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
@@ -91,13 +91,13 @@ feature_row5:
   - image_path: /assets/images/NSF_logo.png
     title: "NSF"
     excerpt: "Through funding and leadership, the National Science Foundation (NSF) empowers discovery and innovation to advance knowledge and education, ensuring America's global competitiveness and economic growth."
-    url: "https://www.aag.org/"
+    url: "https://www.nsf.gov/"
     btn_label: "More Info"
     btn_class: "btn--primary"
   - image_path: /assets/images/NASA_logo.svg.png
     title: "NASA Ames"
     excerpt: "NASA Ames Research Center, located in California's Silicon Valley, is a key facility for many of NASA’s critical missions and projects. Ames excels in research and technology development in aeronautics, exploration technology and science."
-    url: "https://www.acsp.org/"
+    url: "https://www.nasa.gov/ames/"
     btn_label: "More Info"
     btn_class: "btn--primary"
 
