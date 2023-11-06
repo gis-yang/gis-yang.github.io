@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resources"
+title: "Resources and Partners"
 permalink: /resources/
 author_profile: false
 classes: wide
@@ -50,7 +50,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/GeoBus.png
     title: "Citizen Science GIS"
-    excerpt: "The Citizen Science GIS Group at UCF, complemented by our innovative GeoBus project, engages the community in scientific research through GIS technology. "
+    excerpt: "The Citizen Science GIS Group complemented by our innovative GeoBus project, engages the community in scientific research through GIS technology. "
     url: "https://www.citizensciencegis.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
@@ -62,7 +62,7 @@ feature_row3:
     btn_class: "btn--primary"
   - image_path: /assets/images/Osgeo-logo.png
     title: "OSGeo"
-    excerpt: "The Open Source Geospatial Foundation (OSGeo) is a non-profit dedicated to fostering global adoption of open geospatial technology. Through support for collaborative development, OSGeo provides reliable software, data, and education resources for geographic information systems (GIS), promoting transparent, community-driven solutions for spatial analysis and mapping."
+    excerpt: "The Open Source Geospatial Foundation (OSGeo) is a non-profit dedicated to fostering global adoption of open geospatial technology. Through support for collaborative development, OSGeo provides reliable software, data, and education resources for geographic information systems (GIS)."
     url: "https://www.osgeo.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
@@ -82,7 +82,7 @@ feature_row4:
     btn_class: "btn--primary"
   - image_path: /assets/images/UCGIS.png
     title: "University Consortium for Geographic Information Science"
-    excerpt: "The University Consortium for Geographic Information Science (UCGIS) is a collaborative academic organization dedicated to advancing research and education in geographic information science, promoting ethical geospatial data use, and influencing policy. UCGIS connects scholars and practitioners to enhance the impact and relevance of geospatial technology in society."
+    excerpt: "The University Consortium for Geographic Information Science (UCGIS) is a collaborative academic organization dedicated to advancing research and education in GISci. UCGIS connects scholars and practitioners to enhance the impact and relevance of geospatial technology in society."
     url: "https://www.ucgis.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
@@ -96,7 +96,7 @@ feature_row5:
     btn_class: "btn--primary"
   - image_path: /assets/images/NASA_logo.svg.png
     title: "NASA Ames"
-    excerpt: "NASA Ames Research Center, located in California's Silicon Valley, is a key facility for many of NASA’s critical missions and projects. Ames excels in research and technology development in aeronautics, exploration technology, and science, driving innovation and fostering collaborations that push the boundaries of space exploration and earth science."
+    excerpt: "NASA Ames Research Center, located in California's Silicon Valley, is a key facility for many of NASA’s critical missions and projects. Ames excels in research and technology development in aeronautics, exploration technology and science."
     url: "https://www.acsp.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
