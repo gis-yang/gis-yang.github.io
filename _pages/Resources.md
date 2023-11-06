@@ -36,7 +36,7 @@ feature_row2:
     btn_class: "btn--primary"
   - image_path: /assets/images/WIRC.png
     title: "Wildfire Interdisciplinary Research Center"
-    excerpt: "SJSU's Wildfire Interdisciplinary Research Center (WIRC) (WIRC), an NSF-supported IUCRC, conducts critical wildfire research addressing the rising frequency and intensity of wildfires globally. Our interdisciplinary faculty focus on both physical and social dimensions of fire science, collaborating with industry and academic partners to innovate in prediction and observational tools for extreme fire behavior under climate change."
+    excerpt: "SJSU's Wildfire Interdisciplinary Research Center (WIRC), an NSF-supported IUCRC, conducts critical wildfire research addressing the rising frequency and intensity of wildfires globally. Our interdisciplinary faculty focus on both physical and social dimensions of fire science, collaborating with industry and academic partners to innovate in prediction and observational tools for extreme fire behavior under climate change."
     url: "https://www.wildfirecenter.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
