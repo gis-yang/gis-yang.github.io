@@ -10,7 +10,7 @@ sidebar:
 feature_row_BoTeam:
   - image_path: /assets/images/bio-photo_test3.jpg
     title: "Dr. Bo Yang"
-    excerpt: "**Principal Investigator and assistant professor**  <br /> Holding an interdisciplinary background with a  Mathematics (BA), Computer Science (MS), GIS and Geography(PhD), Dr. Yang's research is pioneering in its focus on leveraging cutting-edge technologies in Geographical Information Systems (GIS), remote sensing, and UAV/Drone mapping for environmental research. Our research has been support from NSF, NASA, USDOT, and Cal Fire, include the NSF's Build and Broaden, IUCRC, REU, and START programs."
+    excerpt: "**Principal Investigator and Assistant Professor**  <br /> Holding an interdisciplinary background with a Mathematics (BA), Computer Science (MS), GIS and Geography(PhD), Dr. Yang's research is pioneering in its focus on leveraging cutting-edge technologies in Geographical Information Systems (GIS), remote sensing, and UAV/Drone mapping for environmental research. Our research has been support from NSF, NASA, USDOT, and Cal Fire, include the NSF's Build and Broaden, IUCRC, REU, and START programs."
     url: "https://www.linkedin.com/in/gisboyang/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
