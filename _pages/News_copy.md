@@ -10,7 +10,19 @@ sidebar:
 
 2023
 ======
-(01/23)
+(08/16) *GeoFly Lab has been awarded the NSF B2 grant to use UAVs and GIS for seagrass mapping with UC Davis* [[link]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2315860&HistoricalAwards=false)
+
+(05/01) *MTI report published on using Thermal Remote Sensing to Quantify Impact of Traffic on Urban Heat Islands during COVID, reporting UHI varies during lockdown for SF BayArea* [[link]](https://transweb.sjsu.edu/research/2207-Remote-Sensing-Urban-Heat-Island-Traffic-COVID)
+
+(04/19) * The SJSU Drone class (GEOG282/173) had a mapping field trip to Moss Landing Marine Lab, experiencing research fieldwork in Elkhorn Slough* [[video]](https://www.linkedin.com/feed/update/urn:li:activity:7058845518130532353)
+
+(03/24) *GeoFly Lab members presented at AAG 2024 in Denver, focusing on urban heat island remote sensing, urban transportation, and urban crime prediction* [[link]](https://www.linkedin.com/posts/gisboyang_sjsu-aag2023-denver-activity-7045149882956857345-2x3K?utm_source=share&utm_medium=member_desktop)
+
+(03/15) *Presentation at CalGIS2023 on UAV/Drone Remote Sensing for California Wildfire Mapping and Modeling* [[link]](https://calgis2023.sched.com/event/1GLQP)
+
+(02/28) *Open-access paper published in GRL: Utilizing low-altitude #UAV imaging combined with remote sensing image processing to detect and quantify Eelgrass #WastingDisease from Alaska to California* [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101985#.Y_4wPFLh4Eg.twitter)
+
+(01/23) *New paper published in Oceanography about how high-resolution drone mapping captured the significant seagrass decline in the San Juan Islands* [[link]](https://tos.org/oceanography/article/uav-high-resolution-imaging-and-disease-surveys-combine-to-quantify-climate-related-decline-in-seagrass-meadows)
 
 
 2022
