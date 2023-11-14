@@ -68,26 +68,6 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/images/AAG.png
-    title: "American Association of Geographers (AAG)"
-    excerpt: "The American Association of Geographers (AAG) is a leading network advancing the field of geography. Through advocacy, research, and education, the AAG supports its members worldwide, promoting interdisciplinary collaborations to address social, environmental, and geographic challenges."
-    url: "https://www.aag.org/"
-    btn_label: "More Info"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/ACSP.png
-    title: "Association of Collegiate Schools of Planning (ACSP)"
-    excerpt: "The Association of Collegiate Schools of Planning (ACSP) is a consortium of university-based programs offering credentials in urban and regional planning. ACSP fosters education, research, and practice in the field, aiming to enhance the global understanding and application of planning across public and private sectors."
-    url: "https://www.acsp.org/"
-    btn_label: "More Info"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/UCGIS.png
-    title: "University Consortium for Geographic Information Science"
-    excerpt: "The University Consortium for Geographic Information Science (UCGIS) is a collaborative academic organization dedicated to advancing research and education in GISci. UCGIS connects scholars and practitioners to enhance the impact and relevance of geospatial technology in society."
-    url: "https://www.ucgis.org/"
-    btn_label: "More Info"
-    btn_class: "btn--primary"
-
-feature_row5:
   - image_path: /assets/images/NSF_logo.png
     title: "NSF"
     excerpt: "Through funding and leadership, the National Science Foundation (NSF) empowers discovery and innovation to advance knowledge and education, ensuring America's global competitiveness and economic growth."
@@ -100,7 +80,27 @@ feature_row5:
     url: "https://www.nasa.gov/ames/"
     btn_label: "More Info"
     btn_class: "btn--primary"
+  - image_path: /assets/images/UCGIS.png
+    title: "University Consortium for Geographic Information Science"
+    excerpt: "The University Consortium for Geographic Information Science (UCGIS) is a collaborative academic organization dedicated to advancing research and education in GISci. UCGIS connects scholars and practitioners to enhance the impact and relevance of geospatial technology in society."
+    url: "https://www.ucgis.org/"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
 
+feature_row5:
+  - image_path: /assets/images/AAG.png
+    title: "American Association of Geographers (AAG)"
+    excerpt: "The American Association of Geographers (AAG) is a leading network advancing the field of geography. Through advocacy, research, and education, the AAG supports its members worldwide, promoting interdisciplinary collaborations to address social, environmental, and geographic challenges."
+    url: "https://www.aag.org/"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/ACSP.png
+    title: "Association of Collegiate Schools of Planning (ACSP)"
+    excerpt: "The Association of Collegiate Schools of Planning (ACSP) is a consortium of university-based programs offering credentials in urban and regional planning. ACSP fosters education, research, and practice in the field, aiming to enhance the global understanding and application of planning across public and private sectors."
+    url: "https://www.acsp.org/"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
+  
 ---
 
 {% include feature_row id="feature_row1" %}
