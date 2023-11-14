@@ -8,13 +8,14 @@ sidebar:
   nav: "docs"
 ---
 
-2021
+2022
 ======
+(03/28) *Astronaut High School will visit SJSU to participate in the SAVi talk, featuring K-12 students' lightning talks and Dr. Hawthorne's keynote address* [[link]](https://x.com/BoYangGeo/status/1508496373284413442?s=20) [[Video]](https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383)
 
-
-2021
-======
 (03/15) *The UCF Citizen Science GIS team is visiting SJSU and bringing K-12 students from Florida to conduct drone mapping fieldwork in Bodega Bay, CA* [[Storymap]](https://storymaps.arcgis.com/stories/604a49b57cba44ae9e28f54cf4145153)
+
+2021
+======
 
 (11/30) *New open-access paper published in "Applied Geography" on mapping emotional attachment for coastal restoration* [[link]](https://www.sciencedirect.com/science/article/pii/S0143622821002241)
 
