@@ -30,7 +30,7 @@ sidebar:
 
 (11/16) *2022 SJSU GIS Day celebration featuring keynote speakers and a student poster competition* [[video]](https://vimeo.com/event/2608498)
 
-(10/25) *The drone team joined the #SJSU #Wildfire Interdisciplinary Research Center for the Canyon Fire experiment* [[link]](https://x.com/BoYangGeo/status/1585016300405141504?s=20) [[storymap]](https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f)
+(10/25) *The drone team joined the #SJSU #Wildfire Interdisciplinary Research Center for the Canyon Fire experiment* [[link]](https://x.com/BoYangGeo/status/1585016300405141504?s=20) [[storymap]](https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f) [[SF Chronicle]](https://www.sfchronicle.com/weather/article/How-Bay-Area-experiment-captures-unprecedented-17536079.php)
 
 (10/11) *The SJSU GIS and Drone Society has been invited to bring members to the Drone Racing League's opening season at PayPal Park*
 
