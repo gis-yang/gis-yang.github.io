@@ -10,6 +10,20 @@ sidebar:
 
 2022
 ======
+
+
+(10/05) * The SAVi Workshop 2022 has launched, offering drone mapping and GIS courses, free for SJSU students* [[link]](https://sjsu.edu/savi-urbp/workshops/index.php)
+
+(09/28) *The drone mapping training program for seagrass research has been rated as the Top Viewed paper in the Journal of Drones* [[link]](https://x.com/Drones_MDPI/status/1575304354050953216?s=20)
+
+(07/19) *Dr. Bo Yang led the SJSU MSTI K-12 summer camp drone and GIS session with Bay Area high school students* [[CBS Bay Area]](https://www.cbsnews.com/sanfrancisco/news/san-jose-state-hosts-summer-drone-flying-class-for-high-school-students/) [[Mercury]](https://www.mercurynews.com/2022/07/23/bay-area-high-school-students-get-a-transportation-lesson-at-san-jose-state/)
+
+(07/16) *2022 Summer drone mapping fieldwork was successfully completed in San Juan Island, Coos/Yaquina Bay, and Bodega Bay by the SJSU team in collaboration with UC Davis, Cornell, and Oregon State* [[SotryMap]](https://storymaps.arcgis.com/stories/fc0e3f0d57f541f4a90e30ddf3778421)
+
+(06/03) *New paper published in ASLO_LO: Seagrass wasting disease outbreaks, from Alaska to California, were worse in areas experiencing unusually warm water temperatures* [[link]](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12152)
+
+(05/02) *New paper published on using thermal RemoteSensing to isolate and quantify the transportation impact on urban heat effect, leveraging the Beijing 2008 Olympics traffic restrictions* [[link]](https://www.nature.com/articles/s43247-022-00427-4)
+
 (03/28) *Astronaut High School will visit SJSU to participate in the SAVi talk, featuring K-12 students' lightning talks and Dr. Hawthorne's keynote address* [[link]](https://x.com/BoYangGeo/status/1508496373284413442?s=20) [[Video]](https://www.facebook.com/watch/live/?ref=watch_permalink&v=544403550277383)
 
 (03/15) *The UCF Citizen Science GIS team is visiting SJSU and bringing K-12 students from Florida to conduct drone mapping fieldwork in Bodega Bay, CA* [[Storymap]](https://storymaps.arcgis.com/stories/604a49b57cba44ae9e28f54cf4145153)
