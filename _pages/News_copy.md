@@ -8,9 +8,16 @@ sidebar:
   nav: "docs"
 ---
 
+2021
+======
+
 
 2021
 ======
+(03/15) *The UCF Citizen Science GIS team is visiting SJSU and bringing K-12 students from Florida to conduct drone mapping fieldwork in Bodega Bay, CA* [[Storymap]](https://storymaps.arcgis.com/stories/604a49b57cba44ae9e28f54cf4145153)
+
+(11/30) *New open-access paper published in "Applied Geography" on mapping emotional attachment for coastal restoration* [[link]](https://www.sciencedirect.com/science/article/pii/S0143622821002241)
+
 (11/03) *NSF team published paper about remote sensing perspective for ecological and microbiome research* [[link]](https://journals.asm.org/doi/10.1128/mSystems.01106-21)
 
 (09/24) *SJSU SAVI GIS Talk: urban and environmental research with using GIS, drones, and data science* [[Video]](https://fb.watch/96xkDk5bua/)
