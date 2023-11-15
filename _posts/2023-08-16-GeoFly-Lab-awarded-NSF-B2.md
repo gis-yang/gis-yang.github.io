@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Post: GeoFly Lab awarded NSF B2"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
