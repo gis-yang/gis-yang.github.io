@@ -2,7 +2,7 @@
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/News/"
       type: posts
     values:
       layout: single
