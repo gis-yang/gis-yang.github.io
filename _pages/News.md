@@ -1,16 +1,6 @@
 ---
-defaults:
-  # _posts
-  - scope:
-      path: "/News/"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+title: "News"
+permalink: /News/"
+layout: posts
+author_profile: true
 ---
-
-2023-11-03-post-test.md
