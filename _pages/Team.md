@@ -70,13 +70,13 @@ feature_row_START:
 feature_row_team3:
   - image_path: /assets/images/Bryan_1.jpg
     title: "Bryan Malone"
-    excerpt: "**Systems Analyst at Siemens Healthcare** <br /> FAA-certified drone pilot and GIS professional from Foothill College, is a multifaceted IT expert. Proficient in web technologies, system administration, and managing various projects, he currently enhances Siemens Healthcare USA SharePoint 2013 Collaboration. His diverse skill set makes him an adept manager and team player."
+    excerpt: "**Systems Analyst at Siemens Healthcare** <br />FAA-certified drone pilot and GIS professional from Foothill College, is a multifaceted IT expert. Proficient in web technologies, system administration, and managing various projects, he currently enhances Siemens Healthcare USA SharePoint 2013 Collaboration. His diverse skill set makes him an adept manager and team player."
 	url: "https://www.linkedin.com/in/bryanmalone/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
   - image_path: /assets/images/MyThuTran_1.jpg
     title: "My-Thu Tran"
-    excerpt: "**PhD in Geography joint program of SDSU & UCSB** <br /> My-Thu earned master in Geography from San Jose State, is now a Ph.D. student in the Geography Joint Doctoral Program by San Diego State University and UC Santa Barbara. Her research focuses on Applied GIS, Remote Sensing, Drone Mapping, Social-Ecological Systems, Spatial Analysis, Modeling, Cartography, and Geovisualization."
+    excerpt: "**PhD in Geography joint program of SDSU & UCSB** <br />My-Thu earned master in Geography from San Jose State, is now a Ph.D. student in the Geography Joint Doctoral Program by San Diego State University and UC Santa Barbara. Her research focuses on Applied GIS, Remote Sensing, Drone Mapping, Social-Ecological Systems, Spatial Analysis, Modeling, Cartography, and Geovisualization."
 	url: "https://www.linkedin.com/in/my-thu-tran/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
