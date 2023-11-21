@@ -75,7 +75,8 @@ feature_row_START:
 {% include feature_row id="feature_row_REU" type="left" %}
 ## NSF START
 {% include feature_row id="feature_row_START" type="left" %}
-
+## Lab Alumni
+{% include feature_row id="feature_row_team3" type="left" %}
 
 
 
