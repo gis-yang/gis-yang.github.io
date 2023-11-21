@@ -10,6 +10,8 @@ sidebar:
 
 2023
 ======
+(9/15) Professor Bo Yang presented ongoing drone and remote sensing projects at *SJSU College of Science MetCS seminar.* [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7108533322602971136)
+
 (08/16) GeoFly Lab has been awarded the *NSF B2 program* to use UAVs and GIS for seagrass mapping with UC Davis [[link]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2315860&HistoricalAwards=false)
 
 (05/01) MTI report published on using *Thermal Remote Sensing to Quantify Impact of Traffic on Urban Heat Islands during COVID*, reporting UHI varies during lockdown for SF BayArea [[link]](https://transweb.sjsu.edu/research/2207-Remote-Sensing-Urban-Heat-Island-Traffic-COVID)
