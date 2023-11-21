@@ -71,9 +71,7 @@ feature_row_team3:
   - image_path: /assets/images/Bryan_1.jpg
     title: "Bryan Malone"
     excerpt: "**Systems Analyst at Siemens Healthcare** <br />Bryan is an FAA-certified drone pilot and GIS professional from Foothill College, he is a multifaceted IT expert. Proficient in web technologies, system administration, and managing various projects, he currently enhances Siemens Healthcare USA SharePoint 2013 Collaboration. His diverse skill set makes him an adept manager and team player."
-	url: "https://www.linkedin.com/in/bryanmalone/"
-    btn_label: "Linkedin"
-    btn_class: "btn--primary"
+
 
 
 ---
