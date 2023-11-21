@@ -62,7 +62,7 @@ feature_row3:
     btn_class: "btn--primary"
   - image_path: /assets/images/UCGIS.png
     title: "University Consortium for Geographic Information Science"
-    excerpt: "The University Consortium for Geographic Information Science (UCGIS) is a collaborative academic organization dedicated to advancing research and education in GISci. UCGIS connects scholars and practitioners to enhance the impact and relevance of geospatial technology in society."
+    excerpt: "The University Consortium for Geographic Information Science (UCGIS) is a collaborative academic organization dedicated to advancing research and education in GISci."
     url: "https://www.ucgis.org/"
     btn_label: "More Info"
     btn_class: "btn--primary"
