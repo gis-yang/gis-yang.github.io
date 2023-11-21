@@ -67,6 +67,13 @@ feature_row_START:
     title: "Devin Jones"
     excerpt: "**NSF START Research Intern** <br />I am a natural explorer with a background in photography and post production editing. I exited the nonprofit world during the pandemic and have embarked on a knowledge journey in hopes of centering my passion for the visual world in my work. I am certified in film and post production editing, a licensed drone pilot, and a seasoned photographer. I am new to GIS, but enjoying the ride."
 
+feature_row_team3:
+  - image_path: /assets/images/Bryan_1.jpg
+    title: "Bryan Malone"
+    excerpt: "**Systems Analyst at Siemens Healthcare** <br />FAA-certified drone pilot and GIS professional from Foothill College, is a multifaceted IT expert. Proficient in web technologies, system administration, and managing various projects, he currently enhances Siemens Healthcare USA SharePoint 2013 Collaboration. His diverse skill set makes him an adept manager and team player."
+	url: "https://www.linkedin.com/in/bryanmalone/"
+    btn_label: "Linkedin"
+    btn_class: "btn--primary"
 
 
 ---
