@@ -34,7 +34,7 @@ feature_row_BoTeam:
     btn_class: "btn--primary"
   - image_path: /assets/images/Profile_Photo_Tou_1.jpg
     title: "Tou-in Kwan"
-    excerpt: "**Graduate Research Assistant (NSF Build and Broaden)** <br />Graduate Research Assistant for Coastal Seagrass mapping project"
+    excerpt: "**Graduate Research Assistant (NSF Build and Broaden)** <br />Tou is currently a graduate student at San Jose State University pursuing his Master degree in Geography. He also has a background in Urban Planning and is interested in Environmental Planning. Tou was introduced to drone mapping last year and has been passionate about it ever since. He recently participated in the West Coast Seagrass Mapping Project and is currently responsible for drone imagery analysis. Tou also serves as a teaching assistant in a graduate-level Urban Planning course, where he applies his knowledge to help fellow students"
     url: "https://www.linkedin.com/in/tou-in-benno-kwan-8b6264173/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
