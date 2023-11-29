@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resources and Partners"
+title: "Resources"
 permalink: /resources/
 author_profile: false
 classes: wide
