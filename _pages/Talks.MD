@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Talks"
-permalink: /Talks/
-author_profile: False
+permalink: /talks/
+author_profile: false
 classes: wide
 sidebar:
   nav: "docs"
