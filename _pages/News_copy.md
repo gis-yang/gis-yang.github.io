@@ -10,6 +10,22 @@ sidebar:
 
 2023
 ======
+(11/29) FireWatch team in Software engineering and aerospace engineering win 2nd place out of 147 teams in *Silicon Valley Innovation Competition* [Post](https://www.linkedin.com/posts/gisboyang_projectfirewatch-svic2023-ai-activity-7135710448062001153-njC1?utm_source=share&utm_medium=member_desktop)
+
+(11/16) SJSU GIS day success with Panel, poster competition, and technology showcase [link](https://www.linkedin.com/feed/update/urn:li:activity:7131710548596981760) 
+
+(11/10) Drone mapping prescribed fire in Wilder Ranch State Park with student team [link](https://www.linkedin.com/feed/update/urn:li:activity:7128813570095513600)
+
+(11/9) Drone mapping prescribed fire with Wilkin Fire Ecology Lab and Geofly Lab [link](https://www.linkedin.com/feed/update/urn:li:activity:7128183977990918145)
+
+(11/6) SJSU Geofly Lab present at VTA GIS Day [link](https://www.linkedin.com/feed/update/urn:li:activity:7127437430198009856)
+
+(11/3) URBP and GIS Drone Society come to the SJSU Graduate Fair [link](https://www.linkedin.com/feed/update/urn:li:activity:7126332912957800448)
+
+(10/01) Geofly Lab has been highlighted on Washington Square Magazine. [link](https://sjsu.foleon.com/washington-square-magazine/fall-2023/fly-high-with-bo-yang)
+
+(9/22) Dr. Karen Joyce with GeoNadir give a SAVI talk at SJSU [link](https://www.linkedin.com/feed/update/urn:li:activity:7111125371219021824)
+
 (9/15) Professor Bo Yang presented ongoing drone and remote sensing projects at *SJSU College of Science MetCS seminar.* [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7108533322602971136)
 
 (08/16) GeoFly Lab has been awarded the *NSF B2 program* to use UAVs and GIS for seagrass mapping with UC Davis [[link]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2315860&HistoricalAwards=false)
