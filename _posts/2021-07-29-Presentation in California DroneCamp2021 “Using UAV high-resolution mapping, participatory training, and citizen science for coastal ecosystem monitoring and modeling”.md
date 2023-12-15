@@ -8,4 +8,4 @@ tags:
   - readability
   - standard
 ---
-[pdf](https://www.dropbox.com/s/5ro1shrnn36geez/DroneCamp2021_Yang.pdf?dl=0)
+[Pdf](https://www.dropbox.com/s/5ro1shrnn36geez/DroneCamp2021_Yang.pdf?dl=0)

@@ -8,17 +8,17 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/a-birds-eye-view-of-the-indian-river-lagoon?rq=birds)
+[See original post](https://www.citizensciencegis.org/blog/a-birds-eye-view-of-the-indian-river-lagoon?rq=birds)
 
 In 2016, the University of Central Florida's Citizen Science GIS team led by Dr. Timothy Hawthorne launched its Open Reef Initiative to create high-resolution aerial imagery of vulnerable islands and coastal environments in Belize using relatively affordable, consumer-level drones. Recently, the Coastal Connections project team utilized the same technology to capture high-resolution drone videos and images of the Indian River Lagoon, Florida. On October 31, 2018 postdoctoral researchers, Dr. Bo Yang and Dr. Hannah Torres, deployed a DJI Phantom 4 Pro UAV/drone, to get a bird's-eye view of the winding patchwork maze of water and vegetation at River Breeze Park in Oak Hill. These images and videos can now be used to let people experience the beauty of the Indian River Lagoon from anywhere by loading the videos to DJI's Virtual Reality Goggles. In doing so, the aim is to spark people's interest in the Indian River Lagoon and help them reflect on their feeling of connectedness there. See below for a drone bird's-eye video of the Indian River Lagoon. More videos are also available in original high resolution.
 
-[video link](https://youtu.be/Z0rEA-VbphU)
+[Video link](https://youtu.be/Z0rEA-VbphU)
 
-[video link](https://youtu.be/u7RDHmnwMP0)
+[Video link](https://youtu.be/u7RDHmnwMP0)
 
-[video link](https://youtu.be/c_HGfb8mZ68)
+[Video link](https://youtu.be/c_HGfb8mZ68)
 
-[video link](https://youtu.be/Aiz0mLD8PKg)
+[Video link](https://youtu.be/Aiz0mLD8PKg)
 
 
 In addition to providing spectacular photos and videos for their aesthetic value, drone imagery can complement satellite imagery to improve scientific analysis and resource management. Below, you can see how the drone image (bottom) is more clear and up-to-date than the satellite imagery (top). Drones have the power to obtain real-time, high-resolution images, as well as videos of the land features.

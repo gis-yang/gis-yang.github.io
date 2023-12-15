@@ -20,4 +20,4 @@ Authors are encouraged to submit original research, reviews, or short communicat
 
 This initiative serves as a platform to synthesize global research and promote discussions on leveraging drones for participatory and community-based sciences, providing a diverse and inclusive space for scholarly contributions.
 
-[see original post](https://www.mdpi.com/journal/drones/special_issues/Drones_Community)
+[See original post](https://www.mdpi.com/journal/drones/special_issues/Drones_Community)

@@ -16,4 +16,4 @@ The findings highlight the algorithm's effectiveness, revealing a notable improv
 
 This innovative spatio-temporal Cokriging approach demonstrates promising results in enhancing crime prediction accuracy by incorporating transitional zones from nightlight imagery alongside historical crime data. The method's ability to improve correlation coefficients and achieve higher hit rates in predicting crime hotspots signifies its potential for optimizing law enforcement strategies by providing more precise crime forecasts. Overall, this research introduces a promising avenue for advancing crime prediction models by leveraging multi-source data integration in spatio-temporal domains.
 
-[see original post](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1737701)
+[See original post](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1737701)

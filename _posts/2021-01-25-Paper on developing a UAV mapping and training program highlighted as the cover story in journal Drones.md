@@ -11,4 +11,4 @@ tags:
 Our [@citizen_gis](https://twitter.com/Citizen_GIS) recent paper on developing a UAV mapping and training program has been highlighted as the cover story in journal [@Drones_MDPI](https://twitter.com/Drones_MDPI). This is one of the first efforts in using UAV for seagrass research on the Pacific coast [@timlhawthorne](https://twitter.com/timlhawthorne)
  Paper: https://doi.org/10.3390/drones4040070
 
-[see original post](https://twitter.com/BoYangGeo/status/1353749770129571845?s=20)
+[See original post](https://twitter.com/BoYangGeo/status/1353749770129571845?s=20)

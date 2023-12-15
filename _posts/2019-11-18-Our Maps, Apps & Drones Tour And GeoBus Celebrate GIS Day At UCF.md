@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/gisday19)
+[Original post](https://www.citizensciencegis.org/blog/gisday19)
 
 GIS Day Team Members and Volunteers
 

@@ -18,4 +18,4 @@ To illustrate the method's effectiveness, the study assimilated MODIS images (da
 
 In summary, the ST-Cokriging method demonstrated substantial advancements in assimilating multi-scale remote sensing data, offering improved accuracy and reliability in generating high-resolution and high-frequency composite imagery while providing estimates of uncertainty.
 
-[see original post](https://www.sciencedirect.com/science/article/abs/pii/S0034425720305630?via%3Dihub)
+[See original post](https://www.sciencedirect.com/science/article/abs/pii/S0034425720305630?via%3Dihub)

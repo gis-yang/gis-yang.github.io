@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[original post](https://www.citizensciencegis.org/blog/dronecovid19)
+[Original post](https://www.citizensciencegis.org/blog/dronecovid19)
 
 Citizen Science GIS at the University of Central Florida supported by the National Science Foundation (NSF) uses Unmanned Aerial Systems (UAS), i.e. drones, to measure eelgrass meadow extent, patchiness, and dynamics through time. Dr. Timothy Hawthorne serves as the UCF PI and Dr. Bo Yang co-leads the UCF portion of this interdisciplinary project. This summer, our research partners continue to collect in situ transects along the west coast for monitoring eelgrass wasting disease.
 

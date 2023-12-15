@@ -8,4 +8,4 @@ tags:
   - readability
   - standard
 ---
-[original post](https://marinegeo.si.edu/capturing-beauty-belize-above-drones-support-science-and-discovery-0)
+[See original post](https://marinegeo.si.edu/capturing-beauty-belize-above-drones-support-science-and-discovery-0)

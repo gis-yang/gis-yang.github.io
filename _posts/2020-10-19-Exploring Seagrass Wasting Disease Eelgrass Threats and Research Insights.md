@@ -20,4 +20,4 @@ During their fieldwork in Oregon and Washington, the team conducted surveys and 
 
 Back in Ithaca, the team collaborates with experts in computing science, including Carla Gomes and Ph.D. student Brendan Rappazzo, to develop an artificial intelligence-driven algorithm. This innovative tool rapidly and accurately measures disease levels on eelgrass blades by analyzing thousands of images, enabling the team to quantify lesions more efficiently than manual methods, significantly advancing their research.
 
-[see original post](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)
+[See original post](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)

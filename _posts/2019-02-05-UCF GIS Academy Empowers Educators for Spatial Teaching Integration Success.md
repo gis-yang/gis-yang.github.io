@@ -22,4 +22,4 @@ The success stories and testimonials from participants highlighted the impact of
 
 In conclusion, the UCF GIS Academy served as a valuable platform for educators to acquire practical GIS skills and strategies for integrating geospatial technology into their teaching practices. By empowering teachers, the program contributes to fostering a more technologically adept and spatially aware generation of students.
 
-[original post](https://sciences.ucf.edu/news/gis-academy-gives-teachers-hands-on-experience/)
+[Original post](https://sciences.ucf.edu/news/gis-academy-gives-teachers-hands-on-experience/)

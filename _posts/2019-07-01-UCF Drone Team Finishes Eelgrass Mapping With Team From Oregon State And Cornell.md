@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-mapping-with-team-from-oregon-state-and-cornell)
+[Original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-mapping-with-team-from-oregon-state-and-cornell)
 
 The second fieldwork experience of eelgrass mapping was successful this June. This trip was made possible through a $1.3 million grant funded by the National Science Foundation (NSF). On this trip, the Citizen Science GIS drone team: Dr. Bo Yang, Michael Feinman, and Hunter Searson worked collaboratively with researchers from Cornell University and Oregon State University, Dr. Fiona Tomas Nash, Dr. Lillian Aoki, and Korrina Wirfs. 
 

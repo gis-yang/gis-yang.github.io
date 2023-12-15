@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[original post](https://www.citizensciencegis.org/blog/top-5-csgis-drone-shots)
+[Original post](https://www.citizensciencegis.org/blog/top-5-csgis-drone-shots)
 
 The work we do at CitizenScienceGIS often leads us to beautiful destinations, and we would love for our followers to be able to virtually experience all that we do. This is why we have compiled a list of our top 5 drone shots, in no specific order. For the best viewing experience, it is recommended that you watch each flight in full screen at 1080p or 1440p resolution, if possible.
 

@@ -18,4 +18,4 @@ The research showcases the potential of UAV-based multispectral mapping as a rep
 
 Overall, the research highlights the utility of UAV multispectral mapping as an advanced and effective tool for coastal management, indicating its potential for widespread application in similar coastal environments globally.
 
-[original post](https://www.mdpi.com/2504-446X/3/3/60)
+[See original post](https://www.mdpi.com/2504-446X/3/3/60)

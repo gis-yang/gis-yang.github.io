@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[original post](https://www.citizensciencegis.org/blog/nsfsmithsonianoregon2021)
+[Original post](https://www.citizensciencegis.org/blog/nsfsmithsonianoregon2021)
 
 The 4:30 AM alarm sounded, prompting the first day of data collection for the 2021 year for the NSF Smithsonian project studying eelgrass and wasting disease along the Pacific coast. After multiple flights and road trips through the Oregon landscape, the Citizen Science GIS at UCF team led by Dr. Tim Hawthorne and Dr. Bo Yang arrived in the town of Coos Bay, Oregon, 3000 miles from their home lab. 
 

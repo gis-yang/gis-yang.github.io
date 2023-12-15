@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
+[Original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
 
 In July of 2019, the Citizen Science GIS drone team, Dr. Bo Yang, Michael Feinman, and Hunter Searson traveled along the US Pacific Coast to coordinate drone mapping with multiple research institutions to support the NSF eelgrassresearch project with $1.3 million in funding.
 

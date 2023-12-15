@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell)
+[Original post](https://www.citizensciencegis.org/blog/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell)
 
 The first session of the fieldtrip series has been successfully carried out, which is a part of a new collaborative $1.3 million dollar grant from the National Science Foundation (NSF). supports Citizen Science GIS at University of Central Florida (UCF). The UCF portion of the project uses Unmanned Aerial Systems (UAS), i.e. drones, to measure eelgrass meadow extent, patchiness, and dynamics through time. Drone imagery will be collected at least annually in coordination with in situ sampling which will also be used to validate the imagery by ground-truthing across a range of points within each meadow. 
 

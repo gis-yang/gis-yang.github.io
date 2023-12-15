@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/dr-hawthorne-brings-drone-cat-and-geobus-to-central-florida-gis-workshop)
+[Original post](https://www.citizensciencegis.org/blog/dr-hawthorne-brings-drone-cat-and-geobus-to-central-florida-gis-workshop)
 
 This week, Dr. Hawthorne and our Citizen Science GIS team brought The Golden Rule, Dronecat and GeoBus to Central Florida GIS Workshop. Dr. Hawthorne was invited as a keynote speaker to present our 40 foot city bus with a mobile citizen science laboratory focused on maps, apps, and drones that visits all K-12 schools in Florida. The presentation was well-attended with over 200 industry leaders from around the region.
 

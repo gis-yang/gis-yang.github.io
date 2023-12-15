@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[original post](https://www.citizensciencegis.org/blog/summer-nsf-pacific-coast-drone-mapping-completed-safely-during-covid-19)
+[Original post](https://www.citizensciencegis.org/blog/summer-nsf-pacific-coast-drone-mapping-completed-safely-during-covid-19)
 
 Academia is struggling to continue research and education during the COVID-19 pandemic. At University of Central Florida (UCF) most travel and fieldwork (especially work in other parts of the country) are on pause to stop the spread of COVID-19. This unexpected change influenced many of our NSF grant research activities, including our [West Coast drone mapping project](https://www.citizensciencegis.org/projects/drone-mapping/). Although our drone team was not able to travel to the field this summer, we developed a remote drone mapping program to continue our drone mapping activities with research partners along the West Coast of the United States. By using the online teaching and training, our research partners were able to get FAA Part 107 certification, and used pre-programmed routes for their drone flight missions. We successfully mapped most sites as we did in 2019, through the power of collaboration and partnership with our incredible West Coast partners and supporting citizen scientists. 
 

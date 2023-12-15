@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[original post](https://www.citizensciencegis.org/blog/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant)
+[Original post](https://www.citizensciencegis.org/blog/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant)
 
 Teachers are our heroes. You know this. We at Citizen Science GIS often talk about the amazing K-12 teachers we work with and learn from around the globe. Every day, whether in person or remotely, they inspire science's next generation. During this period of social distancing and remote learning, we know even more how valuable teachers are to science and society. To support teachers on Earth Day 2020, we wanted to share a big announcement.
 

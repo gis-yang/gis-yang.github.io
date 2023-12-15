@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[original post](https://www.citizensciencegis.org/blog/eelresults20)
+[Original post](https://www.citizensciencegis.org/blog/eelresults20)
 
 Citizen Science GIS at the University of Central Florida is using Unoccupied Aerial Systems (UAS), i.e. UAV/drones, to investigate the change of eelgrass beds along the Pacific coast with the Smithsonian MarineGEO program and several universities. Although UCF travel is limited by COVID-19 this summer, we are still able to do the drone mapping with remote training and pre-programming the flight missions collaborating with our research partners. See here for our ongoing remote drone mapping practices.
 
