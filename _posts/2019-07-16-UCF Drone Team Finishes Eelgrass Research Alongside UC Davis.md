@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis)
+[Original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis)
 
 The Project
 During June and July of 2019, Citizen Science GIS team members Dr. Bo Yang, Michael Feinman, and Hunter Searson traveled along the US Pacific Coast to coordinate drone research with multiple institutions. This research project with $1.3 million worth of funding from the National Science Foundation, is well underway.

@@ -18,4 +18,4 @@ The outcomes of this approach include the generation of detailed, sharpened LULC
 
 In summary, the paper introduces an innovative geostatistical approach that addresses the limitations of varying spatial and temporal resolutions in LULC data, resulting in refined maps, improved understanding of land use changes, and creating a robust dataset essential for effective land management and planning.
 
-[original post](https://www.sciencedirect.com/science/article/abs/pii/S0303243419300698?via%3Dihub)
+[See original post](https://www.sciencedirect.com/science/article/abs/pii/S0303243419300698?via%3Dihub)

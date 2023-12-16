@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/how-to-create-region-of-interest-roi-in-google-earth-desktop-using-kml-file)
+[Original post](https://www.citizensciencegis.org/blog/how-to-create-region-of-interest-roi-in-google-earth-desktop-using-kml-file)
 
 Google Earth on desktop is free for users with advanced feature needs. It's a really useful resource allowing users to import and export Geographic Information System (GIS) data, and go back in time with historical imagery. Available for free for download on PC, Mac, or Linux. We've created this quick guide for our friends new to Google Earth. Happy mapping!
 

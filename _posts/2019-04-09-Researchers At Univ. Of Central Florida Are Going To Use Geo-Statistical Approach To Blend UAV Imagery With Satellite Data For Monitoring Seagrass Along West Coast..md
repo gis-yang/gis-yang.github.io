@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/researcher-at-univ-of-central-florida-is-going-to-use-geo-statistical-approach-to-blend-uav-imagery-with-satellite-data-for-monitoring-seagrass-along-west-coast)
+[Original post](https://www.citizensciencegis.org/blog/researcher-at-univ-of-central-florida-is-going-to-use-geo-statistical-approach-to-blend-uav-imagery-with-satellite-data-for-monitoring-seagrass-along-west-coast)
 
 Dr. Bo Yang presents UAV data sharpening method in AAG 2019 at DC
 Dr. Bo Yang from Citizen Science GIS at University of Central Florida presents "A spatio-temporal geo-statistical approach for sharpening multi-spectral satellite imagery using high-resolution UAV data " in the annual meeting 2019 of American Association of Geography (AAG) at DC.

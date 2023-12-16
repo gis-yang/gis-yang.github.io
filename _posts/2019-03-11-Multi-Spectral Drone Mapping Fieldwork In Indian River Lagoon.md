@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/multi-spectral-drone-mapping-field-trip-for-indian-river-lagoon-with-citizen-science-gis-team)
+[Original post](https://www.citizensciencegis.org/blog/multi-spectral-drone-mapping-field-trip-for-indian-river-lagoon-with-citizen-science-gis-team)
 
 Citizen Science GIS at University of Central Florida carried out two drone mapping field trips (with FAA certified pilots) to Indian River Lagoon on Feb. 28 and Mar. 5, 2019. The fieldwork was planned and carried out by Dr. Bo Yang, Michael Feinman, Tori-Gaye Atterbury, and Amber Rutstein. This fieldwork was in preparation for the new 1.3M NSF Smithsonian eelgrass mapping project with the Smithsonian MarineGeo program. The drone mapping portion of that grant is led by Dr. Timothy Hawthorne and Dr. Bo Yang.
 

@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-[see original post](https://www.citizensciencegis.org/blog/aag-presentations-with-citizen-science-gis)
+[Original post](https://www.citizensciencegis.org/blog/aag-presentations-with-citizen-science-gis)
 
 We've Compiled A List Of Our Team's Presentations At AAG In DC. Hope You Can Join Us!
 
