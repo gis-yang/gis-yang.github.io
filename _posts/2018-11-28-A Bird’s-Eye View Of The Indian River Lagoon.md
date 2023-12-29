@@ -26,3 +26,14 @@ In addition to providing spectacular photos and videos for their aesthetic value
 Using drones for science, we also generate Orthomosaic images for parts of a land pattern, meaning many images are digitally stitched together and geo-referencing corrected using geo-registration algorithms in Esri's Drone2Map software. The Orthomosaic imagery from River Breeze Park is pictured below, and raster file can be found in Citizen Science GIS at ArcGIS online (link). The Orthomosaic drone imagery provides relatively higher spatial resolution than the previous satellite remote sensing imagery. Besides the orthomosaic imagery, drone is also able to generate geo-referencing high-resolution products of DEM/DSM, NDVI, and 3-D cloud model.
 
 Stay tuned to learn more about how the Citizen Science GIS team is partnering with Smithsonian, Cornell, and the University of California, Davis and using these technologies for mapping marine ecosystems along the entire west coast of the United States from Alaska to California! In addition to our blog, you can follow us on Facebook, Instagram, and Twitter.By Dr. Bo Yang and Dr. Hannah Torres.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2018111801.png" alt="">
+Figure 1. the Indian River Lagoon from Google earth imagery
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2018111802.png" alt="">
+Figure 2. the Indian River Lagoon from drone imagery
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2018111803.png" alt="">
+Figure 3. Orthographic of Oak Hill at River Breeze Park near Indian River Lagoon on ArcGIS online.
