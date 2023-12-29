@@ -12,6 +12,8 @@ tags:
 
 We've Compiled A List Of Our Team's Presentations At AAG In DC. Hope You Can Join Us!
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019033001.png" alt="">
+
 Thursday, April 4
 
 Mapping Emotional Attachment In The Indian River Lagoon Using Participatory Approaches

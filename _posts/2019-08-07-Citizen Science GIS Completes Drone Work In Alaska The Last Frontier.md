@@ -10,13 +10,14 @@ tags:
 ---
 [Original post](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019080701.png" alt="">
+
 Planning... And More Planning
 "The Last Frontier" had many meanings during Citizen Science GIS's most recent trip to Alaska. Aside from Alaska's notorious nickname, this was the "Last Frontier" for researchers Dr. Bo Yang and Michael Feinman. This was the last stop on a 2-1/2 week trip where they worked with partners in Bodega Bay and San Diego, California.
 
 After many months of planning with the National Science Foundation, MarineGeo at the Smithsonian Institution, and the University of Alaska - Fairbanks, Dr. Yang and Feinman finally arrived in Craig, Alaska by a small, 8 passenger plane.
 
-Photo Credit: Island Air Express - Alaska
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019080702.png" alt="">
 Photo Credit: Island Air Express - Alaska
 
 Michael outside of Plane

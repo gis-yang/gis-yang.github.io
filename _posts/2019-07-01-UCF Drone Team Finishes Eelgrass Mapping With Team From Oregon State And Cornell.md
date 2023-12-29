@@ -17,7 +17,7 @@ UCF drone mapping team, team from Cornell University and Oregon State University
 
 Our team first arrived in Coos Bay on June 14th. On June 15th, we began training the Oregon team on drone set-up, safety procedures, and practiced flying. This drone and GIS training is important because it will allow for our sites to use drones in eelgrass data collection and exploration when the UCF team is not on site.
 
-EQNX6722.jpg
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019070101.jpg" alt="">
 Hands on drone assembly instruction
 
 Fossil Point was our first site at Coos Bay and was mapped on June 16th.
@@ -28,21 +28,24 @@ On June 18th, we traveled to Yaquina Bay to map Sally's Bend North and Sally's B
 
 Idaho Flat was mapped on June 19th
 
-CoosBaySites-1.png
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019070102.png" alt="">
 
-SBN100ft.png
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019070103.png" alt="">
+
 Portion of Sally's Bend North eelgrass bed including one of the sub-tidal transects
 
 This fieldwork included some new challenges for our team: dense and low-lying fog, deep mud flats, no-fly zone limitations, and mechanical issues. Being a scientist/researcher means being prepared for adversity in the field. It is important that we were able to evaluate our situations and adjust to a change in circumstances.
 
-image-13.png
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019070104.png" alt="">
+
 Fiona, Korrina, and Lillian looking at lesions on eelgrass samples (left); Lillian in the fieldwork (right)
 
 All mapping and drone training was performed by certified FAA part 107 pilots with legal flight authorization.
 
 Our next trip will be to Bodega Bay and Tomales Bay, California, where we will be working with University of California Davis to make more eelgrass maps!
 
-sbso.png
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019070105.png" alt="">
+
 Sally's Bend South 100ft orthomosaic generated through Drone2Map rapid processing 
 
 
