@@ -12,7 +12,8 @@ tags:
 
 Citizen Science GIS at the University of Central Florida supported by the National Science Foundation (NSF) uses Unmanned Aerial Systems (UAS), i.e. drones, to measure eelgrass meadow extent, patchiness, and dynamics through time. Dr. Timothy Hawthorne serves as the UCF PI and Dr. Bo Yang co-leads the UCF portion of this interdisciplinary project. This summer, our research partners continue to collect in situ transects along the west coast for monitoring eelgrass wasting disease.
 
-image.png
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/20200070701.png" alt="">
+
 Cornell fieldwork team led by Dr. Drew Harvell working in San Juan Island, WA
 
 In the summer of 2019 our Citizen Science GIS drone team, Bo, Michael, and Hunter traveled along the west coast to map over twenty eelgrass meadows, collected drone mapping geographical data, and trained our research partners for drone mapping.
@@ -27,13 +28,13 @@ Remote drone mapping taken place in WA (Pictured: Ryan, Tom, and Olivia)
 
 The training efforts of last year by the Citizen Science GIS drone team initiated the drone mapping for novice users. This year, the Citizen Science GIS drone team further developed the drone training course to help research partners learn drone operations for mapping, and to get prepared for the FAA part 107 examination. 
 
-image-2.png
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/20200070702.png" alt="">
 Pre-programmed drone mapping mission for eelgrass beds
 
 The drone control app was used by the professional drone team to pre-program the flight missions based on the local weather and site conditions, while the local partners use the synchronized flight missions to do the drone mapping. 
 
 
-Our drone training course on GitHub
+[Our drone training course on GitHub](https://geofly.io/DroneMapping/)
 
 This collaborative drone mapping work combined the remote drone professionals with local biological scientists' efforts work achieving an effective data remote sensing data collection method under the COVID-19 pandemic.
 
