@@ -29,6 +29,7 @@ Remote drone mapping taken place in WA (Pictured: Ryan, Tom, and Olivia)
 The training efforts of last year by the Citizen Science GIS drone team initiated the drone mapping for novice users. This year, the Citizen Science GIS drone team further developed the drone training course to help research partners learn drone operations for mapping, and to get prepared for the FAA part 107 examination. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/20200070702.png" alt="">
+
 Pre-programmed drone mapping mission for eelgrass beds
 
 The drone control app was used by the professional drone team to pre-program the flight missions based on the local weather and site conditions, while the local partners use the synchronized flight missions to do the drone mapping. 
