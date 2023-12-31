@@ -1,5 +1,5 @@
 ---
-title: "Advancing Drone Tech SJSU's Remote Sensing Presentation Success Recap"
+title: "[Post] Advancing Drone Tech SJSU's Remote Sensing Presentation Success Recap"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

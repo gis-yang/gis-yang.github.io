@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Seagrass Decline UAV Imaging Unveils Climate Stress Impact"
+title: "[Paper] Quantifying Seagrass Decline UAV Imaging Unveils Climate Stress Impact"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

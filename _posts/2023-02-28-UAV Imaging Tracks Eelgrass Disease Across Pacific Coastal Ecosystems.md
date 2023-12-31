@@ -1,5 +1,5 @@
 ---
-title: "UAV Imaging Tracks Eelgrass Disease Across Pacific Coastal Ecosystems"
+title: "[Paper] UAV Imaging Tracks Eelgrass Disease Across Pacific Coastal Ecosystems"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
