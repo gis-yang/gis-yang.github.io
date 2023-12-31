@@ -1,5 +1,5 @@
 ---
-title: "Geostatistical Approach for Enhanced Land Use Mapping and Prediction"
+title: "[Paper] Geostatistical Approach for Enhanced Land Use Mapping and Prediction"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

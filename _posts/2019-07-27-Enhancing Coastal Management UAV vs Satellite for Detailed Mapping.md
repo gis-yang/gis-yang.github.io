@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Coastal Management UAV vs Satellite for Detailed Mapping"
+title: "[Paper] Enhancing Coastal Management UAV vs Satellite for Detailed Mapping"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

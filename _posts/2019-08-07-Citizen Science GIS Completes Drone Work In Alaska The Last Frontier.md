@@ -25,6 +25,8 @@ Michael outside of Plane
 Bo and Michael on plane
 As soon as Yang and Feinman arrived in Craig, Alaska, they met with Dr. Ginny Eckert and her great team of researchers. This unique team is made up of high school "EarthWatchers," undergraduates, master's, and post-doctorate students.
 
+<iframe width="640" height="360" src="http://static1.squarespace.com/static/5e8b8c13ec40691ffd69f93c/5ea9a32b94bd4600e534ea4f/5ea9a35494bd4600e534f47b/1588175700253/media.io_IMG_2072.mp4?format=original" frameborder="0" allowfullscreen></iframe>
+
 Dr. Ginny Erkert Explains Her Role in the NSF Collaboration
 Early Mornings Are Real
 Due to the tide schedule, a vigorous data and sampling schedule was created for the five days of fieldwork that Yang and Feinman were in Alaska. The typical call time was 3:00 A.M. throughout the week, and most eelgrass sites were accessed by a 1.5-hour car ride followed by a 45-minute boat ride.
