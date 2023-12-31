@@ -1,5 +1,5 @@
 ---
-title: "Traffic Restrictions During 2008 Beijing Olympics Mitigated Urban Heat"
+title: "[Paper] Traffic Restrictions During 2008 Beijing Olympics Mitigated Urban Heat"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

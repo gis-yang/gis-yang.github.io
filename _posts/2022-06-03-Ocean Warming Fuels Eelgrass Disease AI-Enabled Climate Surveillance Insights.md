@@ -1,5 +1,5 @@
 ---
-title: "Ocean Warming Fuels Eelgrass Disease AI-Enabled Climate Surveillance Insights"
+title: "[paper] Ocean Warming Fuels Eelgrass Disease AI-Enabled Climate Surveillance Insights"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
