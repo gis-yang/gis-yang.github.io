@@ -1,5 +1,5 @@
 ---
-title: "ST-Cokriging: Assimilating Multi-Scale Remote Sensing for Enhanced Resolution"
+title: "[Paper] ST-Cokriging: Assimilating Multi-Scale Remote Sensing for Enhanced Resolution"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
