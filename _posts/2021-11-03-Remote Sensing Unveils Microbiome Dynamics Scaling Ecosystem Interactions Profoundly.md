@@ -1,5 +1,5 @@
 ---
-title: "Remote Sensing Unveils Microbiome Dynamics: Scaling Ecosystem Interactions Profoundly"
+title: "[Paper] Remote Sensing Unveils Microbiome Dynamics: Scaling Ecosystem Interactions Profoundly"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
