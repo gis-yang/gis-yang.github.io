@@ -1,5 +1,5 @@
 ---
-title: "Advancing Wildfire Research: Prof Bo Yang Present Drone Innovations at SJSU MetCS Seminar"
+title: "[Report] Advancing Wildfire Research: Prof Bo Yang Present Drone Innovations at SJSU MetCS Seminar"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

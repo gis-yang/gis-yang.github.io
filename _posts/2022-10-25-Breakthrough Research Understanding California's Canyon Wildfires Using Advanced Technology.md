@@ -1,5 +1,5 @@
 ---
-title: "Breakthrough Research Understanding California's Canyon Wildfires Using Advanced Technology"
+title: "[StoryMap] Breakthrough Research Understanding California's Canyon Wildfires Using Advanced Technology"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

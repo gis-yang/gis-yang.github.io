@@ -14,11 +14,17 @@ Citizen Science GIS at the University of Central Florida is using Unoccupied Aer
 
 The eelgrass beds change in spatial extent and patchiness has been well-captured by the drone mapping technique in the Millerton Point site in Bodega Bay, CA. This change is visualized in a side-by-side map in Google Earth Engine.
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2020072001.png" alt="">
+
 [[Google Earth Engine] A side-by-side eelgrass bed comparison for Millerton Point, CA](https://hao2309.users.earthengine.app/view/eelgrass-drone-image-demo)
 
 The drone mapping as an advanced mapping technology affords 1-3cm spatial resolution for the remotely sensed imagery. This provided a valuable measurement for eelgrass meadow extent, patchiness, and dynamics through time. From the side-by-side map above we can see the center became less patchiness of this eelgrass bed according to the high-resolution drone mapping orthomosaics from 2019 to 2020. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2020072002.png" alt="">
+
 [Comparison of the eelgrass "dead patches" in the center of the bed from 2019 to 2020](https://hao2309.users.earthengine.app/view/eelgrass-drone-image-demo)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2020072003.png" alt="">
 
 [Comparison of the vast expansion on](https://hao2309.users.earthengine.app/view/eelgrass-drone-image-demo)
 
@@ -27,6 +33,8 @@ The drone mapping as an advanced mapping technology affords 1-3cm spatial resolu
  of the eelgrass bed  from 2019 to 2020
 
 Another interesting pattern to note is a vast expansion of the eelgrass edge in the eelgrass bed. "It is really shocking to see just how much this bed expanded in only one year. Last year this bed had virtually no disease.  This year it has substantially more, and some dead patches are clearly visible in the center." said by Dr. Stachowicz, Professor in the Department of Evolution and Ecology at UC Davis.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2020072004.png" alt="">
 
 Photo of live eelgrass and heavily fouled dead eelgrass, picture by Dr. Deanna Beatty
 

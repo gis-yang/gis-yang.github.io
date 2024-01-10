@@ -1,5 +1,5 @@
 ---
-title: "Spatio-Temporal Fusion Enhances Crime Prediction Using Multi-Source Data"
+title: "[Paper] Spatio-Temporal Fusion Enhances Crime Prediction Using Multi-Source Data"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

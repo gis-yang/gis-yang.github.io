@@ -10,6 +10,8 @@ tags:
 ---
 [Original post](https://www.citizensciencegis.org/blog/kirsten-bouck-and-morgan-mcdonald-won-the-student-presentation-competition)
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019091201.jpg" alt="">
+
 Kirsten Bouck and Morgan McDonald, 2 of our Citizen Science GIS
 undergraduates in the NSF CNH coastal connections project, were co-awarded a $500 prize for 2nd place in the student presentation competition at this week's Central Florida GIS Workshop.
 

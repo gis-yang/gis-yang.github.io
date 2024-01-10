@@ -10,6 +10,8 @@ tags:
 ---
 [Original post](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis)
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019071601.jpg" alt="">
+
 The Project
 During June and July of 2019, Citizen Science GIS team members Dr. Bo Yang, Michael Feinman, and Hunter Searson traveled along the US Pacific Coast to coordinate drone research with multiple institutions. This research project with $1.3 million worth of funding from the National Science Foundation, is well underway.
 
@@ -17,7 +19,10 @@ Most recently, Bo and Michael worked alongside researchers from University of Ca
 
 
 Pictured: Naomi Murray, Deanna Betty, Michael Feinman, Jay Stachowicz, Bo Yang
+
 Before Bo and Michael arrived in California, many months of pre-planning was required to coordinate the trip. They planned around obstacles like FAA restrictions, local regulations, and equipment needs. However, they couldn't plan for hurdles like bad weather, large Independence Day crowds, and technical difficulties.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019071602.jpg" alt="">
 
 Drone mapping sites around Bodega Bay, CA
 
@@ -30,6 +35,7 @@ Michael with drone - Westside Park
 Sunrise over shipwreck - Mason's Marina
 
 Bo flying drone at Millerton Point
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019071603.jpg" alt="">
 
 Mason's Marina orthomosaic with stunning water clarity
 Training Today, For Research Tomorrow

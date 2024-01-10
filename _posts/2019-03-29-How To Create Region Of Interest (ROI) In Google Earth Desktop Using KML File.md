@@ -12,6 +12,8 @@ tags:
 
 Google Earth on desktop is free for users with advanced feature needs. It's a really useful resource allowing users to import and export Geographic Information System (GIS) data, and go back in time with historical imagery. Available for free for download on PC, Mac, or Linux. We've created this quick guide for our friends new to Google Earth. Happy mapping!
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019032901.png" alt="">
+
 After download and install of Google Earth Pro, open Google Earth software.
 
 
@@ -25,3 +27,5 @@ Click "ok" to save the polygon, then right click the newly created polygon on th
 
 
 Select KML type and save to the computer.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019032902.png" alt="">

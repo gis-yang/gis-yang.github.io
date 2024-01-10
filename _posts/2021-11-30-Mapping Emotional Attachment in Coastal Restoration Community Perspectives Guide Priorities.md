@@ -1,5 +1,5 @@
 ---
-title: "Mapping Emotional Attachment in Coastal Restoration Community Perspectives Guide Priorities"
+title: "[Paper] Mapping Emotional Attachment in Coastal Restoration Community Perspectives Guide Priorities"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

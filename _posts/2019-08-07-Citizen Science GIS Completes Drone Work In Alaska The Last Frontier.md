@@ -10,19 +10,22 @@ tags:
 ---
 [Original post](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019080701.png" alt="">
+
 Planning... And More Planning
 "The Last Frontier" had many meanings during Citizen Science GIS's most recent trip to Alaska. Aside from Alaska's notorious nickname, this was the "Last Frontier" for researchers Dr. Bo Yang and Michael Feinman. This was the last stop on a 2-1/2 week trip where they worked with partners in Bodega Bay and San Diego, California.
 
 After many months of planning with the National Science Foundation, MarineGeo at the Smithsonian Institution, and the University of Alaska - Fairbanks, Dr. Yang and Feinman finally arrived in Craig, Alaska by a small, 8 passenger plane.
 
-Photo Credit: Island Air Express - Alaska
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019080702.png" alt="">
 Photo Credit: Island Air Express - Alaska
 
 Michael outside of Plane
 
 Bo and Michael on plane
 As soon as Yang and Feinman arrived in Craig, Alaska, they met with Dr. Ginny Eckert and her great team of researchers. This unique team is made up of high school "EarthWatchers," undergraduates, master's, and post-doctorate students.
+
+<iframe width="640" height="360" src="http://static1.squarespace.com/static/5e8b8c13ec40691ffd69f93c/5ea9a32b94bd4600e534ea4f/5ea9a35494bd4600e534f47b/1588175700253/media.io_IMG_2072.mp4?format=original" frameborder="0" allowfullscreen></iframe>
 
 Dr. Ginny Erkert Explains Her Role in the NSF Collaboration
 Early Mornings Are Real

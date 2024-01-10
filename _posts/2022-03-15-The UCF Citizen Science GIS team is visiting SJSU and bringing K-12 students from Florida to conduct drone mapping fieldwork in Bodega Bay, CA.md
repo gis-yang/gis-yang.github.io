@@ -1,5 +1,5 @@
 ---
-title: "The UCF Citizen Science GIS team is visiting SJSU and bringing K-12 students from Florida to conduct drone mapping fieldwork in Bodega Bay, CA"
+title: "[StoryMap] The UCF Citizen Science GIS team is visiting SJSU and bringing K-12 students from Florida to conduct drone mapping fieldwork in Bodega Bay, CA"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

@@ -10,6 +10,8 @@ tags:
 ---
 [Original post](https://www.citizensciencegis.org/blog/gisday19)
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019111801.jpg" alt="">
+
 GIS Day Team Members and Volunteers
 
 GIS Day 2019 at UCF: A Focus on Maps, Apps and Drones hosted by UCF’s Citizen Science GIS and GeoBus team in the Department of Sociology was a success on Thursday, Nov 14. The event took place in the Student Union on the UCF main campus. We were at room capacity with the fire code, and nearly 400 students/teachers/families completed hands-on activities focused on maps, apps and drones with our Citizen Science GIS and GeoBus team.
@@ -41,6 +43,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSeiBuIp1FB9P66BGR4QahTcy-mvHIq5NwiTPr0u
 
 https://youtu.be/JUqbu33VGXE
 Follow us on social media to learn more about our adventures on the Maps, Apps, & Drones Tour, as well as on our other projects: Instagram, Twitter, LinkedIn, Facebook.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019111802.jpg" alt="">
 
 tylercopelandphoto.com
 All photos are taken by our awesome team photographer Tyler Copeland.
