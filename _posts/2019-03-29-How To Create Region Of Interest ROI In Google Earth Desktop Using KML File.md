@@ -4,11 +4,11 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - GIS
-  - Google Earth
+  - Post Formats
+  - readability
   - standard
 ---
-
+[Original post](https://www.citizensciencegis.org/blog/how-to-create-region-of-interest-roi-in-google-earth-desktop-using-kml-file)
 
 Google Earth on desktop is free for users with advanced feature needs. It's a really useful resource allowing users to import and export Geographic Information System (GIS) data, and go back in time with historical imagery. Available for free for download on PC, Mac, or Linux. We've created this quick guide for our friends new to Google Earth. Happy mapping!
 
@@ -29,5 +29,3 @@ Click "ok" to save the polygon, then right click the newly created polygon on th
 Select KML type and save to the computer.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019032902.png" alt="">
-
-[Original post](https://www.citizensciencegis.org/blog/how-to-create-region-of-interest-roi-in-google-earth-desktop-using-kml-file)

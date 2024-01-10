@@ -4,17 +4,18 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Citizen Science GIS
+  - AAG
+  - Talk
 ---
 [Original post](https://www.citizensciencegis.org/blog/aag-presentations-with-citizen-science-gis)
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/AAG.png" alt="">
+
 We've Compiled A List Of Our Team's Presentations At AAG In DC. Hope You Can Join Us!
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019033001.png" alt="">
 
-Thursday, April 4
+* Thursday, April 4
 
 Mapping Emotional Attachment In The Indian River Lagoon Using Participatory Approaches
 Assigned to Session
@@ -35,7 +36,7 @@ Room: Roosevelt 3.5, Marriott, Exhibition Level
 
 Presentation File: No File Uploaded
 
-Friday, April 5
+* Friday, April 5
 A Spatio-Temporal Geostatistical Approach For Sharpening Multi-Spectral Satellite Imagery Using High-Resolution UAV Data
 Assigned to Session
 
@@ -47,7 +48,7 @@ Keywords: UAV; spatio-temporal modelling; Cokriging; multi-spectral; seagrass ma
 
 Session Type: Paper
 
-Day: 4/5/2019
+* Day: 4/5/2019
 
 Start / End Time: 9:55 AM / 11:35 AM
 
@@ -66,7 +67,7 @@ Keywords: GIS, Maps, Apps, Drones, Education, STEAM, STEM
 
 Session Type: Poster
 
-Day: 4/5/2019
+* Day: 4/5/2019
 
 Start / End Time: 9:55 AM / 11:35 AM
 
@@ -85,7 +86,7 @@ Keywords: participatory GIS, community mapping, flooding, citizen science
 
 Session Type: Paper
 
-Day: 4/5/2019
+* Day: 4/5/2019
 
 Start / End Time: 5:00 PM / 6:40 PM
 
@@ -104,7 +105,7 @@ Keywords: Sense of place, local knowledge, coastal restoration, GIS
 
 Session Type: Paper
 
-Day: 4/5/2019
+* Day: 4/5/2019
 
 Start / End Time: 5:00 PM / 6:40 PM
 
@@ -114,7 +115,7 @@ Presentation File: No File Uploaded
 
 **Citizen Science GIS group dinner at 7:30 pm at The District Kitchen (closed event): http://districtkitchen.com/**
 
-Saturday, April 6
+* Saturday, April 6
 Mapping Beach Debris In Belize With Participatory GIS
 Assigned to Session
 
@@ -126,7 +127,7 @@ Keywords: marine debris, Participatory GIS, citizen science, Belize, GIS
 
 Session Type: Paper
 
-Day: 4/6/2019
+* Day: 4/6/2019
 
 Start / End Time: 9:55 AM / 11:35 AM
 
@@ -145,7 +146,7 @@ Keywords: drones, UAV, Participatory GIS, spatial storytelling, Belize
 
 Session Type: Paper
 
-Day: 4/6/2019
+* Day: 4/6/2019
 
 Start / End Time: 8:00 AM / 9:40 AM
 
@@ -164,7 +165,7 @@ Keywords: energy poverty, clean cooking, respiratory illness, sub-Saharan Africa
 
 Session Type: Paper
 
-Day: 4/6/2019
+* Day: 4/6/2019
 
 Start / End Time: 8:00 AM / 9:40 AM
 
@@ -183,7 +184,7 @@ Keywords: Participatory GIS, drones, Citizen Science, Open Data, Mapping
 
 Session Type: Paper
 
-Day: 4/6/2019
+* Day: 4/6/2019
 
 Start / End Time: 5:00 PM / 6:40 PM
 

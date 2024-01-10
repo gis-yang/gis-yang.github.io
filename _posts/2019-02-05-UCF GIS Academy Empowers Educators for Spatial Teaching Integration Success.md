@@ -4,10 +4,12 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Florida
+  - GIS
+  - Education
 ---
+[Original post](https://sciences.ucf.edu/news/gis-academy-gives-teachers-hands-on-experience/)
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/2019020501.jpg" alt="">
 
 The article highlights the success and impact of a Geographic Information Systems (GIS) Academy, focusing on providing hands-on training and experience to educators. Hosted by the University of Central Florida (UCF), the academy aimed to empower teachers with practical GIS skills and knowledge to integrate geospatial technology into their curriculum effectively.
@@ -28,4 +30,4 @@ The success stories and testimonials from participants highlighted the impact of
 
 In conclusion, the UCF GIS Academy served as a valuable platform for educators to acquire practical GIS skills and strategies for integrating geospatial technology into their teaching practices. By empowering teachers, the program contributes to fostering a more technologically adept and spatially aware generation of students.
 
-[Original post](https://sciences.ucf.edu/news/gis-academy-gives-teachers-hands-on-experience/)
+
