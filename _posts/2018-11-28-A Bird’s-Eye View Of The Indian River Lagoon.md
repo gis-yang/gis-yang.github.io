@@ -4,9 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Drone Videos
+  - Florida
 ---
 [See original post](https://www.citizensciencegis.org/blog/a-birds-eye-view-of-the-indian-river-lagoon?rq=birds)
 
