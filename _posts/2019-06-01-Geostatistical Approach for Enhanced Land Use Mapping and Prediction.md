@@ -4,13 +4,15 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Remote Sensing
+  - Paper
+  - GIS
 ---
 The paper titled "Sharpening Land Use Maps and Predicting Land Use Change Trends Using High-Resolution Airborne Images: A Geostatistical Approach" addresses the critical need for detailed and regularly updated land use/land cover (LULC) data, essential for comprehensive Earth surface characterization, predicting land use changes, and evaluating development plans' impacts.
 
 The study introduces a novel spatio-temporal Cokriging method aimed at enhancing LULC data derived from both high-resolution airborne imagery and historical remote sensing data, such as Landsat. While airborne images offer superior spatial resolution, they lack consistent temporal coverage. Conversely, historical satellite imagery like Landsat provides temporal coverage but at lower spatial resolutions.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Gallery/Picture78.jpg" alt="">
 
 Demonstrating the method's utility using time-series coarse resolution LULC maps and high-resolution airborne images of the Upper Mill Creek Watershed, the approach leverages spatio-temporal dependence within and between datasets. By modeling the Anderson classification codes using spatial, temporal, and cross-covariance structures, and transforming integer classification codes to class probability, the method effectively reconciles differences among multi-source spatio-temporal LULC data.
 
