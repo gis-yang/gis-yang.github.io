@@ -10,7 +10,7 @@ tags:
 ---
 [Original post](https://www.citizensciencegis.org/blog/aag-presentations-with-citizen-science-gis)
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Posts/AAG.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/AAG.png" alt="">
 
 We've Compiled A List Of Our Team's Presentations At AAG In DC. Hope You Can Join Us!
 

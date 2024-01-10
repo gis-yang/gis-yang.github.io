@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Talk
+  - AAG
+  - GIS
 ---
 [Original post](https://www.citizensciencegis.org/blog/researcher-at-univ-of-central-florida-is-going-to-use-geo-statistical-approach-to-blend-uav-imagery-with-satellite-data-for-monitoring-seagrass-along-west-coast)
 
