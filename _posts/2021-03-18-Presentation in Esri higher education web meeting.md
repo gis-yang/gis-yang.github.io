@@ -4,9 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Esri
+  - Talk
+  - Education
 ---
 The "Teaching with Drones" web meeting in higher education, hosted by Esri, highlighted the increasing use of UAVs (Unmanned Aerial Vehicles), including drones, for data capture and the rising demand for skills in UAV piloting and data processing in universities. The meeting featured presentations from three experts:
 
