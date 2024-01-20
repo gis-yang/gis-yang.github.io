@@ -7,6 +7,8 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
+*2024:*
+*1.	Alexander, S. E., Yang, B., Hussey, O., & Hicks, D. (2023). Examining the Externalities of Highway Capacity Expansions in California: An Analysis of Land Use and Land Cover (LULC) Using Remote Sensing Technology. Mineta Transportation Institute Publications [DOI: 10.31979/mti.2023.2251](https://scholarworks.sjsu.edu/mti_publications/471/)
 
 *2023:*
 * Yang, B., Hawthorne, T.L., Aoki, L.R., Beatty, D.S., Domke, L.K., Copeland, T., Eckert, G.L., Graham, O.J., Harper, L., Hessing-Lewis, M. Rappazzo, B., and Hovel, K.A., et al., (2023). Low-Altitude UAV Imaging Accurately Quantifies Eelgrass Wasting Disease from Alaska to California. *Geophysical Research Letters* [DOI: 10.1029/2022GL101985](https://doi.org/10.1029/2022GL101985)
