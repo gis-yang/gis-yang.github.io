@@ -10,13 +10,13 @@ sidebar:
 feature_row_left:
   - image_path: /assets/images/Lab113.jpg
     title: "SJSU Geo-spatial lab "
-    excerpt: "The SJSU geo-spatial lab is a cutting-edge facility that offers advanced technology to students and faculty. It features 30 high-performance computers with SSD storage, larger memory, and high-end video cards with CUDA parallel computing ability. Dual-monitoring screens and high-resolution projectors enhance the visual experience, and the lab also has a seminar room and student lounge for collaborative learning. With more exciting features in the pipeline, such as an augmented reality contour map sandbox, geo-visualization wall, and map galleries."
+    excerpt: "The SJSU Geo-Spatial Lab is a state-of-the-art facility providing advanced geospatial technology tools for students and researchers. It's equipped with 30 high-performance computers featuring SSD storage, large memory, high-end video cards with CUDA, and dual-monitoring screens. The lab includes a seminar room, student lounge, and high-resolution projectors. Future additions include an augmented reality map sandbox, geo-visualization wall, and map galleries. It offers comprehensive software like ArcGIS Pro, Esri Drone2Map, ERDAS, ENVI, QGIS, Google Earth Engine, MS Office Suite, and statistical analysis tools."
     url: "https://goo.gl/maps/kZJh1BBCTnP2ahpP8"
     btn_label: "Washington Square Hall"
     btn_class: "btn--primary"
 
 intro: 
-  - excerpt: 'The SJSU Geo-Spatial Lab is an innovative facility dedicated to providing students and research partners with access to cutting-edge geospatial technology tools. Equipped with full licenses for ArcGIS Pro, Esri Drone2Map, remote sensing software packages like ERDAS and ENVI, open access GIS systems such as QGIS and Google Earth Engine, as well as the MS Office Suite and statistical analysis packages, the lab offers a comprehensive suite of software to support geospatial analysis, modeling, and visualization.'
+  - excerpt: 'Discover cutting-edge UAVs/drones, sophisticated sensors, and precision field instruments at our Geo-Spatial Lab for unparalleled research and educational experiences.'
 
 feature_row_Drones1:
   - image_path: /assets/images/Drone3.jpg
