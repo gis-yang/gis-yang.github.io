@@ -22,15 +22,21 @@ sidebar:
 
 (11/10) Drone mapping prescribed fire in Wilder Ranch State Park with student team [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7128813570095513600)
 
+![image](/assets/images/Posts/2023110901.jpg){:height="200px" width="300px"}
+
 (11/9) Drone mapping prescribed fire with Wilkin Fire Ecology Lab and Geofly Lab [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7128183977990918145)
 
 (11/6) SJSU Geofly Lab present at VTA GIS Day [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7127437430198009856)
 
 (11/3) URBP and GIS Drone Society come to the SJSU Graduate Fair [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7126332912957800448)
 
+![image](/assets/images/Posts/2023110301.jpg){:height="200px" width="300px"}
+
 (10/01) Geofly Lab has been highlighted on Washington Square Magazine. [[link]](https://sjsu.foleon.com/washington-square-magazine/fall-2023/fly-high-with-bo-yang)
 
 (9/22) Dr. Karen Joyce with GeoNadir give a SAVI talk at SJSU [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7111125371219021824)
+
+![image](/assets/images/Posts/2023092201.jpg){:height="200px" width="300px"}
 
 (9/15) Professor Bo Yang presented ongoing drone and remote sensing projects at *SJSU College of Science MetCS seminar.* [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7108533322602971136)
 
@@ -40,7 +46,11 @@ sidebar:
 
 (04/19) The SJSU Drone class (*GEOG282/173*) had a mapping field trip to Moss Landing Marine Lab, experiencing research fieldwork in Elkhorn Slough [[video]](https://www.linkedin.com/feed/update/urn:li:activity:7058845518130532353)
 
+![image](/assets/images/Posts/MossLanding.jpg){:height="200px" width="500px"}
+
 (03/24) GeoFly Lab members presented at AAG 2024 in Denver, focusing on *urban heat island remote sensing, urban transportation, and urban crime prediction* [[link]](https://www.linkedin.com/posts/gisboyang_sjsu-aag2023-denver-activity-7045149882956857345-2x3K?utm_source=share&utm_medium=member_desktop)
+
+![image](/assets/images/Posts/AAG_Denver.jpg){:height="200px" width="500px"}
 
 (03/15) Presentation at CalGIS2023 on *UAV/Drone Remote Sensing for California Wildfire Mapping and Modeling* [[link]](https://calgis2023.sched.com/event/1GLQP)
 
