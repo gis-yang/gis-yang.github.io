@@ -70,7 +70,7 @@ sidebar:
 
 (10/25) The drone team joined the SJSU *Wildfire Interdisciplinary Research Center* for the Canyon Fire experiment [[storymap]](https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f) [[SF Chronicle]](https://www.sfchronicle.com/weather/article/How-Bay-Area-experiment-captures-unprecedented-17536079.php)
 
-
+![image](/assets/images/Posts/CayonFire.png){:height="200px" width="300px"}
 
 (10/11) The SJSU GIS and Drone Society has been invited to bring members to the *Drone Racing League's opening season at PayPal Park*
 
@@ -80,7 +80,11 @@ sidebar:
 
 (07/19) *Dr. Bo Yang led the SJSU MSTI K-12 summer camp drone and GIS session with Bay Area high school students* [[CBS Bay Area]](https://www.cbsnews.com/sanfrancisco/news/san-jose-state-hosts-summer-drone-flying-class-for-high-school-students/) [[Mercury]](https://www.mercurynews.com/2022/07/23/bay-area-high-school-students-get-a-transportation-lesson-at-san-jose-state/)
 
+![image](/assets/images/chrome_G1wFaplnue.jpg){:height="200px" width="300px"}
+
 (07/16) *2022 Summer drone mapping fieldwork was successfully completed in San Juan Island, Coos/Yaquina Bay, and Bodega Bay by the SJSU team in collaboration with UC Davis, Cornell, and Oregon State* [[StoryMap]](https://storymaps.arcgis.com/stories/fc0e3f0d57f541f4a90e30ddf3778421)
+
+![image](/assets/images/Posts/2022Fieldtrip.png){:height="200px" width="300px"}
 
 (06/03) *New paper published in ASLO_LO: Seagrass wasting disease outbreaks, from Alaska to California, were worse in areas experiencing unusually warm water temperatures* [[link]](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12152)
 
