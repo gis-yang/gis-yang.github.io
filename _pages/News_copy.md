@@ -76,6 +76,8 @@ sidebar:
 
 (10/05) The SAVi Workshop 2022 has launched, offering drone mapping and GIS courses, free for SJSU students [[link]](https://sjsu.edu/savi-urbp/workshops/index.php)
 
+![image](/assets/images/Posts/SAVI_Workshop.png){:height="200px" width="300px"}
+
 (09/28) *The drone mapping training program for seagrass research has been rated as the Top Viewed paper in the Journal of Drones* [[link]](https://x.com/Drones_MDPI/status/1575304354050953216?s=20)
 
 (07/19) *Dr. Bo Yang led the SJSU MSTI K-12 summer camp drone and GIS session with Bay Area high school students* [[CBS Bay Area]](https://www.cbsnews.com/sanfrancisco/news/san-jose-state-hosts-summer-drone-flying-class-for-high-school-students/) [[Mercury]](https://www.mercurynews.com/2022/07/23/bay-area-high-school-students-get-a-transportation-lesson-at-san-jose-state/)
