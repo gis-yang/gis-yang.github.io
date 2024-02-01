@@ -109,6 +109,8 @@ sidebar:
 
 (08/18) *The summer Drone/GIS fieldlwork has been highlighted on UCF research news* [[link]](https://www.ucf.edu/news/a-summer-of-hands-on-gis-field-work-for-ucf-researchers/)
 
+![image](/assets/images/Posts/2021070402.jpg){:height="200px" width="230px"}
+
 (07/29) *Presentation in California DroneCamp2021 "Using UAV high-resolution mapping, participatory training, and citizen science for coastal ecosystem monitoring and modeling"* [[pdf]](https://www.dropbox.com/s/5ro1shrnn36geez/DroneCamp2021_Yang.pdf?dl=0)
 
 (07/04) *Drone Team Completed Field Data Collection for NSF Smithsonian Eelgrass Research in Oregon* [[link]](https://www.citizensciencegis.org/blog/nsfsmithsonianoregon2021)
@@ -132,6 +134,8 @@ sidebar:
 (11/03) *New paper published about drone training program for seagrass along the west coast* [[Link]](DOI:10.3390/drones4040070)
 
 (10/19) *The west coast UAV mapping for seagrass/eelgrass featured on Cornell CALS news* [[Link]](https://cals.cornell.edu/news/hunting-eelgrass-disease-san-juan-islands)
+
+![image](/assets/images/Posts/2020070701.png){:height="200px" width="250px"}
 
 (09/16) *Summer NSF Pacific coast drone mapping completed safely during COVID-19* [[Link]](https://www.citizensciencegis.org/blog/summer-nsf-pacific-coast-drone-mapping-completed-safely-during-covid-19)
 
