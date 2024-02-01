@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 2024
-(1/24) SVR and HIZ drone mapping project got funded by NSF IUCRC IAB meeting 2024
+(1/24) SVR and HIZ mapping project got funded by NSF IUCRC WildfireIAB meeting 2024
 
 2023
 ======
