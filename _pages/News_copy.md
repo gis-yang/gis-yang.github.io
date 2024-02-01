@@ -18,7 +18,7 @@ sidebar:
 
 (11/16) SJSU GIS day success with Panel, poster competition, and technology showcase [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7131710548596981760) 
 
-![image](/assets/images/Posts/GISDAY2024.jpg){:height="200px" width="400px"}
+![image](/assets/images/Posts/GISDAY2024.jpg){:height="200px" width="500px"}
 
 (11/10) Drone mapping prescribed fire in Wilder Ranch State Park with student team [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7128813570095513600)
 
