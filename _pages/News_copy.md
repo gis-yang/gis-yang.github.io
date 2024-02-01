@@ -30,15 +30,17 @@ sidebar:
 
 (11/3) URBP and GIS Drone Society come to the SJSU Graduate Fair [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7126332912957800448)
 
-![image](/assets/images/Posts/2023110301.jpg){:height="200px" width="300px"}
+![image](/assets/images/Posts/2023110301.jpg){:height="200px" width="500px"}
 
 (10/01) Geofly Lab has been highlighted on Washington Square Magazine. [[link]](https://sjsu.foleon.com/washington-square-magazine/fall-2023/fly-high-with-bo-yang)
 
 (9/22) Dr. Karen Joyce with GeoNadir give a SAVI talk at SJSU [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7111125371219021824)
 
-![image](/assets/images/Posts/2023092201.jpg){:height="200px" width="300px"}
+![image](/assets/images/Posts/2023092201.jpg){:height="200px" width="200px"}
 
 (9/15) Professor Bo Yang presented ongoing drone and remote sensing projects at *SJSU College of Science MetCS seminar.* [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7108533322602971136)
+
+![image](/assets/images/Posts/MetCS_Talk.png){:height="200px" width="300px"}
 
 (08/16) GeoFly Lab has been awarded the *NSF B2 program* to use UAVs and GIS for seagrass mapping with UC Davis [[link]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2315860&HistoricalAwards=false)
 
@@ -64,7 +66,11 @@ sidebar:
 
 (11/16) 2022 SJSU GIS Day celebration featuring keynote speakers and a student poster competition [[video]](https://vimeo.com/event/2608498)
 
+![image](/assets/images/Posts/GIS Day 2022.jpg){:height="200px" width="300px"}
+
 (10/25) The drone team joined the SJSU *Wildfire Interdisciplinary Research Center* for the Canyon Fire experiment [[storymap]](https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f) [[SF Chronicle]](https://www.sfchronicle.com/weather/article/How-Bay-Area-experiment-captures-unprecedented-17536079.php)
+
+
 
 (10/11) The SJSU GIS and Drone Society has been invited to bring members to the *Drone Racing League's opening season at PayPal Park*
 
