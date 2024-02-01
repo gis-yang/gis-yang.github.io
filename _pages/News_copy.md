@@ -94,6 +94,8 @@ sidebar:
 
 (03/15) *The UCF Citizen Science GIS team is visiting SJSU and bringing K-12 students from Florida to conduct drone mapping fieldwork in Bodega Bay, CA* [[Storymap]](https://storymaps.arcgis.com/stories/604a49b57cba44ae9e28f54cf4145153)
 
+![image](/assets/images/Posts/2022032802.jpg){:height="200px" width="300px"}
+
 2021
 ======
 
@@ -108,6 +110,8 @@ sidebar:
 (07/29) *Presentation in California DroneCamp2021 "Using UAV high-resolution mapping, participatory training, and citizen science for coastal ecosystem monitoring and modeling"* [[pdf]](https://www.dropbox.com/s/5ro1shrnn36geez/DroneCamp2021_Yang.pdf?dl=0)
 
 (07/04) *Drone Team Completed Field Data Collection for NSF Smithsonian Eelgrass Research in Oregon* [[link]](https://www.citizensciencegis.org/blog/nsfsmithsonianoregon2021)
+
+![image](/assets/images/Posts/2019070104.png){:height="200px" width="300px"}
 
 (06/03) *Dr. Yang joined Department of Urban & Regional Planning at San Jose State University* [[link]](https://twitter.com/ProfLaxmi/status/1400550988822597633?s=20)
 
@@ -133,9 +137,15 @@ sidebar:
 
 (07/07) *Use remote drone mapping and paticipory research in response to COVID-19* [[Link]](https://www.citizensciencegis.org/blog/dronecovid19)
 
+![image](/assets/images/Posts/2020091602.png){:height="200px" width="300px"}
+
 (04/22) *New K12 Teacher Funding for Drones, GIS and Fieldwork from our NSF Grant* [[Link]](https://www.citizensciencegis.org/blog/new-teacher-funding-for-drones-gis-and-fieldwork-from-our-nsf-grant)
 
+![image](/assets/images/Posts/2021070402.jpg){:height="200px" width="300px"}
+
 (03/21) *Top 5 CSGIS Drone Shots* [[Link]](https://www.citizensciencegis.org/blog/top-5-csgis-drone-shots)
+
+![image](/assets/images/Posts/2018111802.png){:height="200px" width="300px"}
 
 (03/13) *New paper on IJGIS using geo-statistical method and nightlight remtoe sensing data to predict crime* [[Link]](https://doi.org/10.1080/13658816.2020.1737701)
 
@@ -143,11 +153,15 @@ sidebar:
 ======
 (11/18) *Celebrate UCF GIS day: Maps, Apps & Drones Tour and GeoBus* [[Link]](https://www.citizensciencegis.org/blog/gisday19)
 
+![image](/assets/images/GeoBus.png){:height="200px" width="300px"}
+
 (11/08) *Capturing the Beauty of Belize from Above with Smithsonian MarineGEO* [[Link]](https://marinegeo.si.edu/capturing-beauty-belize-above-drones-support-science-and-discovery-0)
 
 (09/12) *The Golden Rule, DroneCat and GeoBus at Central Florida GIS workshop* [[Link]](https://www.citizensciencegis.org/blog/dr-hawthorne-brings-drone-cat-and-geobus-to-central-florida-gis-workshop)
 
 (09/12) *Citizen Science GIS students present in Central Florida GIS Workshop and win student competition* [[Link]](https://www.citizensciencegis.org/blog/kirsten-bouck-and-morgan-mcdonald-won-the-student-presentation-competition)
+
+![image](/assets/images/Posts/2019091201.jpg){:height="200px" width="300px"}
 
 (08/07) *UAV fieldwork Completes in Alaska: "The Last Frontier"* [[Link]](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
 
@@ -170,7 +184,6 @@ sidebar:
 (03/30) *AAG Presentations with Citizen Science GIS* [[Link]](https://www.citizensciencegis.org/blog/aag-presentations-with-citizen-science-gis)
 
 (03/29) *How to create Region of Interest (ROI) in Google Earth Desktop using KML file* [[Link]](https://www.citizensciencegis.org/blog/how-to-create-region-of-interest-roi-in-google-earth-desktop-using-kml-file)
-
 
 (03/11) *Multi-spectral drone mapping fieldwork in Indian River Lagoon* [[Link]](https://www.citizensciencegis.org/blog/multi-spectral-drone-mapping-field-trip-for-indian-river-lagoon-with-citizen-science-gis-team)
 
