@@ -13,7 +13,8 @@ sidebar:
 2023
 ======
 (11/29) FireWatch team in Software engineering and aerospace engineering win 2nd place out of 147 teams in *Silicon Valley Innovation Competition* [Post](https://www.linkedin.com/posts/gisboyang_projectfirewatch-svic2023-ai-activity-7135710448062001153-njC1?utm_source=share&utm_medium=member_desktop)
-![image](/assets/images/dronetraining.jpg){:height="120px" width="120px"}
+
+![image](/assets/images/Posts/2023112901.jpg){:height="200px" width="200px"}
 
 (11/16) SJSU GIS day success with Panel, poster competition, and technology showcase [[link]](https://www.linkedin.com/feed/update/urn:li:activity:7131710548596981760) 
 
