@@ -167,15 +167,21 @@ sidebar:
 
 (08/07) *UAV fieldwork Completes in Alaska: "The Last Frontier"* [[Link]](https://www.citizensciencegis.org/blog/citizen-science-gis-completes-drone-work-in-alaska-the-last-frontier)
 
+![image](/assets/images/Posts/AK.png){:height="200px" width="450px"}
+
 (07/27) *New paper about UAV-based object-oriented classification for Coastal Management in central Florida* [[Link]](https://doi.org/10.3390/drones3030060 )
 
 (07/25) *UAV fieldwork finished in Southern California with SDSU and Smithsonian MarineGEO* [[Link]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
 
 (07/16) *UAV fieldwork in Bodega Bay finished with UC Davis Team* [[Link]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis)
 
+![image](/assets/images/Posts/2020042201.jpg){:height="200px" width="250px"}
+
 (07/01) *UAV fieldwork in Oregon finished* [[Link]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-mapping-with-team-from-oregon-state-and-cornell)
 
 (06/12) *UAV fieldwork completed with Cornell team at Friday Harbor Lab, WA* [[Link]](https://www.citizensciencegis.org/blog/nsf-eelgrass-project-ucf-drone-team-finished-coastal-mapping-with-team-from-uw-and-cornell)
+
+![image](/assets/images/Posts/2021081801.jpg){:height="200px" width="300px"}
 
 (06/01) *New paper using geo-statistical method for sharpening and forecasting the landuse change* [[Link]](https://doi.org/10.1016/j.jag.2019.03.010)
 
@@ -195,5 +201,8 @@ sidebar:
 ======
 (11/28) *A Bird’s-Eye View of the Indian River Lagoon* [[Link]](https://www.citizensciencegis.org/blog/a-birds-eye-view-of-the-indian-river-lagoon?rq=birds)
 
+![image](/assets/images/Posts/2018111801.png){:height="200px" width="250px"}
+
 (10/05) *Bo Yang joined Citizen Science GIS team at UCF* [[Link]](https://www.citizensciencegis.org/blog/welcome-dr-bo-yang)
 
+![image](/assets/images/Posts/2019020503.jpg){:height="100px" width="100px"}
