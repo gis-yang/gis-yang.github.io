@@ -127,6 +127,8 @@ sidebar:
 
 (01/25) *Paper on developing a UAV mapping and training program highlighted as the cover story in journal Drones* [[Link]](https://twitter.com/BoYangGeo/status/1353749770129571845?s=20)
 
+![image](/assets/images/Posts/2021012501.jpg){:height="200px" width="250px"}
+
 2020
 ======
 (12/24) *New paper about Spatio-temporal Cokriging algorithm published in Remote Sensing of Environment* [[Link]](https://doi.org/10.1016/j.rse.2020.112190)
@@ -211,4 +213,4 @@ sidebar:
 
 (10/05) *Bo Yang joined Citizen Science GIS team at UCF* [[Link]](https://www.citizensciencegis.org/blog/welcome-dr-bo-yang)
 
-![image](/assets/images/Posts/2019020503.jpg){:height="100px" width="100px"}
+![image](/assets/images/Posts/2019020503.jpg){:height="150px" width="150px"}
