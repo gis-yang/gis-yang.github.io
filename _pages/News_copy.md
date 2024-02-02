@@ -165,6 +165,8 @@ sidebar:
 
 (11/08) *Capturing the Beauty of Belize from Above with Smithsonian MarineGEO* [[Link]](https://marinegeo.si.edu/capturing-beauty-belize-above-drones-support-science-and-discovery-0)
 
+![image](/assets/images/Gallery/Picture87.JPG){:height="200px" width="300px"}
+
 (09/12) *The Golden Rule, DroneCat and GeoBus at Central Florida GIS workshop* [[Link]](https://www.citizensciencegis.org/blog/dr-hawthorne-brings-drone-cat-and-geobus-to-central-florida-gis-workshop)
 
 (09/12) *Citizen Science GIS students present in Central Florida GIS Workshop and win student competition* [[Link]](https://www.citizensciencegis.org/blog/kirsten-bouck-and-morgan-mcdonald-won-the-student-presentation-competition)
