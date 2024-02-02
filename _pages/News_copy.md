@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 2024
-(1/24) SVR and HIZ mapping project got funded by NSF IUCRC WildfireIAB meeting 2024
+(1/24) SVR and HIZ mapping project got funded by NSF IUCRC WildfireIAB meeting 2024 [[link]](https://geofly.io/blog/NSF-Funds-Innovations-Wildfire-Research-Projects-Secure-Industry-Advisory-Support/)
 
 2023
 ======
@@ -180,6 +180,8 @@ sidebar:
 (07/27) *New paper about UAV-based object-oriented classification for Coastal Management in central Florida* [[Link]](https://doi.org/10.3390/drones3030060 )
 
 (07/25) *UAV fieldwork finished in Southern California with SDSU and Smithsonian MarineGEO* [[Link]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-the-mapping-in-southern-california-with-sdsu)
+
+![image](/assets/images/Posts/2019072501.jpg){:height="200px" width="250px"}
 
 (07/16) *UAV fieldwork in Bodega Bay finished with UC Davis Team* [[Link]](https://www.citizensciencegis.org/blog/ucf-drone-team-finishes-eelgrass-research-alongside-uc-davis)
 
