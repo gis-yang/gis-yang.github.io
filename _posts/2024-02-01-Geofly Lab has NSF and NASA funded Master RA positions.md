@@ -1,5 +1,5 @@
 ---
-title: "[Post] Geofly Lab has two funded Master's Research Assistant (RA) positions avalable please check the hiring notice below"
+title: "[Post] Geofly Lab has two funded Master's Research Assistant (RA) positions avalable"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
