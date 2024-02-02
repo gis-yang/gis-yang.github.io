@@ -12,59 +12,59 @@ sidebar:
 
 2023
 ======
-(11/29) FireWatch team in Software engineering and aerospace engineering win 2nd place out of 147 teams in *Silicon Valley Innovation Competition* [[link]](blog/Innovation-Triumph-SJSU's-FireWatch-Team-Secures-Silicon-Valley-Recognition/)
+(11/29) FireWatch team in Software engineering and aerospace engineering win 2nd place out of 147 teams in *Silicon Valley Innovation Competition* [[link]](/blog/Innovation-Triumph-SJSU's-FireWatch-Team-Secures-Silicon-Valley-Recognition/)
 
 ![image](/assets/images/Posts/2023112901.jpg){:height="200px" width="300px"}
 
-(11/16) SJSU GIS day success with Panel, poster competition, and technology showcase [[link]](blog/Success-and-Recognition-SJSU-GIS-Day-Poster-Competition-Winners-Announced/) 
+(11/16) SJSU GIS day success with Panel, poster competition, and technology showcase [[link]](/blog/Success-and-Recognition-SJSU-GIS-Day-Poster-Competition-Winners-Announced/) 
 
 ![image](/assets/images/Posts/GISDAY2024.jpg){:height="200px" width="500px"}
 
-(11/10) Drone mapping prescribed fire in Wilder Ranch State Park with student team [[link]](blog/Exploring-Ecological-Impact-SJSU-GIS-&-Drone-Society's-Collaborative-Efforts/)
+(11/10) Drone mapping prescribed fire in Wilder Ranch State Park with student team [[link]](/blog/Exploring-Ecological-Impact-SJSU-GIS-&-Drone-Society's-Collaborative-Efforts/)
 
 ![image](/assets/images/Posts/2023110901.jpg){:height="200px" width="300px"}
 
-(11/9) Drone mapping prescribed fire with Wilkin Fire Ecology Lab and Geofly Lab [[link]](blog/Collaborative-Burn-Day-SJSU's-GIS-&-Drone-Society's-Ecological-Impact/)
+(11/9) Drone mapping prescribed fire with Wilkin Fire Ecology Lab and Geofly Lab [[link]](/blog/Collaborative-Burn-Day-SJSU's-GIS-&-Drone-Society's-Ecological-Impact/)
 
-(11/6) SJSU Geofly Lab present at VTA GIS Day [[link]](blog/Highlighting-SJSU-GIS-&-Drone-Society's-Impact-at-VTA's-GIS-Day/)
+(11/6) SJSU Geofly Lab present at VTA GIS Day [[link]](/blog/Highlighting-SJSU-GIS-&-Drone-Society's-Impact-at-VTA's-GIS-Day/)
 
-(11/3) URBP and GIS Drone Society come to the SJSU Graduate Fair [[link]](blog/SJSU-Graduate-Fair-Uniting-Passion-for-GIS-and-Urban-Planning/)
+(11/3) URBP and GIS Drone Society come to the SJSU Graduate Fair [[link]](/blog/SJSU-Graduate-Fair-Uniting-Passion-for-GIS-and-Urban-Planning/)
 
 ![image](/assets/images/Posts/2023110301.jpg){:height="200px" width="500px"}
 
-(10/01) Geofly Lab has been highlighted on Washington Square Magazine. [[link]](blog/Bo-Yang's-Drone-Innovations-Transforming-GIS-Research-Across-Environments/)
+(10/01) Geofly Lab has been highlighted on Washington Square Magazine. [[link]](/blog/Bo-Yang's-Drone-Innovations-Transforming-GIS-Research-Across-Environments/)
 
-(9/22) Dr. Karen Joyce with GeoNadir give a SAVI talk at SJSU [[link]](blog/Dr.-Karen-Joyce-Pioneering-Circular-Drone-Data-Economy-Collaboration-Vision/)
+(9/22) Dr. Karen Joyce with GeoNadir give a SAVI talk at SJSU [[link]](/blog/Dr.-Karen-Joyce-Pioneering-Circular-Drone-Data-Economy-Collaboration-Vision/)
 
 ![image](/assets/images/Posts/2023092201.jpg){:height="200px" width="200px"}
 
-(9/15) Professor Bo Yang presented ongoing drone and remote sensing projects at *SJSU College of Science MetCS seminar.* [[link]](blog/Advancing-Drone-Tech-SJSU's-Remote-Sensing-Presentation-Success-Recap/)
+(9/15) Professor Bo Yang presented ongoing drone and remote sensing projects at *SJSU College of Science MetCS seminar.* [[link]](/blog/Advancing-Drone-Tech-SJSU's-Remote-Sensing-Presentation-Success-Recap/)
 
 ![image](/assets/images/Posts/MetCS_Talk.png){:height="200px" width="300px"}
 
-(08/16) GeoFly Lab has been awarded the *NSF B2 program* to use UAVs and GIS for seagrass mapping with UC Davis [[link]](blog/GeoFly-Lab-awarded-NSF-B2/)
+(08/16) GeoFly Lab has been awarded the *NSF B2 program* to use UAVs and GIS for seagrass mapping with UC Davis [[link]](/blog/GeoFly-Lab-awarded-NSF-B2/)
 
-(05/01) MTI report published on using *Thermal Remote Sensing to Quantify Impact of Traffic on Urban Heat Islands during COVID*, reporting UHI varies during lockdown for SF BayArea [[link]](blog/MTI-report-published/)
+(05/01) MTI report published on using *Thermal Remote Sensing to Quantify Impact of Traffic on Urban Heat Islands during COVID*, reporting UHI varies during lockdown for SF BayArea [[link]](/blog/MTI-report-published/)
 
-(04/19) The SJSU Drone class (*GEOG282/173*) had a mapping field trip to Moss Landing Marine Lab, experiencing research fieldwork in Elkhorn Slough [[video]](blog/The-SJSU-Drone-class/)
+(04/19) The SJSU Drone class (*GEOG282/173*) had a mapping field trip to Moss Landing Marine Lab, experiencing research fieldwork in Elkhorn Slough [[video]](/blog/The-SJSU-Drone-class/)
 
 ![image](/assets/images/Posts/MossLanding.jpg){:height="200px" width="500px"}
 
-(03/24) GeoFly Lab members presented at AAG 2024 in Denver, focusing on *urban heat island remote sensing, urban transportation, and urban crime prediction* [[link]](blog/San-Jose-State's-Urban-Planning-Research-Excellence-at-AAG-2023/)
+(03/24) GeoFly Lab members presented at AAG 2024 in Denver, focusing on *urban heat island remote sensing, urban transportation, and urban crime prediction* [[link]](/blog/San-Jose-State's-Urban-Planning-Research-Excellence-at-AAG-2023/)
 
 ![image](/assets/images/Posts/AAG_Denver.jpg){:height="200px" width="500px"}
 
-(03/15) Presentation at CalGIS2023 on *UAV/Drone Remote Sensing for California Wildfire Mapping and Modeling* [[link]](blog/UAV-Applications-in-Wildfire-Research-Mapping,-Analysis,-and-Future-Trends/)
+(03/15) Presentation at CalGIS2023 on *UAV/Drone Remote Sensing for California Wildfire Mapping and Modeling* [[link]](/blog/UAV-Applications-in-Wildfire-Research-Mapping,-Analysis,-and-Future-Trends/)
 
-(02/28) Open-access paper published in GRL: *Utilizing low-altitude UAV imaging combined with remote sensing image processing to detect and quantify Eelgrass WastingDisease from Alaska to California* [[link]](blog/UAV-Imaging-Tracks-Eelgrass-Disease-Across-Pacific-Coastal-Ecosystems/)
+(02/28) Open-access paper published in GRL: *Utilizing low-altitude UAV imaging combined with remote sensing image processing to detect and quantify Eelgrass WastingDisease from Alaska to California* [[link]](/blog/UAV-Imaging-Tracks-Eelgrass-Disease-Across-Pacific-Coastal-Ecosystems/)
 
-(01/23) New paper published in Oceanography about *how high-resolution drone mapping captured the significant seagrass decline in the San Juan Islands* [[link]](blog/Quantifying-Seagrass-Decline-UAV-Imaging-Unveils-Climate-Stress-Impact/)
+(01/23) New paper published in Oceanography about *how high-resolution drone mapping captured the significant seagrass decline in the San Juan Islands* [[link]](/blog/Quantifying-Seagrass-Decline-UAV-Imaging-Unveils-Climate-Stress-Impact/)
 
 
 2022
 ======
 
-(11/16) 2022 SJSU GIS Day celebration featuring keynote speakers and a student poster competition [[video]](blog/2022-SJSU-GIS-Day-celebration-featuring-keynote-speakers-and-a-student-poster-competition/)
+(11/16) 2022 SJSU GIS Day celebration featuring keynote speakers and a student poster competition [[video]](/blog/2022-SJSU-GIS-Day-celebration-featuring-keynote-speakers-and-a-student-poster-competition/)
 
 ![image](/assets/images/Posts/GIS Day 2022.jpg){:height="200px" width="300px"}
 
