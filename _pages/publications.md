@@ -7,7 +7,11 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
-<span style="font-size: 16px;">test test</span>
+<style>
+body {
+    font-size: 14px; /* 设置整个文档的字体大小为14像素 */
+}
+</style>
 
 *2024:*
 * Alexander, S. E., Yang, B., Hussey, O., & Hicks, D. (2023). Examining the Externalities of Highway Capacity Expansions in California: An Analysis of Land Use and Land Cover (LULC) Using Remote Sensing Technology. *Mineta Transportation Institute Publications* [DOI: 10.31979/mti.2023.2251](https://scholarworks.sjsu.edu/mti_publications/471/)
