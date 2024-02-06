@@ -14,7 +14,7 @@ sidebar:
 ======
 (11/29) FireWatch team in Software engineering and aerospace engineering win 2nd place out of 147 teams in *Silicon Valley Innovation Competition* [[link]](/blog/Innovation-Triumph-SJSU's-FireWatch-Team-Secures-Silicon-Valley-Recognition/)
 
-![image](/assets/images/Posts/2023112901.jpg){:height="200px" width="300px"}
+![image](/assets/images/Posts/2023112901.jpg){:height="200px" width="200px"}
 
 (11/16) SJSU GIS day success with Panel, poster competition, and technology showcase [[link]](/blog/Success-and-Recognition-SJSU-GIS-Day-Poster-Competition-Winners-Announced/) 
 
