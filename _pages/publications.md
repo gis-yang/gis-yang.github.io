@@ -7,7 +7,7 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
-<span class="custom-font-size">
+<span style="font-size: 16px;">test test</span>
 
 *2024:*
 * Alexander, S. E., Yang, B., Hussey, O., & Hicks, D. (2023). Examining the Externalities of Highway Capacity Expansions in California: An Analysis of Land Use and Land Cover (LULC) Using Remote Sensing Technology. *Mineta Transportation Institute Publications* [DOI: 10.31979/mti.2023.2251](https://scholarworks.sjsu.edu/mti_publications/471/)
@@ -67,10 +67,3 @@ sidebar:
  
 More conference proceedings and colloquium talks can be found [here](https://gis-yang.github.io/talks/)
 
-</span>
-
-<style>
-.custom-font-size {
-    font-size: 16px;
-}
-</style>
