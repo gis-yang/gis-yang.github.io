@@ -109,7 +109,7 @@ sidebar:
 
 (08/18) *The summer Drone/GIS fieldlwork has been highlighted on UCF research news* [[link]](/blog/UCF-Researchers-Dive-into-Real-World-GIS-Work-in-Summer-Projects/)
 
-![image](/assets/images/Posts/2021070402.jpg){:height="200px" width="230px"}
+![image](/assets/images/Posts/2019070101.jpg){:height="200px" width="230px"}
 
 (07/29) *Presentation in California DroneCamp2021 "Using UAV high-resolution mapping, participatory training, and citizen science for coastal ecosystem monitoring and modeling"* [[link]](/blog/Presentation-in-California-DroneCamp2021-Using-UAV-high-resolution-mapping,-participatory-training,-and-citizen-science-for-coastal-ecosystem-monitoring-and-modeling/)
 
