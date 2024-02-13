@@ -32,7 +32,7 @@ sidebar:
 
 ![image](/assets/images/Posts/2023110301.jpg){:height="200px" width="500px"}
 
-(10/01) Geofly Lab has been highlighted on Washington Square Magazine. [[link]](/blog/Bo-Yang's-Drone-Innovations-Transforming-GIS-Research-Across-Environments/)
+(10/01) Geofly Lab has been highlighted on Washington Square Magazine. [[link]](https://sjsu.foleon.com/washington-square-magazine/fall-2023/fly-high-with-bo-yang)
 
 (9/22) Dr. Karen Joyce with GeoNadir give a SAVI talk at SJSU [[link]](/blog/Dr.-Karen-Joyce-Pioneering-Circular-Drone-Data-Economy-Collaboration-Vision/)
 
