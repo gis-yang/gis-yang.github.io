@@ -9,7 +9,7 @@ sidebar:
 ---
 <style>
 body {
-    font-size: 16px; /* 设置整个文档的字体大小为16像素 */
+    font-size: 18px;
 }
 </style>
 
