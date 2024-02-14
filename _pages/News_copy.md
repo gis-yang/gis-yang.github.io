@@ -6,6 +6,7 @@ author_profile: false
 classes: wide
 sidebar:
   nav: "docs"
+
 ---
 2024
 (1/24) SVR and HIZ mapping project got funded by NSF IUCRC WildfireIAB meeting 2024 [[link]](/blog/NSF-Funds-Innovations-Wildfire-Research-Projects-Secure-Industry-Advisory-Support/)
