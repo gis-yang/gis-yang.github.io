@@ -1,5 +1,5 @@
 ---
-title: "[Post] NSF Funds Innovations: Wildfire Research Projects Secure Industry Advisory Support"
+title: "NSF Funds Innovations: Wildfire Research Projects Secure Industry Advisory Support"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
