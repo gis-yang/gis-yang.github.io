@@ -25,6 +25,8 @@ docs:
         url: /resources/
       - title: "Teaching"
         url: /teaching/
+      - title: "Facilities"
+        url: /facilities/
       - title: "All projects"
         url: /projects/
 
@@ -43,8 +45,6 @@ docs:
 
   - title: About
     children:
-      - title: "Facilities"
-        url: /facilities/
       - title: "Team"
         url: /team/
       - title: "Gallery"
