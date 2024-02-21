@@ -8,6 +8,9 @@ sidebar:
   nav: "docs"
 ---
 2024
+======
+(2/20)NSF Build and Broaden 2024 Summer Coastal Drone Fieldwork Application. [[link]](https://geofly.io/blog/NSF-Build-and-Broaden-Summer-Coastal-Drone-Fieldwork-Application-Open/)
+
 (2/1) Geofly Lab has two funded Master’s Research Assistant (RA) positions available. [[link]](/blog/Geofly-Lab-has-NSF-and-NASA-funded-Master-RA-positions/)
 
 (1/24) SVR and HIZ mapping project got funded by NSF IUCRC WildfireIAB meeting 2024 [[link]](/blog/NSF-Funds-Innovations-Wildfire-Research-Projects-Secure-Industry-Advisory-Support/)
