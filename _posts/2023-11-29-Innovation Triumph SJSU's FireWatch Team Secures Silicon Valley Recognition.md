@@ -1,5 +1,5 @@
 ---
-title: "[Post] Innovation Triumph SJSU's FireWatch Team Secures Silicon Valley Recognition"
+title: "Team FireWatch won 2nd Place in Silicon Valley Innovation Competition"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
