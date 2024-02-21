@@ -74,6 +74,7 @@ feature_row_right2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -90,10 +91,7 @@ feature_row_right2:
 
 {% include feature_row id="feature_row_right2" type="right" %}
 
-{% include feature_row id="contact" type="left" %}
-
-intro:
-  - excerpt: 'Recent posts from Geofly Lab'
+### Recent post from Geofly Lab
 
 <div class="grid__wrapper">
   {% for post in site.posts limit:4 %}
