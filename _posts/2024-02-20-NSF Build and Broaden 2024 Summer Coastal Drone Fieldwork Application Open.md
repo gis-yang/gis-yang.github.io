@@ -1,5 +1,5 @@
 ---
-title: "NSF Build and Broaden 2024 Summer Coastal Drone Fieldwork Application"
+title: "Geofly Lab has two funded Master's Research Assistant (RA) positions available."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
