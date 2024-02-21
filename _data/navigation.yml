@@ -17,10 +17,10 @@ main:
 docs:
   - title: Education
     children:
-      - title: "Drone for education"
-        url: /UAV_edu/
       - title: "Open drone course"
         url: "https://gis-yang.github.io/DroneMapping/"
+      - title: "Drone for education"
+        url: /UAV_edu/
       - title: "Resources"
         url: /resources/
       - title: "Teaching"
