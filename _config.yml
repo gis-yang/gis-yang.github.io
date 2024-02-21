@@ -77,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Google Scholar"
+    - label: "Youtube"
       icon: "fab fa-google-scholar fa-fw"
-      url: "https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en"
+      url: "https://www.youtube.com/channel/UCKQDmLoGjhRSAR91xwBtKaw/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://www.linkedin.com/company/90439721"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gis-yang"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/gis-yang"
 
 
 defaults:
