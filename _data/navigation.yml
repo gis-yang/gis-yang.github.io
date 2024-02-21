@@ -56,13 +56,13 @@ docs:
 
   - title: Links
     children:
-      - title: "Google Scholar"
+      - title: "Youtube"
         url: "https://scholar.google.com/citations?user=DRadpUQAAAAJ&hl=en"
-      - title: "GitHub"
-        url: "https://github.com/gis-yang?tab=repositories"
-      - title: "Twitter"
-        url: "https://twitter.com/BoYangGeo"
+#      - title: "GitHub"
+#        url: "https://github.com/gis-yang?tab=repositories"
+#      - title: "Twitter"
+#        url: "https://twitter.com/BoYangGeo"
       - title: "Linkedin"
-        url: "https://www.linkedin.com/in/gisboyang/"
-      - title: "ORCID"
-        url: "https://orcid.org/0000-0001-7439-192X"       
+        url: "https://www.linkedin.com/company/90439721"
+#      - title: "ORCID"
+#        url: "https://orcid.org/0000-0001-7439-192X"       
