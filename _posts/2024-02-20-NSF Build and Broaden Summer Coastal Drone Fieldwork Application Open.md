@@ -31,7 +31,7 @@ The fieldwork is scheduled to coincide with the 2024 West Coast summer low tide 
 * 2024 July 20-24
 * 2024 August 1-5
 
-Application Due: April 1st, 2024
+Application Due: April 15th, 2024
 
 **Application Process**:
 Interested candidates are invited to apply by submitting a resume and a one-page cover letter as a single PDF file. Your cover letter should emphasize your interest in coastal mapping and any relevant experiences. Applications must be submitted through the provided Google Form [[link]](https://docs.google.com/forms/d/e/1FAIpQLScqwx4KV-E7zbLGr6T2LH4WA7PRxLFZBlYX8YVriWvUnO7RTA/viewform?usp=sf_link).
