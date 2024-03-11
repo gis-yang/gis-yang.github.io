@@ -23,7 +23,6 @@ Please view a [[storymap]](https://storymaps.arcgis.com/stories/fc0e3f0d57f541f4
 **Eligibility**:
 
 Current students at SJSU or Bay Area colleges, at the junior or senior undergraduate level, or enrolled in graduate programs.
-U.S. citizenship or permanent residency is required.
 
 **Timeline**: 
 The fieldwork is scheduled to coincide with the 2024 West Coast summer low tide series. Potential fieldwork dates are as follows:
