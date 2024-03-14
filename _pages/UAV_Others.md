@@ -7,6 +7,30 @@ classes: wide
 sidebar:
   nav: "docs"
 
+feature_row_right:
+  - image_path: /assets/images/Image_20230301103055.jpg
+    title: "Urban Heat and Urban Transporation"
+    excerpt: "We use thermal remote sensing and the urban heat budget to isolate and quantify the transportation impact on urban heat and climate change."
+    url: "https://www.nature.com/articles/s43247-022-00427-4"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row_left2:
+  - image_path: /assets/images/CK_cloud.jpg
+    title: "Crime Prediction and Spatial Statistics"
+    excerpt: "We develop a novel geostatistical technique to integrate historical crime data and urban transitional zones identified from the VIIRS nightlight imagery for more accurate crime prediction."
+    url: "https://github.com/gis-yang/Crime-prediction"
+    btn_label: "Codes"
+    btn_class: "btn--primary"
+
+feature_row_right2:
+  - image_path: /assets/images/gis_Copy.png
+    title: "ST-Cokriging and Image Fusion/Assimilation"
+    excerpt: "We develop a spatio-temporal Cokriging (ST-Cokriging) method for assimilating multi-sensor remote sensing data that optimally determines parameters by accounting for spatio-temporal covariance. This method yields more reliable assimilation results than previous methods, effectively filling data gaps while providing quantitative uncertainty estimates."
+    url: "https://www.sciencedirect.com/science/article/pii/S0034425720305630?via%3Dihub"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row_FL:
   - image_path: /assets/images/FL.jpg
     title: "Drone mapping the Florida Coastal"
@@ -40,6 +64,12 @@ feature_row_Serpent:
     btn_class: "btn--primary"
 
 ---
+
+{% include feature_row id="feature_row_right" type="left" %}
+
+{% include feature_row id="feature_row_left2" type="left" %}
+
+{% include feature_row id="feature_row_right2" type="left" %}
 
 {% include feature_row id="feature_row_FL" type="left" %}
 
