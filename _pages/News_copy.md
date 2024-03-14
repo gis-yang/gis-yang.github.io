@@ -9,7 +9,7 @@ sidebar:
 ---
 2024
 ======
-(2/20)The #FireSage SJSU-NASA joint Summer Internship is now open for applications [[link]](https://www.nasa.gov/firesage-program/)
+(3/07)The #FireSage SJSU-NASA joint Summer Internship is now open for applications [[link]](https://www.nasa.gov/firesage-program/)
 ![image](/assets/images/Posts/Fire1.jpg){:height="250px" width="250px"}
 
 (2/20)NSF Build and Broaden 2024 Summer Coastal Drone Fieldwork Application. [[link]](https://geofly.io/blog/NSF-Build-and-Broaden-Summer-Coastal-Drone-Fieldwork-Application-Open/)
