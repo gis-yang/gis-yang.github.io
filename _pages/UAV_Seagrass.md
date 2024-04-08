@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 
-We co-lead with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) the UAV mapping of coastal seagrass sites along the Pacific (west) coast of North America through a $1.3 million collaborative NSF grant for the UCF portion, one of the earliest attempts to employ UAV mapping in coastal management and seagrass conservation. This interdisciplinary project aims to assess the interactions of three major stressors to coastal ecosystems (climate warming, altered biodiversity, and disease) on the local and regional health of seagrass integrate ecological, microbiological, computational, geospatial analysis, and UAV remote sensing. 
+The UAV mapping of coastal seagrass sites along the Pacific (West) coast of North America is being undertaken through a $1.3 million collaborative NSF grant. This project, co-led with Dr. Timothy Hawthorne represents one of the earliest attempts to employ UAV mapping in coastal management and seagrass conservation. This interdisciplinary project aims to assess the effects of three major stressors on coastal ecosystems—climate warming, altered biodiversity, and disease—on the local and regional health of seagrass. It integrates ecological, microbiological, computational, geospatial analysis, and UAV remote sensing to achieve its objectives.
 
 <img align="center" width="720" src="/assets/images/AK_Fieldwork.png">
 

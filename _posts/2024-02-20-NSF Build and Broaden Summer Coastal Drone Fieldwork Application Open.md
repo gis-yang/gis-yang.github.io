@@ -8,7 +8,7 @@ tags:
   - NSF
   - Fieldwork
 ---
-The NSF Build and Broaden 2024 summer fieldwork application is now open! This unique program invites students to participate in a four-week coastal mapping fieldwork adventure spanning Bodega Bay, Tomales Bay, Oregon, and Moss Landing. This initiative, supported by the National Science Foundation (NSF), offers an invaluable opportunity for selected students to engage directly with the environment and cutting-edge research.
+The NSF Build and Broaden 2024 summer fieldwork application is now open! This unique program invites students to participate in a four-week coastal mapping fieldwork adventure spanning Bodega Bay, Tomales Bay, Oregon, and Moss Landing. This initiative, supported by the National Science Foundation (NSF), offers an invaluable opportunity for selected students to engage directly with the environment and cutting-edge research. Learn more about the multi-year seagrass mapping project [[here]](https://geofly.io/UAV_seagrass/)
 
 ![image](/assets/images/Posts/1692225894569.jpg){:height="400px" width="400px"}
 
