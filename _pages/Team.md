@@ -52,6 +52,15 @@ feature_row_REU:
   - image_path: /assets/images/William_1.jpg
     title: "William Lee"
     excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />I'm a recent Geography graduate interested in incorporating a variety of disciplines and increasing my domain knowledge in the natural sciences, social sciences, or formal sciences to conduct GIS analyses. I joined the Geofly Lab for the NSF REU program at my alma mater, and am currently working on understanding the spatial impacts of eelgrass wasting disease. In the future, I plan to take my knowledge and experiences toward working as a GIS Developer or GIS Manager in either the public sector or private sector in the near future."
+  - image_path: /assets/images/Rachel_1.jpg
+    title: "Rachel Fan"
+    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
+  - image_path: /assets/images/Hao_1.jpg
+    title: "Hao Lan"
+    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
+  - image_path: /assets/images/Boyao_1.jpg
+    title: "Boyao Huang"
+    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
 
 feature_row_START:
   - image_path: /assets/images/Alexis_1.jpg
