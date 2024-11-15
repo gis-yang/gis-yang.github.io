@@ -34,7 +34,7 @@ docs:
     children:
       - title: "Publications"
         url: /publications/
-      - title: "Coastal ecosystem"
+      - title: "Coastal seagrass"
         url: /UAV_seagrass/
       - title: "California wildfire"
         url: /UAV_wildfire/
