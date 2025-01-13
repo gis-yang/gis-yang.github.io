@@ -17,14 +17,14 @@ feature_row_BoTeam:
 
   - image_path: /assets/images/Xiangyu_1.jpg
     title: "Xiangyu Ren"
-    excerpt: "**Graduate Research Assistant (Prescribe fire project)** <br />Xiangyu Ren is a multidisciplinary geographer with a passion for GeoAI and remote sensing. She gained her Ph.D in environmental science, and now she is currently pursuing the master's degree in Geography with a concentration in Geographic Information Systems at San Jose State University. Also, Xiangyu is a certificated drone pilot. Applying her multidisciplinary knowledge and skills in geospatial analysis, she contributes in various projects involving crime prediction, wildfire management, and ecological consulting."
+    excerpt: "**Postdoctoral fellow** <br />Xiangyu Ren is a multidisciplinary geographer with a passion for GeoAI and remote sensing. She gained her Ph.D in environmental science, and now she is currently pursuing the master's degree in Geography with a concentration in Geographic Information Systems at San Jose State University. Also, Xiangyu is a certificated drone pilot. Applying her multidisciplinary knowledge and skills in geospatial analysis, she contributes in various projects involving crime prediction, wildfire management, and ecological consulting."
     # url: "https://www.linkedin.com/in/xiangyu-ren-700b5510b/"
     # btn_label: "Linkedin"
     # btn_class: "btn--primary"
 
   - image_path: /assets/images/Brillon_2023_1.jpg
     title: "Henri Brillon"
-    excerpt: "**Graduate Research assistant (Home Ignition Zone Project)** <br />Currently pursuing a Master's degree in geography, Henri is interested in remote sensing applications and GIS with regards to environmental and physical topics. His involvement with coastal eelgrass mapping and home ignition zone assessments for wildfire prevention reflect these goals. With nearly a decade of advertising experience under his belt, as well as a love for music and the outdoors, Henri is a true multidisciplinarian."
+    excerpt: "**Graduate Research assistant** <br />Currently pursuing a Master's degree in geography, Henri is interested in remote sensing applications and GIS with regards to environmental and physical topics. His involvement with coastal eelgrass mapping and home ignition zone assessments for wildfire prevention reflect these goals. With nearly a decade of advertising experience under his belt, as well as a love for music and the outdoors, Henri is a true multidisciplinarian."
     # url: "https://www.linkedin.com/in/henribrillon/"
     # btn_label: "Linkedin"
     # btn_class: "btn--primary"
@@ -63,16 +63,16 @@ feature_row_REU:
     # btn_class: "btn--primary"
 
   - title: "Jessica Reimann"
-    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
+    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />TEST TEXT..."
 
   - title: "William Lee"
     excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />I'm a recent Geography graduate interested in incorporating a variety of disciplines and increasing my domain knowledge in the natural sciences, social sciences, or formal sciences to conduct GIS analyses. I joined the Geofly Lab for the NSF REU program at my alma mater, and am currently working on understanding the spatial impacts of eelgrass wasting disease. In the future, I plan to take my knowledge and experiences toward working as a GIS Developer or GIS Manager in either the public sector or private sector in the near future."
 
   - title: "Rachel Fan"
-    excerpt: "**Graduate Research Assistant (NSF REU)** <br />"
+    excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT..."
 
   - title: "Hao Lan"
-    excerpt: "**Graduate Research Assistant (NSF REU)** <br />"
+    excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT..."
 
 feature_row_START:
   - title: "Alexis Herb"
@@ -90,7 +90,7 @@ feature_row_START:
 feature_row_team3:
   - title: "Bryan Malone"
     excerpt: "**Systems Analyst at Siemens Healthcare** <br />Bryan is an FAA-certified drone pilot and GIS professional from Foothill College, he is a multifaceted IT expert. Proficient in web technologies, system administration, and managing various projects, he currently enhances Siemens Healthcare USA SharePoint 2013 Collaboration. His diverse skill set makes him an adept manager and team player."
-    
+
   - title: "My-Thu Tran"
     excerpt: "**PhD in Geography joint program of SDSU & UCSB** <br />My-Thu earned master in Geography from San Jose State, is now a Ph.D. student in the Geography Joint Doctoral Program by San Diego State University and UC Santa Barbara. Her research focuses on Applied GIS, Remote Sensing, Drone Mapping, Social-Ecological Systems, Spatial Analysis, Modeling, Cartography, and Geovisualization."
 
