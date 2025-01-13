@@ -45,7 +45,7 @@ feature_row_BoTeam:
 
   - image_path: /assets/images/Boyao_1.jpg
     title: "Boyao Huang"
-    excerpt: "**Undergraduate Research Assistant ** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major."
+    excerpt: "**Undergraduate Research Assistant** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major."
 
 
   
