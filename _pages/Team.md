@@ -29,7 +29,7 @@ feature_row_BoTeam:
     # btn_label: "Linkedin"
     # btn_class: "btn--primary"
 
-  - image_path: /assets/images/Wootton.png
+  - image_path: /assets/images/bio-photo-2.jpg
     title: "Jeff Wootton"
     excerpt: "**Graduate Research Assistant** <br />Graduated with BA from UCSC, currently enrolled at SJSU obtaining MS in GISc and GIS advanced certification. Working with Dr. Yang in Geofly Lab focused on drone remote sensing to study coastal seagrass diseases. Also researching environmental issues faced by unhoused populations living in urban areas using GIS"
     # url: "https://geofly.io/team/"
@@ -48,65 +48,24 @@ feature_row_BoTeam:
     excerpt: "**Undergraduate Research Assistant** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major."
 
 
-  
-
-  
-
-feature_row_REU:
-  - title: "Owen Hussey"
-    excerpt: "**Graduate Research Assistant (MTI and NSF START)** <br />Originally a Geology major at San Jose State University, Owen found a passion for GIS while attending his coursework during the opening months of the COVID pandemic. After graduating, he went back to SJSU to pursue an Advanced Certification in GIS through the Geography department, before committing full-time to the MA in Geography program. Along with GIS, Owen has also found a strong interest in remote-sensing and drone technologies, leading him to join and work on multiple research projects, such as coastal eelgrass mapping, highway expansion effects on surrounding vegetation, and prescribed burn data collection."
-    
-  - title: "Melanie Morales"
-    excerpt: "**Graduate Research Assistant (NSF START)** <br />Melanie Morales, originally aspiring to teach at Clovis Community College, discovered her passion for GIS, reshaping her academic path. She transferred to San Jose State University, earning a Bachelor's in Geography and an Urban Planning minor. Now, she's on track to obtain her Master's in Geography. Melanie has balanced education with roles at Mosaic America and within the SJSU Geography Department, serving as both a recruiter and a teaching assistant."
-    # url: "https://www.linkedin.com/in/melanie-morales-b376b2213/"
-    # btn_label: "Linkedin"
-    # btn_class: "btn--primary"
-
-  - title: "Jessica Reimann"
-    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />TEST TEXT..."
-
-  - title: "William Lee"
-    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />I'm a recent Geography graduate interested in incorporating a variety of disciplines and increasing my domain knowledge in the natural sciences, social sciences, or formal sciences to conduct GIS analyses. I joined the Geofly Lab for the NSF REU program at my alma mater, and am currently working on understanding the spatial impacts of eelgrass wasting disease. In the future, I plan to take my knowledge and experiences toward working as a GIS Developer or GIS Manager in either the public sector or private sector in the near future."
-
-  - title: "Rachel Fan"
-    excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT..."
-
-  - title: "Hao Lan"
-    excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT..."
-
-feature_row_START:
-  - title: "Alexis Herb"
-    excerpt: "**NSF START Research Intern** <br />I have 2 bachelor’s degrees, Integrative Biology and Marine Science; I almost have a minor in Forestry (one class/technicality shy).  I’ve also done some Environmental Engineering graduate school work.  While in graduate school, I bumbled into upper division math and realized I liked that better.  Currently, I work part time as a GIS tech for a fire department.  As an intern in the NSF START program, I'm hoping to further develop skills in using drones to collect various types of data, and in using coding/AI to interpret that data.  As a person who likes the out-of-doors (and air conditioning :-), I enjoy how mapping allows me to go back and forth between something cerebral at a desk, and outside for field work."
-
-  - title: "Melina Kompella"
-    excerpt: "**NSF START Research Intern** <br />I am a Geographic Information Systems Technology student at Foothill College and an NSF research intern at SJSU. I have worked in wildland fire for the Forest Service, and I am now pivoting to research in mapping fire behavior and management tools. I am interested in the role humans can play in managing fire-impacted landscapes and building ecosystem resilience. GIS technology and aerial mapping are fantastic tools for learning about these ecosystems while mitigating human impact, and I'm excited to use them in my research."
-    # url: "https://www.linkedin.com/in/melina-kompella-91a548178/"
-    # btn_label: "Linkedin"
-    # btn_class: "btn--primary"
-
-  - title: "Devin Jones"
-    excerpt: "**NSF START Research Intern** <br />I am a natural explorer with a background in photography and post production editing. I exited the nonprofit world during the pandemic and have embarked on a knowledge journey in hopes of centering my passion for the visual world in my work. I am certified in film and post production editing, a licensed drone pilot, and a seasoned photographer. I am new to GIS, but enjoying the ride."
-
-feature_row_team3:
-  - title: "Bryan Malone"
-    excerpt: "**Systems Analyst at Siemens Healthcare** <br />Bryan is an FAA-certified drone pilot and GIS professional from Foothill College, he is a multifaceted IT expert. Proficient in web technologies, system administration, and managing various projects, he currently enhances Siemens Healthcare USA SharePoint 2013 Collaboration. His diverse skill set makes him an adept manager and team player."
-
-  - title: "My-Thu Tran"
-    excerpt: "**PhD in Geography joint program of SDSU & UCSB** <br />My-Thu earned master in Geography from San Jose State, is now a Ph.D. student in the Geography Joint Doctoral Program by San Diego State University and UC Santa Barbara. Her research focuses on Applied GIS, Remote Sensing, Drone Mapping, Social-Ecological Systems, Spatial Analysis, Modeling, Cartography, and Geovisualization."
-
-
+ 
 ---
 {% include feature_row id="feature_row_BoTeam" type="left" %}
 ## NSF REU
-{% include feature_row id="feature_row_REU" type="left" %}
-## NSF START
-{% include feature_row id="feature_row_START" type="left" %}
-## Lab Alumni
-{% include feature_row id="feature_row_team3" type="left" %}
 
 ## Past Lab Members
 
-Owen Hussey
+Owen Hussey, Teaching Associete, San Jose State University
+My-Thu Tran, Ph.D. Candidate in Geography joint program of SDSU & UCSB
+Melina Kompella, 
+Bryan Malone,
+Alexis Herb,
+Devin Jones,
+William Lee,
+Rachel Fan,
+Hao Lan,
+Jessica Reimann,
+
 
 
 
