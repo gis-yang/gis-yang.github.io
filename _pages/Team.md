@@ -28,9 +28,7 @@ feature_row_BoTeam:
     title: "Tou-in Kwan"
     excerpt: "**Graduate Research Assistant (NSF Build and Broaden)** <br Tou is currently a graduate student at San Jose State University pursuing his Master degree in Geography. He also has a background in Urban Planning and is interested in Environmental Planning. Tou was introduced to drone mapping last year and has been passionate about it ever since. He recently participated in the West Coast Seagrass Mapping Project and is currently responsible for drone imagery analysis. Tou also serves as a teaching assistant in a graduate-level Urban Planning course, where he applies his knowledge to help fellow students"
 
-## Past Lab Members
 
-Owen Hussey
 
   - image_path: /assets/images/Owen_1.jpg
     title: "Owen Hussey"
@@ -44,8 +42,6 @@ Owen Hussey
     url: "https://www.linkedin.com/in/melanie-morales-b376b2213/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
-
-
 
 
 feature_row_REU:
@@ -96,6 +92,10 @@ feature_row_team3:
 {% include feature_row id="feature_row_START" type="left" %}
 ## Lab Alumni
 {% include feature_row id="feature_row_team3" type="left" %}
+
+## Past Lab Members
+
+Owen Hussey
 
 
 
