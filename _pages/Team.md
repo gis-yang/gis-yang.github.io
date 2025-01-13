@@ -72,7 +72,7 @@ feature_row_REU:
     excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT..."
 
   - title: "Hao Lan"
-    excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT..."
+    excerpt: "**Graduate Research Assistant (NSF REU)** <br />TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT...TEST TEXT..."
 
 feature_row_START:
   - title: "Alexis Herb"
