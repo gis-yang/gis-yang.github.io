@@ -77,9 +77,6 @@ feature_row_REU:
   - image_path: /assets/images/Hao_1.jpg
     title: "Hao Lan"
     excerpt: "**Graduate Research Assistant (NSF REU)** <br />"
-  - image_path: /assets/images/Boyao_1.jpg
-    title: "Boyao Huang"
-    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
 
 feature_row_START:
   - image_path: /assets/images/Alexis_1.jpg
