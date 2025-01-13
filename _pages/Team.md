@@ -45,8 +45,14 @@ feature_row_BoTeam:
 
   - image_path: /assets/images/Boyao_1.jpg
     title: "Boyao Huang"
-    excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major."
+    excerpt: "**Undergraduate Research Assistant ** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major."
 
+
+  
+
+  
+
+feature_row_REU:
   - image_path: /assets/images/Owen_1.jpg
     title: "Owen Hussey"
     excerpt: "**Graduate Research Assistant (MTI and NSF START)** <br />Originally a Geology major at San Jose State University, Owen found a passion for GIS while attending his coursework during the opening months of the COVID pandemic. After graduating, he went back to SJSU to pursue an Advanced Certification in GIS through the Geography department, before committing full-time to the MA in Geography program. Along with GIS, Owen has also found a strong interest in remote-sensing and drone technologies, leading him to join and work on multiple research projects, such as coastal eelgrass mapping, highway expansion effects on surrounding vegetation, and prescribed burn data collection."
@@ -59,11 +65,6 @@ feature_row_BoTeam:
     url: "https://www.linkedin.com/in/melanie-morales-b376b2213/"
     btn_label: "Linkedin"
     btn_class: "btn--primary"
-  
-
-  
-
-feature_row_REU:
   - image_path: /assets/images/Jessica_1.jpg
     title: "Jessica Reimann"
     excerpt: "**Undergraduate Research Assistant (NSF REU)** <br />"
