@@ -55,8 +55,8 @@ feature_row_BoTeam:
 
 ## Past Lab Members
 
-Owen Hussey, Teaching Associete, San Jose State University
-My-Thu Tran, Ph.D. Candidate in Geography joint program of SDSU & UCSB
+Owen Hussey, Teaching Associete, San Jose State University <br />
+My-Thu Tran, Ph.D. Candidate in Geography joint program of SDSU & UCSB <br />
 Melina Kompella, <br />
 Bryan Malone, <br />
 Alexis Herb, <br />
