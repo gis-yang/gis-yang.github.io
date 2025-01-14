@@ -57,7 +57,7 @@ feature_row_BoTeam:
 
 Owen Hussey, Teaching Associete, San Jose State University
 My-Thu Tran, Ph.D. Candidate in Geography joint program of SDSU & UCSB
-Melina Kompella, 
+Melina Kompella, <br />
 Bryan Malone,
 Alexis Herb,
 Devin Jones,
