@@ -51,7 +51,6 @@ feature_row_BoTeam:
  
 ---
 {% include feature_row id="feature_row_BoTeam" type="left" %}
-## NSF REU
 
 ## Past Lab Members
 
