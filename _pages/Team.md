@@ -45,7 +45,7 @@ feature_row_BoTeam:
 
   - image_path: /assets/images/Boyao_1.jpg
     title: "Boyao Huang"
-    excerpt: "**Undergraduate Research Assistant** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major."
+    excerpt: "**Undergraduate Research Assistant** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major. Boyao is interested in the intersection of geography and computer science. He is involved in the Seagrass Drone Vision team, which is currently studying the application of machine learning-based image recognition to seagrass images taken by drones. Boyao is also responsible for the construction of the Geofly Lab website."
 
 
  
