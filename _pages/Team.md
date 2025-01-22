@@ -54,16 +54,25 @@ feature_row_BoTeam:
 
 ## Past Lab Members
 
-Owen Hussey, Teaching Associete, San Jose State University <br />
-My-Thu Tran, Ph.D. Candidate in Geography joint program of SDSU & UCSB <br />
-Melina Kompella, <br />
-Bryan Malone, <br />
-Alexis Herb, <br />
-Devin Jones, <br />
-William Lee, <br />
-Rachel Fan, <br />
-Hao Lan, <br />
-Jessica Reimann, <br />
+Owen Hussey, 2024 M.A. in Geography <br />
+Melanie Morales, 2023 M.A. in Geography <br />
+My-Thu Tran, 2022 M.A. in Geography <br />
+Ian Cook, 2024 NSF Build and Broaden research assistant<br />
+Jannike Allen, 2024 NSF Build and Broaden research assistant<br />
+Hao Lan, 2024 NSF Build and Broaden research assistant<br />
+Ashley Niemand, 2024 NSF Build and Broaden research assistant<br />
+Shaylie Lozinto, 2024 NSF Build and Broaden research assistant<br />
+Jack Stevens, 2024 NASA-FireSage Summer Intern<br />
+Sofia Silva, 2024 NASA-FireSage Summer Intern<br />
+Zachary Ho, 2024 NASA-FireSage Summer Intern<br />
+Gisele Antunes, 2024 NASA-FireSage Summer Intern<br />
+Charlotte Higbie, 2024 NASA-FireSage Summer Intern<br />
+Melina Kompella, 2023 NSF-START research assistant<br />
+Alexis Herb, 2023 NSF-START research assistant<br />
+Devin Jones, 2023 NSF-START research assistant<br />
+William Lee, 2023 NSF-START research assistant<br />
+Jessica Reimann, 2023 SJSU-Levelup Summer intern<br />
+Bryan Malone, 2022 SJSU-Levelup Summer intern<br />
 
 
 
