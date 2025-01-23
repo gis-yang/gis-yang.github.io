@@ -46,33 +46,31 @@ feature_row_BoTeam:
   - image_path: /assets/images/Boyao_1.jpg
     title: "Boyao Huang"
     excerpt: "**Undergraduate Research Assistant** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major. Boyao is interested in the intersection of geography and computer science. He is involved in the Seagrass Drone Vision team, which is currently studying the application of machine learning-based image recognition to seagrass images taken by drones. Boyao is also responsible for the construction of the Geofly Lab website."
-
-
  
 ---
 {% include feature_row id="feature_row_BoTeam" type="left" %}
 
 ## Past Lab Members
 
-Owen Hussey, 2024 M.A. in Geography <br />
-Melanie Morales, 2023 M.A. in Geography <br />
-My-Thu Tran, 2022 M.A. in Geography <br />
-Ian Cook, 2024 NSF Build and Broaden research assistant<br />
-Jannike Allen, 2024 NSF Build and Broaden research assistant<br />
-Hao Lan, 2024 NSF Build and Broaden research assistant<br />
-Ashley Niemand, 2024 NSF Build and Broaden research assistant<br />
-Shaylie Lozinto, 2024 NSF Build and Broaden research assistant<br />
-Jack Stevens, 2024 NASA-FireSage Summer Intern<br />
-Sofia Silva, 2024 NASA-FireSage Summer Intern<br />
-Zachary Ho, 2024 NASA-FireSage Summer Intern<br />
-Gisele Antunes, 2024 NASA-FireSage Summer Intern<br />
-Charlotte Higbie, 2024 NASA-FireSage Summer Intern<br />
-Melina Kompella, 2023 NSF-START research assistant<br />
-Alexis Herb, 2023 NSF-START research assistant<br />
-Devin Jones, 2023 NSF-START research assistant<br />
-William Lee, 2023 NSF-START research assistant<br />
-Jessica Reimann, 2023 SJSU-Levelup Summer intern<br />
-Bryan Malone, 2022 SJSU-Levelup Summer intern<br />
+Owen Hussey, *2024 M.A. in Geography* <br />
+Melanie Morales, *2023 M.A. in Geography* <br />
+My-Thu Tran, *2022 M.A. in Geography* <br />
+Ian Cook, *2024 NSF Build and Broaden research assistant*<br />
+Jannike Allen, *2024 NSF Build and Broaden research assistant*<br />
+Hao Lan, *2024 NSF Build and Broaden research assistant*<br />
+Ashley Niemand, *2024 NSF Build and Broaden research assistant*<br />
+Shaylie Lozinto, *2024 NSF Build and Broaden research assistant*<br />
+Jack Stevens, *2024 NASA-FireSage Summer Intern*<br />
+Sofia Silva, *2024 NASA-FireSage Summer Intern*<br />
+Zachary Ho, *2024 NASA-FireSage Summer Intern*<br />
+Gisele Antunes, *2024 NASA-FireSage Summer Intern*<br />
+Charlotte Higbie, *2024 NASA-FireSage Summer Intern*<br />
+Melina Kompella, *2023 NSF-START research assistant*<br />
+Alexis Herb, *2023 NSF-START research assistant*<br />
+Devin Jones, *2023 NSF-START research assistant*<br />
+William Lee, *2023 NSF-START research assistant*<br />
+Jessica Reimann, *2023 SJSU-Levelup Summer intern*<br />
+Bryan Malone, *2022 SJSU-Levelup Summer intern*<br />
 
 
 
