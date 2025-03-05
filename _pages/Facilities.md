@@ -16,7 +16,7 @@ feature_row_left:
     btn_class: "btn--primary"
 
 intro: 
-  - excerpt: 'Discover cutting-edge UAVs/drones, sophisticated sensors, and precision field instruments at our Geo-Spatial Lab for unparalleled research and educational experiences.'
+  - excerpt: 'UAVs, sensors, and precision instruments at our Geo-Spatial Lab for innovative research and education.'
 
 feature_row_Drones1:
   - image_path: /assets/images/Drone3.jpg
