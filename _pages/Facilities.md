@@ -10,7 +10,7 @@ sidebar:
 feature_row_left:
   - image_path: /assets/images/CISR.png
     title: "CISR/GISTAR GIS Lab"
-    excerpt: "The UCSC CISR/GISTAR Lab is a state-of-the-art facility for geospatial research and education, equipped with high-performance computers featuring GTX 4090/3060 GPUs, SSD storage, and dual monitors. It supports GIS, remote sensing, drone mapping, and machine learning with access to drones, a large-format plotter, and a 3D printer. The lab includes a seminar room, student workspace, and high-resolution projection systems, with future additions like an AR map sandbox and geo-visualization wall. Software resources include ArcGIS Pro, Esri Drone2Map, QGIS, ENVI, Google Earth Engine, and statistical tools, enabling advanced spatial analysis and research."
+    excerpt: "The UCSC CISR GISTAR Lab is a state-of-the-art facility for geospatial research and education, equipped with high-performance computers featuring GTX 4090/3060 GPUs, SSD storage, and dual monitors. It supports GIS, remote sensing, drone mapping, machine learning and AI with access to drones, a large-format plotter, and a 3D printer. The lab includes a seminar room, student workspace, high-resolution projection systems, an AR map sandbox, and a DTEN interactive display. Software resources include ArcGIS Pro, Esri Drone2Map, QGIS, ENVI, Google Earth Engine, and statistical tools, enabling advanced spatial analysis and research."
     url: "https://maps.app.goo.gl/bdVAcWBKc5YDTn5r7"
     btn_label: "Interdisciplinary Sciences Building 486 and 450"
     btn_class: "btn--primary"
