@@ -43,12 +43,19 @@ feature_row_BoTeam:
     # btn_label: "Linkedin"
     # btn_class: "btn--primary"
 
-  - image_path: /assets/images/Boyao_1.jpg
-    title: "Boyao Huang"
-    excerpt: "**Undergraduate Research Assistant** <br />Boyao is currently an undergraduate student at San Jose State University in Data Science major. Boyao is interested in the intersection of geography and computer science. He is involved in the Seagrass Drone Vision team, which is currently studying the application of machine learning-based image recognition to seagrass images taken by drones. Boyao is also responsible for the construction of the Geofly Lab website."
- 
 ---
 {% include feature_row id="feature_row_BoTeam" type="left" %}
+
+## Undergraduate Research Assistant
+**Boyao Huang** is currently an undergraduate student at San Jose State University in Data Science major. Boyao is interested in the intersection of geography and computer science. He is involved in the Seagrass Drone Vision team, which is currently studying the application of machine learning-based image recognition to seagrass images taken by drones. Boyao is also responsible for the construction of the Geofly Lab website."
+
+**Nathan Leroy**
+
+**Griffin Svec-Burdick**
+
+**Max Tcheng**
+
+**Dennise Marc**
 
 ## Past Lab Members
 
