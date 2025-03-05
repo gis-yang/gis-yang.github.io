@@ -81,10 +81,10 @@ feature_row4:
     url: "https://www.nasa.gov/ames/"
     btn_label: "More Info"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Osgeo-logo.png
-    title: "OSGeo"
-    excerpt: "The Open Source Geospatial Foundation (OSGeo) is a non-profit dedicated to fostering global adoption of open geospatial technology. Through support for collaborative development, OSGeo provides reliable software, data, and education resources for geographic information systems (GIS)."
-    url: "https://www.osgeo.org/"
+  - image_path: /assets/images/Club.png
+    title: "GIS and Drone Society"
+    excerpt: "The GIS and Drone Society, founded at SJSU and UCSC and now expanding across the Bay Area, is a dynamic student organization dedicated to GIS, remote sensing, drone mapping, computer vision, and machine learning. We regularly share innovative breakthroughs, club news, and events while highlighting our members' dedication and achievements."
+    url: "https://www.linkedin.com/company/90439721"
     btn_label: "More Info"
     btn_class: "btn--primary"
 
