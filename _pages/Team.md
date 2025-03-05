@@ -29,7 +29,7 @@ feature_row_BoTeam:
     # btn_label: "Linkedin"
     # btn_class: "btn--primary"
 
-  - image_path: /assets/images/bio-photo-2.jpg
+  - image_path: /assets/images/Jeff.png
     title: "Jeff Wootton"
     excerpt: "**Graduate Research Assistant** <br />Graduated with BA from UCSC, currently enrolled at SJSU obtaining MS in GISc and GIS advanced certification. Working with Dr. Yang in Geofly Lab focused on drone remote sensing to study coastal seagrass diseases. Also researching environmental issues faced by unhoused populations living in urban areas using GIS"
     # url: "https://geofly.io/team/"
