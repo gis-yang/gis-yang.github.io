@@ -8,11 +8,11 @@ sidebar:
   nav: "docs"
 
 feature_row_left:
-  - image_path: /assets/images/Lab113.jpg
-    title: "SJSU Geo-spatial lab "
-    excerpt: "The SJSU Geo-Spatial Lab is a state-of-the-art facility providing advanced geospatial technology tools for students and researchers. It's equipped with 30 high-performance computers featuring SSD storage, large memory, high-end video cards with CUDA, and dual-monitoring screens. The lab includes a seminar room, student lounge, and high-resolution projectors. Future additions include an augmented reality map sandbox, geo-visualization wall, and map galleries. It offers comprehensive software like ArcGIS Pro, Esri Drone2Map, ERDAS, ENVI, QGIS, Google Earth Engine, MS Office Suite, and statistical analysis tools."
-    url: "https://goo.gl/maps/kZJh1BBCTnP2ahpP8"
-    btn_label: "Washington Square Hall"
+  - image_path: /assets/images/GISLab.png
+    title: "CISR/GISTAR GIS Lab"
+    excerpt: "The UCSC CISR GISTAR Lab is a state-of-the-art facility dedicated to geospatial research, education, and innovation. It is equipped with high-performance computers featuring SSD storage, large memory, CUDA-enabled GTX 4090 and 3060 GPUs, and dual-monitor setups, supporting advanced GIS, remote sensing, drone mapping, and machine learning applications. The lab includes a seminar room, student workspace, high-resolution projection systems, drones for aerial mapping, a large-format plotter, and a 3D printer for geospatial modeling and visualization. Future expansions will feature an augmented reality map sandbox, a geo-visualization wall, and interactive map galleries. The lab provides comprehensive software, including ArcGIS Pro, Esri Drone2Map, QGIS, ENVI, Google Earth Engine, and statistical analysis tools, enabling cutting-edge geospatial analysis and research."
+    url: "https://maps.app.goo.gl/bdVAcWBKc5YDTn5r7"
+    btn_label: "Interdisciplinary Sciences Building 486 and 450"
     btn_class: "btn--primary"
 
 intro: 
