@@ -8,30 +8,30 @@ sidebar:
   nav: "docs"
 
 feature_row1:
-  - image_path: /assets/images/SJSU.jpg
-    title: "San José State University"
-    excerpt: "San José State University (SJSU), established in 1857 at the heart of Silicon Valley, is a comprehensive public institution and the oldest state university in California."
-    url: "https://sjsu.edu/"
-    btn_label: "More Info"
+  - image_path: /assets/images/ucsc-seal.jpg
+    title: "University of California, Santa Cruz"
+    excerpt: "The University of California, Santa Cruz (UCSC) is a leading institution known for its excellence in both cutting-edge research and student training. With a strong commitment to innovation and interdisciplinary learning, UCSC prepares students to tackle real-world challenges while advancing knowledge across diverse fields."
+    url: "https://www.ucsc.edu/"
+    btn_label: "UCSC Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/URBP.jpg
-    title: "SJSU Department of Urban and Regional Planning"
-    excerpt: "At SJSU's Department of Urban and Regional Planning, students access the region's only accredited Urban Planning Master's alongside diverse programs, including BA and MA in Geography, BS in GIS, and a Master's in Public Relations. "
-    url: "https://www.sjsu.edu/urbanplanning/"
-    btn_label: "More Info"
+  - image_path: /assets/images/UCSC_ENVS.jpg
+    title: "UCSC Department of Environmental Studies"
+    excerpt: "The Environmental Studies (ENVS) Department at UC Santa Cruz is a leader in interdisciplinary research, combining natural science, social science, agriculture, and geospatial analysis to address complex environmental challenges. ENVS equips students with the skills to analyze and solve real-world issues in conservation, sustainable agriculture, and environmental policy. "
+    url: "https://envs.ucsc.edu/"
+    btn_label: "ENVS Website"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Club.png
-    title: "SJSU GIS and Drone Society"
-    excerpt: "The SJSU GIS and Drone Society is a dynamic student organization dedicated to the fields of GIS, remote sensing, drone mapping, computer vision, and machine learning. We regularly share innovative breakthroughs, club news, events, and highlight our members' dedication and achievements."
-    url: "https://www.linkedin.com/company/90439721"
-    btn_label: "Linkedin Page"
+  - image_path: /assets/images/GISTAR LOGO.png
+    title: "UCSC GISTAR Master Program"
+    excerpt: "The GISTAR program at UC Santa Cruz combines geospatial science, artificial intelligence, and remote sensing to address environmental and societal challenges. With a strong focus on applied training in GIS, drone mapping, and spatial modeling, GISTAR prepares students for careers in environmental analysis, urban planning, and geospatial technology development."
+    url: "https://envs.ucsc.edu/graduate/ma-program.html"
+    btn_label: "More Info"
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/SAVI.png
+  - image_path: /assets/images/CISR.png
     title: "Spatial Analytics and Visualization Institute"
-    excerpt: "SJSU Spatial Analytics and Visualization Institute (SAVI) ​​harness geography and Geographic Information Science for pivotal research and professional services, supporting university departments, community groups, public agencies, and private sectors throughout Silicon Valley and the Bay Area."
-    url: "https://www.sjsu.edu/savi-urbp/index.php"
+    excerpt: "The Center for Integrated Spatial Research (CISR) at UC Santa Cruz specializes in geospatial analysis, remote sensing, and spatial modeling to tackle environmental and societal challenges. With a strong emphasis on interdisciplinary research and applied training in GIS, CISR supports innovative solutions in conservation, land-use planning, and ecological monitoring."
+    url: "https://spatialresearch.ucsc.edu/"
     btn_label: "More Info"
     btn_class: "btn--primary"
   - image_path: /assets/images/WIRC.png
