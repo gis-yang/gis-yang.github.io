@@ -29,7 +29,7 @@ feature_row1:
 
 feature_row2:
   - image_path: /assets/images/CISR.png
-    title: "Spatial Analytics and Visualization Institute"
+    title: "The Center for Integrated Spatial Research (CISR)"
     excerpt: "The Center for Integrated Spatial Research (CISR) at UC Santa Cruz specializes in geospatial analysis, remote sensing, and spatial modeling to tackle environmental and societal challenges. With a strong emphasis on interdisciplinary research and applied training in GIS, CISR supports innovative solutions in conservation, land-use planning, and ecological monitoring."
     url: "https://spatialresearch.ucsc.edu/"
     btn_label: "More Info"
