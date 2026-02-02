@@ -91,11 +91,7 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="resource.html">Resources</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="facility.html">Facilities</a>
-                            </li>
-                            <li class="nav-item">
+                            </li>                            <li class="nav-item">
                                 <a class="nav-link" href="team.html">Team</a>
                             </li>
                             <li class="nav-item">
@@ -136,9 +132,7 @@
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="project.html">Projects</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>
-                <li class="nav-item"><a class="nav-link" href="facility.html">Facilities</a></li>
-                <li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
+                <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>                <li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
                 <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
@@ -152,13 +146,52 @@
     </header>
     <!-- END NAVBAR SECTION -->
     <!-- ____________________________________________________________________________________________________________________________________ -->
-    <section id="resource" class="resource-section">
+    <section id="facilities" class="facility-section" style="padding-top: 120px;">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-8 offset-md-2 col-sm-12">
+                    <div class="product-text">
+                        <h1 class="main-heading text-black">Facilities & Instruments</h1>
+                        <p class="sub-heading text-black">UAV platforms, sensors, and instruments that support geospatial research and education.</p>
+                        <div class="mt-3">
+                            <a href="#resources" class="btn btn-slider trans-btn rounded-pill">Jump to Resources</a>
+                        </div>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div id="facility-container" class="row">
+                <!-- Feature Row Left: CISR/GISTAR GIS Lab -->
+                <div class="col-12 d-flex align-items-center mb-4">
+                    <div class="facility-card">
+                        <div class="facility-photo">
+                            <img src="static/picture/CISR.png" alt="CISR/GISTAR GIS Lab" class="img-fluid" style="max-width: 70%;">
+                        </div>
+                        <div class="facility-info">
+                            <h3>CISR/GISTAR GIS Lab</h3>
+                            <p>The UCSC CISR GISTAR Lab is a state-of-the-art facility for geospatial research and education, equipped with high-performance computers featuring GTX 4090/3060 GPUs, SSD storage, and dual monitors. It supports GIS, remote sensing, drone mapping, machine learning and AI with access to drones, a large-format plotter, and a 3D printer. The lab includes a seminar room, student workspace, high-resolution projection systems, an AR map sandbox, and a DTEN interactive display. Software resources include ArcGIS Pro, Esri Drone2Map, QGIS, ENVI, Google Earth Engine, and statistical tools, enabling advanced spatial analysis and research.</p>
+                            <a href="https://maps.app.goo.gl/bdVAcWBKc5YDTn5r7" target="_blank" class="btn btn-slider trans-btn">Interdisciplinary Sciences Building 486 and 450</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Intro -->
+                <div class="col-md-8 offset-md-2 col-sm-12">
+                    <div class="product-text">
+                        <p class="sub-heading text-black">UAVs, sensors, and precision instruments at GeoFly Lab for innovative research and education.</p>
+                    </div>
+                </div>
+                <!-- Dynamic Facilities -->
+            </div>
+        </div>
+    </section>
+
+<section id="resources" class="resource-section" style="padding-top: 60px;">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-8 offset-md-2 col-sm-12">
                     <div class="product-text">
                         <h5 class="heading text-black"><br /><br /></h5>
-                        <h1 class="main-heading text-black"><br />Resources</h1>
+                        <h1 class="main-heading text-black"><br />Resources & Links</h1>
                         <p class="sub-heading text-black"></p>
                     </div>
                 </div>
@@ -192,7 +225,118 @@
     <script src="static/js/bundle.min.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-            // Resource data array
+            const facilities = [
+                {
+                    title: "senseFly eBee X",
+                    description: "Fixed-wing UAV for large-area mapping. Supports RTK/PPK workflows and interchangeable payloads (including S.O.D.A.).",
+                    image: "static/image/ebee_x.jpg",
+                    link: "https://www.sensefly.com/drone/ebee-x/"
+                },
+                {
+                    title: "senseFly S.O.D.A. camera",
+                    description: "Mapping camera payload for the eBee X platform (RGB).",
+                    image: "static/image/soda_camera.jpg",
+                    link: "https://www.sensefly.com/camera/s-o-d-a/"
+                },
+                {
+                    title: "Inspire 2",
+                    description: "Multispectral drone platform with intelligent flight features. 27 minutes flight time",
+                    image: "static/image/Drone3.jpg",
+                    link: "https://www.dji.com/inspire-2/info"
+                },
+                {
+                    title: "Matrice 200",
+                    description: "Versatile and rugged thermal drone platform supports multiple payload configurations. 38 minutes flight time",
+                    image: "static/image/M200.png",
+                    link: "https://www.dji.com/matrice-200-series/info"
+                },
+                {
+                    title: "Matrice 300 RTK",
+                    description: "state-of-the-art industrial drone solution with LiDAR/RGB aerial mapping capabilities. 55-minute maximum flight time",
+                    image: "static/image/M300RTK.png",
+                    link: "https://www.dji.com/matrice-300/specs"
+                },
+                {
+                    title: "Micasense 10band Dual Sensor",
+                    description: "This advanced sensor system combines two powerful 5-band sensors, capturing high-resolution imagery across ten spectral bands, including visible light, near-infrared, and red edge.",
+                    image: "static/image/10band.png",
+                    link: "https://support.micasense.com/hc/en-us/articles/360037369993-RedEdge-MX-Dual-Camera-System-Integration-Guide"
+                },
+                {
+                    title: "Zenmuse H20T Thermal Sensor",
+                    description: "Thermal sensor provides precise temperature measurements to identify heat signatures and monitor infrastructure efficiently.",
+                    image: "static/image/Thermal.png",
+                    link: "https://www.dji.com/zenmuse-h20-series/specs"
+                },
+                {
+                    title: "Zenmuse L1 LiDAR Sensor",
+                    description: "Advanced Livox LiDAR technology captures up to 240,000 points per second, enabling the generation of accurate, high-density point clouds for forestry and infrastructure inspection",
+                    image: "static/image/LiDAR.png",
+                    link: "https://www.dji.com/zenmuse-l1/specs"
+                },
+                {
+                    title: "DJI phantom IV Pro",
+                    description: "Aerial photography and videography drone designed to capture stunning images and breathtaking footage",
+                    image: "static/image/P4P.png",
+                    link: "https://www.dji.com/phantom-4-pro/info"
+                },
+                {
+                    title: "DJI Mavic 3",
+                    description: "Dual-camera foldable drones that takes aerial photography and videography to new heights",
+                    image: "static/image/Mavic3.png",
+                    link: "https://www.dji.com/mavic-3/specs"
+                },
+                {
+                    title: "DJI MINI SE",
+                    description: "Weighing just 249 grams a perfect entry point for beginners and educationnal use alike.",
+                    image: "static/image/MiniSE.png",
+                    link: "https://www.dji.com/mini-se/specs"
+                },
+                {
+                    title: "Trimble GNSS",
+                    description: "high-performance and compact GNSS receiver for high-quality, location-based data collection and management",
+                    image: "static/image/Trimble.png",
+                    link: ""
+                },
+                {
+                    title: "Field Spectroradiometer",
+                    description: "High-performance instrument captures precise spectral data across a wide wavelength range",
+                    image: "static/image/ASD.png",
+                    link: ""
+                },
+                {
+                    title: "YSI water sonde",
+                    description: "This advanced multi-parameter instrument measures key water quality parameters such as temperature, conductivity, dissolved oxygen, pH, turbidity, and more",
+                    image: "static/image/YSI.png",
+                    link: ""
+                },
+                // Add more facilities as needed
+            ];
+            const facilityContainer = document.getElementById("facility-container");
+            if (facilityContainer) {
+                facilities.forEach((facility) => {
+                    const button = facility.link
+                        ? `<a href="${facility.link}" target="_blank" class="btn btn-slider trans-btn">Specs</a>`
+                        : "";
+
+                    const facilityCard = `
+                        <div class="col-md-4 col-sm-6 text-center">
+                            <div class="facility-card">
+                                <div class="facility-photo">
+                                    <img src="${facility.image}" alt="${facility.title}" class="img-fluid">
+                                </div>
+                                <div class="facility-info">
+                                    <h3>${facility.title}</h3>
+                                    <p>${facility.description}</p>
+                                    ${button}
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    facilityContainer.innerHTML += facilityCard;
+                });
+            }
+
             const resources = [
                 {
                     title: "University of California, Santa Cruz",
@@ -286,26 +430,27 @@
                 },
                 // Add more resources here...
             ];
-
             const resourceContainer = document.getElementById("resource-container");
-
-            resources.forEach(resource => {
-                const resourceCard = `
-                    <div class="col-md-4 col-sm-6 text-center">
-                        <div class="resource-card">
-                            <div class="resource-photo">
-                                <img src="${resource.image}" alt="${resource.title}" class="img-fluid">
-                            </div>
-                            <div class="resource-info">
-                                <h3>${resource.title}</h3>
-                                <p>${resource.description}</p>
-                                <a href="${resource.link}" target="_blank" class="btn btn-slider trans-btn">Learn More</a>
+            if (resourceContainer) {
+                resources.forEach(resource => {
+                    const resourceCard = `
+                        <div class="col-md-4 col-sm-6 text-center">
+                            <div class="resource-card">
+                                <div class="resource-photo">
+                                    <img src="${resource.image}" alt="${resource.title}" class="img-fluid">
+                                </div>
+                                <div class="resource-info">
+                                    <h3>${resource.title}</h3>
+                                    <p>${resource.description}</p>
+                                    <a href="${resource.link}" target="_blank" class="btn btn-slider trans-btn">Learn More</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                `;
-                resourceContainer.innerHTML += resourceCard;
-            });
+                    `;
+                    resourceContainer.innerHTML += resourceCard;
+                });
+            }
+        });
         });
     </script>
     <!-- Plugin Js -->
