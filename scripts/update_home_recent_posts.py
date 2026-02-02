@@ -28,6 +28,7 @@ POSTS_DIR = ROOT / "posts"
 START = "<!-- RECENT_POSTS_START -->"
 END = "<!-- RECENT_POSTS_END -->"
 
+# Optional list markers (we may omit the list on the homepage)
 LIST_START = "<!-- RECENT_POSTS_LIST_START -->"
 LIST_END = "<!-- RECENT_POSTS_LIST_END -->"
 
@@ -117,14 +118,13 @@ def main(limit=5):
         raise SystemExit(f"index.html not found at {INDEX}")
 
     index_txt = INDEX.read_text(encoding="utf-8", errors="ignore")
-    if START not in index_txt or END not in index_txt or LIST_START not in index_txt or LIST_END not in index_txt:
+    if START not in index_txt or END not in index_txt:
         raise SystemExit(
             "Missing markers in index.html. Add:\n"
-            f"  {START}\n  {END}\n  {LIST_START}\n  {LIST_END}"
+            f"  {START}\n  {END}"
         )
 
     carousel_block = "".join(build_item(p) for p in posts)
-    list_block = "".join(build_list_item(p) for p in posts)
 
     new_txt = re.sub(
         re.escape(START) + r"[\s\S]*?" + re.escape(END),
@@ -133,12 +133,15 @@ def main(limit=5):
         flags=re.M,
     )
 
-    new_txt = re.sub(
-        re.escape(LIST_START) + r"[\s\S]*?" + re.escape(LIST_END),
-        LIST_START + "\n" + list_block + "                        " + LIST_END,
-        new_txt,
-        flags=re.M,
-    )
+    # Optional: also update a compact list if markers exist.
+    if LIST_START in new_txt and LIST_END in new_txt:
+        list_block = "".join(build_list_item(p) for p in posts)
+        new_txt = re.sub(
+            re.escape(LIST_START) + r"[\s\S]*?" + re.escape(LIST_END),
+            LIST_START + "\n" + list_block + "                        " + LIST_END,
+            new_txt,
+            flags=re.M,
+        )
 
     INDEX.write_text(new_txt, encoding="utf-8")
     print(f"✅ Updated {INDEX} with {len(posts)} recent posts")
