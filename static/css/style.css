@@ -3389,13 +3389,15 @@ span{
 
 /* Share buttons (posts) */
 .share-buttons .share-btns {
-  gap: 10px;
+  gap: 12px;
+  row-gap: 12px;
 }
 .share-buttons .share-btn {
   display: inline-flex;
   align-items: center;
   gap: 8px;
   padding: 8px 14px;
+  margin: 4px;
   border-radius: 999px;
   background: #f7f8fa;
   color: #1f2d3d;
@@ -3404,6 +3406,9 @@ span{
   font-weight: 600;
   text-decoration: none;
   transition: all 0.2s ease;
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 1;
 }
 .share-buttons .share-btn i {
   font-size: 1rem;
