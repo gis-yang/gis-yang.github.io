@@ -3421,9 +3421,9 @@ span{
 
 /* Posts index (post.html) compact titles + spacing */
 .blog .card-title {
-  font-size: 0.88rem;
-  line-height: 1.2;
-  margin-bottom: 0.25rem;
+  font-size: 0.6rem;
+  line-height: 1.15;
+  margin-bottom: 0.2rem;
 }
 .blog .card-text {
   font-size: 0.85rem;
