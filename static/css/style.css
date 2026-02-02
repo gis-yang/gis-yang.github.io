@@ -3418,3 +3418,17 @@ span{
   color: #fff;
   border-color: #0a66c2;
 }
+
+/* Posts index (post.html) compact titles + spacing */
+.blog .card-title {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  margin-bottom: 0.4rem;
+}
+.blog .card-body {
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
+.blog .col-lg-8.mb-5 {
+  margin-bottom: 1.5rem !important;
+}
