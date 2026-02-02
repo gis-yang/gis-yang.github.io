@@ -174,15 +174,15 @@
             <div class="col-12 col-lg-6 contact-description wow slideInLeft" data-wow-delay=".8s">
                 <div class="contact-detail wow fadeInLeft">
                     <div class="ex-detail">
-                        <h2 class="heading text-black">Get In Touch</h2>
+                        <h2 class="heading text-black">Contact</h2>
                     </div>
                     <p class="sub-heading text-grey small-text text-left">
-                        <!-- Please contact me if you would like to give me the opportunity to pursue a PhD or scientific collaboration. -->
-                        We welcome inquiries from prospective graduate and undergraduate student researchers, exchange scholars, and partners in research and education initiatives. Please feel free to contact GeoFly Lab.
+                        GeoFly Lab welcomes inquiries from prospective students, visiting scholars, and research/education partners.
+                        Please use the form to contact the lab; we will follow up via email.
                     </p>
                     <div class="row location-details text-center text-md-left">
                         <div class="col-12 col-md-6 country-1">
-                            <h4 class="heading-text text-left text-black">United State of America</h4>
+                            <h4 class="heading-text text-left text-black">University of California, Santa Cruz</h4>
                             <ul>
                                 <!-- <li><i class="fas fa-envelope"></i><a>byang85@ucsc.edu</a></li> -->
                                 <!-- <li><i class="lni lni-github-original"></i><a target="_blank" href="">Github</a></li> -->
@@ -211,36 +211,57 @@
             
             <div class="col-12 col-lg-6 contact-box text-center text-md-left wow slideInRight" data-wow-delay=".8s" >
                 <div class="c-box wow fadeInRight">
-                    <h4 class="small-heading">Leave Message</h4>
-                    <form class="contact-form" id="contact-form-data" action="https://formsubmit.co/geoflylab@gmail.com" method="POST" enctype="multipart/form-data">
+                    <h4 class="small-heading">Send a message</h4>
+                    <p class="sub-heading text-grey small-text text-left mb-3">
+                        Please provide a valid email address so we can respond. Fields marked * are required.
+                    </p>
+
+                    <!-- NOTE: GitHub Pages is static. To send email without exposing addresses, use a form backend such as Formspree.
+                         Replace the action URL below with your Formspree endpoint: https://formspree.io/f/<your-id>
+                         In Formspree dashboard, configure notifications to deliver to geoflylab@gmail.com and byang85@ucsc.edu.
+                    -->
+                    <form class="contact-form" id="contact-form-data" action="https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID" method="POST">
                         <div class="row my-form">
                             <div class="col-md-12 col-sm-12">
                                 <div id="result"></div>
                             </div>
+
+                            <!-- honeypot for spam bots -->
+                            <input type="text" name="_gotcha" style="display:none">
+
                             <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" id="candidate_fname" name="firstName" placeholder="First Name" required="required">
+                                <input type="text" class="form-control" name="firstName" placeholder="First name *" required>
                             </div>
                             <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" id="candidate_lname" name="lastName" placeholder="Last Name" required="required">
+                                <input type="text" class="form-control" name="lastName" placeholder="Last name *" required>
                             </div>
                             <div class="col-12 col-md-6">
-                                <input type="email" class="form-control" id="user_email" name="userEmail" placeholder="Email" required="required">
+                                <input type="email" class="form-control" name="email" placeholder="Email *" required>
                             </div>
                             <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" id="user_subject" name="userSubject" placeholder="Subject" required="required">
+                                <input type="text" class="form-control" name="affiliation" placeholder="Affiliation (e.g., UCSC, agency, company)">
                             </div>
+
+                            <div class="col-12 col-md-6">
+                                <select class="form-control" name="category" required>
+                                    <option value="" disabled selected>Inquiry type *</option>
+                                    <option>Prospective student</option>
+                                    <option>Visiting scholar / collaboration</option>
+                                    <option>Data / methods inquiry</option>
+                                    <option>Media / outreach</option>
+                                    <option>Other</option>
+                                </select>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <input type="text" class="form-control" name="subject" placeholder="Subject *" required>
+                            </div>
+
                             <div class="col-12">
-                                <label for="user_message"></label><textarea class="form-control" id="user_message" name="userMessage" placeholder="Please leave your message here..." rows="7" required="required"></textarea>
+                                <textarea class="form-control" name="message" placeholder="Message *" rows="7" required></textarea>
                             </div>
 
-                            <input type="hidden" name="_captcha" value="false">
-                            <input type="hidden" name="_subject" value="New submission from Geofly pages!">
-                            <input type="hidden" name="_cc" value="byang85@ucsc.edu">
-
-
                             <div class="col-12">
-                                <button class="btn contact_btn btn-slider trans-btn mt-4 rounded-pill" type="submit">SUBMIT
-                                </button>
+                                <button class="btn contact_btn btn-slider trans-btn mt-4 rounded-pill" type="submit">Submit</button>
                             </div>
                         </div>
                     </form>
@@ -250,19 +271,6 @@
         </div>
     </div>
     
-</section>
-
-<!-- START MAP SECTION  -->
-<section id="map">
-    <div class="row">
-        <div class="col-12">
-            <div class="mapouter">
-                <div class="gmap_canvas">
-                    <iframe class="map" src="javascript:;" width="600" height="450" style="border:0;" allowfullscreen=""></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
 
 <section id="footer" class="footer">
