@@ -24,6 +24,54 @@
     <link href="static/css/LineIcons.min.css" rel="stylesheet">
     <!-- Style Sheet -->
     <link rel="stylesheet" href="static/css/style.css">
+    <style>
+        /* Publications page tweaks */
+        #publications .project-description li {
+            font-size: 0.95rem;
+            line-height: 1.35;
+            margin-bottom: 0.6rem !important;
+        }
+        #publications .project-description {
+            margin-bottom: 0;
+        }
+        #publications .project-container {
+            margin-bottom: 1.25rem !important;
+        }
+        #publications .project-title {
+            font-size: 1.1rem;
+            margin-bottom: 0.4rem;
+        }
+        #publications .year-separator {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin: 12px 0 8px;
+        }
+        #publications .year-separator::before,
+        #publications .year-separator::after {
+            content: "";
+            flex: 1;
+            border-bottom: 1px solid #d0d0d0;
+        }
+        #publications .year-separator span {
+            font-size: 0.9rem;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            color: #666;
+            text-transform: uppercase;
+        }
+        #publications a.pdf-btn {
+            font-size: 0.78rem;
+            border: 1px solid #888;
+            border-radius: 4px;
+            padding: 1px 6px;
+            margin-left: 6px;
+            text-decoration: none;
+        }
+        #publications a.pdf-btn:hover {
+            background: #f2f2f2;
+        }
+    </style>
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="150">
@@ -161,7 +209,7 @@
             <!-- 2026 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2026</h3>
+                    <div class="year-separator"><span>2026</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Tran, M. T., Swindell, C., Yang, B., Skupin, A., &amp; Akerkar, R. (2026). Quantifying the Impact of Transportation on Urban Heat Islands. <em>Annals of the American Association of Geographers</em>, 1–21. <a href="https://doi.org/10.1080/24694452.2025.2600638" target="_blank">DOI: 10.1080/24694452.2025.2600638</a></li>
                     </ul>
@@ -170,44 +218,44 @@
             <!-- 2025 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2025</h3>
+                    <div class="year-separator"><span>2025</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Yang, B., Hussey, O., &amp; Alexander, S. (2025). Quantifying highway expansion impact on urban heat island effect in San Francisco bay area. <em>Cities</em>, 169, 1065. <a href="https://doi.org/10.1016/j.cities.2025.106555" target="_blank">DOI: 10.1016/j.cities.2025.106555</a></li>
-                        <li class="mb-4">Huang, Y., Yang, B., Ren, X., Lu, Y., Lan, M., &amp; Gong, X. (2025). Spatio-temporal cokriging crime predictions using social media data: a multi-type case study in San Jose, California. <em>Computational Urban Science</em>, 5(1), 72. <a href="https://doi.org/10.1007/s43762-025-00233-6" target="_blank">DOI: 10.1007/s43762-025-00233-6</a></li>
+                        <li class="mb-4">Huang, Y., Yang, B., Ren, X., Lu, Y., Lan, M., &amp; Gong, X. (2025). Spatio-temporal cokriging crime predictions using social media data: a multi-type case study in San Jose, California. <em>Computational Urban Science</em>, 5(1), 72. <a href="https://doi.org/10.1007/s43762-025-00233-6" target="_blank">DOI: 10.1007/s43762-025-00233-6</a> <a class="pdf-btn" href="static/papers/10.1007_s43762-025-00233-6.pdf" target="_blank">PDF</a></li>
                     </ul>
                 </div>
             </div>
             <!-- 2024 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2024</h3>
+                    <div class="year-separator"><span>2024</span></div>
                     <ul class="project-description list-unstyled">
-                        <li class="mb-4">Alexander, S. E., Yang, B., Hussey, O., & Hicks, D. (2023). Examining the Externalities of Highway Capacity Expansions in California: An Analysis of Land Use and Land Cover (LULC) Using Remote Sensing Technology. <em>Mineta Transportation Institute Publications</em> <a href="https://scholarworks.sjsu.edu/mti_publications/471/" target="_blank">DOI: 10.31979/mti.2023.2251</a></li>
+                        <li class="mb-4">Alexander, S. E., Yang, B., Hussey, O., & Hicks, D. (2023). Examining the Externalities of Highway Capacity Expansions in California: An Analysis of Land Use and Land Cover (LULC) Using Remote Sensing Technology. <em>Mineta Transportation Institute Publications</em> <a href="https://scholarworks.sjsu.edu/mti_publications/471/" target="_blank">DOI: 10.31979/mti.2023.2251</a> <a class="pdf-btn" href="static/papers/10.31979_mti.2023.2251.pdf" target="_blank">PDF</a></li>
                     </ul>
                 </div>
             </div>
             <!-- 2023 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2023</h3>
+                    <div class="year-separator"><span>2023</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Yang, B., Hawthorne, T.L., Aoki, L.R., Beatty, D.S., Domke, L.K., Copeland, T., Eckert, G.L., Graham, O.J., Harper, L., Hessing-Lewis, M., Rappazzo, B., & Hovel, K.A., et al. (2023). Low-Altitude UAV Imaging Accurately Quantifies Eelgrass Wasting Disease from Alaska to California. <em>Geophysical Research Letters</em> <a href="https://doi.org/10.1029/2022GL101985" target="_blank">DOI: 10.1029/2022GL101985</a></li>
-                        <li class="mb-4">Aoki, L.R., Yang, B., O.J. Graham, C. Gomes, B. Rappazzo, T.L. Hawthorne, J.E. Duffy, & D. Harvell. (2023). UAV high-resolution imaging and disease surveys combine to quantify climate-related decline in seagrass meadows. <em>Oceanography 36(Supplement 1)</em> <a href="https://doi.org/10.5670/oceanog.2023.s1.12" target="_blank">DOI: 10.5670/oceanog.2023.s1.12</a></li>
+                        <li class="mb-4">Aoki, L.R., Yang, B., O.J. Graham, C. Gomes, B. Rappazzo, T.L. Hawthorne, J.E. Duffy, & D. Harvell. (2023). UAV high-resolution imaging and disease surveys combine to quantify climate-related decline in seagrass meadows. <em>Oceanography 36(Supplement 1)</em> <a href="https://doi.org/10.5670/oceanog.2023.s1.12" target="_blank">DOI: 10.5670/oceanog.2023.s1.12</a> <a class="pdf-btn" href="static/papers/10.5670_oceanog.2023.s1.12.pdf" target="_blank">PDF</a></li>
                         <li class="mb-4">Shu, S., Yu, O.-Y., Schoonover, C., Liu, H., & Yang, B. (2023). Unmanned Aerial Vehicle-Based Structure from Motion Technique for Precise Snow Depth Retrieval—Implication for Optimal Ground Control Point Deployment Strategy. <em>Remote Sensing</em>, 15(9), 2297. <a href="https://doi.org/10.3390/rs15092297" target="_blank">DOI: 10.3390/rs15092297</a></li>
                         <li class="mb-4">Graham, O.J., Stephens, T., Rappazzo, B., Klohmann, C., Dayal, S., Adamczyk, E.M., Olson, A., Hessing-Lewis, M., Eisenlord, M., Yang, B., Burge, C., Gomes, C., & Harvell, D. (2023). Deeper habitats and cooler temperatures moderate a climate-driven seagrass disease. <em>Phil. Trans. R. Soc. B</em> 378:20220016 <a href="https://doi.org/10.1098/rstb.2022.0016" target="_blank">DOI: 10.1098/rstb.2022.0016</a></li>
-                        <li class="mb-4">Tran, M. T., & Yang, B. (2023). Using Thermal Remote Sensing to Quantify Impact of Traffic on Urban Heat Islands during COVID. <em>Mineta Transportation Institute Publications</em> (2023). <a href="https://doi.org/10.31979/mti.2023.2207" target="_blank">DOI: 10.31979/mti.2023.2207</a></li>
+                        <li class="mb-4">Tran, M. T., & Yang, B. (2023). Using Thermal Remote Sensing to Quantify Impact of Traffic on Urban Heat Islands during COVID. <em>Mineta Transportation Institute Publications</em> (2023). <a href="https://doi.org/10.31979/mti.2023.2207" target="_blank">DOI: 10.31979/mti.2023.2207</a> <a class="pdf-btn" href="static/papers/10.31979_mti.2023.2207.pdf" target="_blank">PDF</a></li>
                     </ul>
                 </div>
             </div>
             <!-- 2022 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2022</h3>
+                    <div class="year-separator"><span>2022</span></div>
                     <ul class="project-description list-unstyled">
-                        <li class="mb-4">Yang, B., Liu, H., Kang, E.L., et al. (2022). Traffic restrictions during the 2008 Olympic Games reduced urban heat intensity and extent in Beijing. <em>Nature Communications Earth & Environment</em>, 3:105 <a href="https://doi.org/10.1038/s43247-022-00427-4" target="_blank">DOI: 10.1038/s43247-022-00427-4</a></li>
+                        <li class="mb-4">Yang, B., Liu, H., Kang, E.L., et al. (2022). Traffic restrictions during the 2008 Olympic Games reduced urban heat intensity and extent in Beijing. <em>Nature Communications Earth & Environment</em>, 3:105 <a href="https://doi.org/10.1038/s43247-022-00427-4" target="_blank">DOI: 10.1038/s43247-022-00427-4</a> <a class="pdf-btn" href="static/papers/10.1038_s43247-022-00427-4.pdf" target="_blank">PDF</a></li>
                         <li class="mb-4">Hawthorne, T.L., Toohy, K.R., Yang, B., Graham, L., Lorenzo, E.M., Torres, H., McDonald, M., Rivera, F., Bouck, K., & Walters, L.J. (2022). Mapping Emotional Attachment as a Measure of Sense of Place to Identify Coastal Restoration Priority Areas. <em>Applied Geography</em>, 138, 102608. <a href="https://doi.org/10.1016/J.APGEOG.2021.102608" target="_blank">DOI: 10.1016/J.APGEOG.2021.102608</a></li>
                         <li class="mb-4">Aoki, L.R., Rappazzo, B., Beatty, D.S., … & Yang, B., et al. (2022). Disease surveillance by artificial intelligence links eelgrass wasting disease to ocean warming across latitudes. <em>Limnology and Oceanography</em>. <a href="https://doi.org/10.1002/lno.12152" target="_blank">DOI: 10.1002/lno.12152</a></li>
-                        <li class="mb-4">Geng, H., Jin, Z., Yao, J., Zhang, H., Hu, Z., Yang, B., Guo, Y., et al. (2022). Efficient Routing Protection Algorithm Based on Optimized Network Topology. <em>Computers, Materials & Continua</em>, 72(3), 4525–4540. <a href="https://doi.org/10.32604/cmc.2022.027725" target="_blank">DOI: 10.32604/cmc.2022.027725</a></li>
+                        <li class="mb-4">Geng, H., Jin, Z., Yao, J., Zhang, H., Hu, Z., Yang, B., Guo, Y., et al. (2022). Efficient Routing Protection Algorithm Based on Optimized Network Topology. <em>Computers, Materials & Continua</em>, 72(3), 4525–4540. <a href="https://doi.org/10.32604/cmc.2022.027725" target="_blank">DOI: 10.32604/cmc.2022.027725</a> <a class="pdf-btn" href="static/papers/10.32604_cmc.2022.027725.pdf" target="_blank">PDF</a></li>
                         <li class="mb-4">Beatty, D.S., Aoki, L.R., … & Yang, B., et al. (2022). Predictable Changes in Eelgrass Microbiomes with Increasing Wasting Disease Prevalence across 23° Latitude in the Northeastern Pacific. <em>mSystems</em>, 7(1), e00224-22. <a href="https://journals.asm.org/doi/10.1128/msystems.00224-22" target="_blank">DOI: 10.1128/msystems.00224-22</a></li>
                     </ul>
                 </div>
@@ -215,10 +263,10 @@
             <!-- 2021 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2021</h3>
+                    <div class="year-separator"><span>2021</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Yang, B., Liu, H., Kang, E., Shu, S., Xu, M., Wu, B., Beck, R., Hinkel, K., & Yu, B. (2021) Spatio-temporal Cokriging method for blending and downscaling multi-scale remote sensing data. <em>Remote Sensing of Environment</em>. <a href="https://doi.org/10.1016/j.rse.2020.112190" target="_blank">DOI:10.1016/j.rse.2020.112190</a></li>
-                        <li class="mb-4">Yang, B., Tong, S., & Fan, R. (2021). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. <em>Journal of Environmental Informatics</em>. <a href="https://doi.org/10.3808/jei.202000433" target="_blank">DOI:10.3808/jei.202000433</a></li>
+                        <li class="mb-4">Yang, B., Tong, S., & Fan, R. (2021). Using high resolution images from UAV and satellite remote sensing for best management practice (BMP) analyses. <em>Journal of Environmental Informatics</em>. <a href="https://doi.org/10.3808/jei.202000433" target="_blank">DOI:10.3808/jei.202000433</a> <a class="pdf-btn" href="static/papers/10.3808_jei.202000433.pdf" target="_blank">PDF</a></li>
                         <li class="mb-4">Beatty, D.S., Aoki, L.R., Graham, O.J., Yang, B. (2021). The future is big—and small: remote sensing enables cross-scale comparisons of microbiome dynamics and ecological consequences. <em>mSystems</em>, 6:e01106-21. <a href="https://doi.org/10.1128/mSystems.01106-21" target="_blank">DOI:10.1128/mSystems.01106-21</a></li>
                         <li class="mb-4">Xu, M., Liu, H., Beck, R., Lekki, J., Yang, B., Liu, Y., Shu, S., et al. (2021). Implementation Strategy and Spatiotemporal Extensibility of Multipredictor Ensemble Model for Water Quality Parameter Retrieval With Multispectral Remote Sensing Data. <em>IEEE Transactions on Geoscience and Remote Sensing</em>. <a href="https://doi.org/10.1109/TGRS.2020.3045921" target="_blank">DOI:10.1109/TGRS.2020.3045921</a></li>
                         <li class="mb-4">Groner, M.L., Eisenlord, M.E., Yoshioka, R.M., …,&nbsp;Yang, B., et al. (2021) Warming sea surface temperatures fuel summer epidemics of eelgrass wasting disease. <em>Marine Ecology Progress Series</em>, 679:47-58. <a href="https://doi.org/10.3354/meps13902" target="_blank">DOI:10.3354/meps13902</a></li>
@@ -230,7 +278,7 @@
             <!-- 2020 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2020</h3>
+                    <div class="year-separator"><span>2020</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Yang, B.; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Feinman, M.; Searson, H. (2020) Developing an Introductory UAV/Drone Mapping Training Program for Seagrass Monitoring and Research. <em>Drones</em> (Journal Cover Story), 4, 70. <a href="https://doi.org/10.3390/drones4040070" target="_blank">DOI:10.3390/drones4040070</a></li>
                         <li class="mb-4">Yang, B., Liu, L., Lan, M., Wang, Z., Zhou, H., Yu, H. (2020). A spatio-temporal method for crime prediction using historical crime data and transitional zones identified from nightlight imagery. <em>International Journal of Geographical Information Science</em>, 1-25. <a href="https://doi.org/10.1080/13658816.2020.1737701" target="_blank">DOI:10.1080/13658816.2020.1737701</a></li>
@@ -245,7 +293,7 @@
             <!-- 2019 -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left mt-5">2019</h3>
+                    <div class="year-separator"><span>2019</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Yang, B., Hawthorne, T., Torres, H., Feinman, M. (2019). Using Object-Oriented Classification for Coastal Management in the East Central Coast of Florida: A Quantitative Comparison between UAV, Satellite, and Aerial Data. <em>Drones</em>, 3(3), 60. <a href="https://doi.org/10.3390/drones3030060" target="_blank">DOI:10.3390/drones3030060</a></li>
                         <li class="mb-4">Yang, B., Tong, S., & Fan, R. (2019). Sharpening land use maps and predicting the trends of land-use change using high-resolution airborne image: a geostatistic approach. <em>International Journal of Applied Earth Observation and Geoinformation</em>, 79, 141-152. <a href="https://doi.org/10.1016/j.jag.2019.03.010" target="_blank">DOI:10.1016/j.jag.2019.03.010</a></li>
@@ -258,7 +306,7 @@
             <!-- 2018 and before -->
             <div class="row project-container mb-5">
                 <div class="col-12 project-item wow fadeInUp" data-wow-duration=".8s">
-                    <h3 class="project-title text-left">2018 and before</h3>
+                    <div class="year-separator"><span>2018 and before</span></div>
                     <ul class="project-description list-unstyled">
                         <li class="mb-4">Beck, R., Xu, M., Zhan, S., Johansen, R.A., Liu, H., Tong, S., Yang, B., Shu, S., et al., (2018). Comparison of satellite reflectance algorithms for estimating turbidity and cyanobacterial concentrations in productive freshwaters using hyperspectral aircraft imagery and dense coincident surface observations. <em>Journal of Great Lakes Research</em>. 45(3), 413-433. <a href="https://doi.org/10.1016/j.jglr.2018.09.001" target="_blank">DOI: 10.1016/j.jglr.2018.09.001</a></li>
                         <li class="mb-4">Xu, M., Liu, H., Beck, R., Lekki, J., Yang, B., Shu, S., et al., (2018). A spectral space partition guided ensemble method for retrieving chlorophyll-a concentration in inland waters from Sentinel-2A satellite imagery. <em>Journal of Great Lakes Research</em>. 45(3), 454-465. <a href="https://doi.org/10.1016/j.jglr.2018.09.002" target="_blank">DOI: 10.1016/j.jglr.2018.09.002</a></li>
