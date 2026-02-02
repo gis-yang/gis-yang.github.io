@@ -93,6 +93,9 @@
                                 <a class="nav-link" href="resource.html">Resources</a>
                             </li>
                             <li class="nav-item">
+                                
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="team.html">Team</a>
                             </li>
                             <li class="nav-item">
@@ -134,6 +137,7 @@
                 <li class="nav-item"><a class="nav-link" href="project.html">Projects</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
                 <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>
+                <li class="nav-item"></li>
                 <li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
                 <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
@@ -183,7 +187,7 @@
         </div>
     </section>
 
-<section id="resource" class="resource-section">
+<section id="resource" class="resource-section" style="padding-top: 60px;">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-8 offset-md-2 col-sm-12">
@@ -223,7 +227,7 @@
     <script src="static/js/bundle.min.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
-const facilities = [
+            const facilities = [
                 {
                     title: "senseFly eBee X",
                     description: "Fixed-wing UAV for large-area mapping. Supports RTK/PPK workflows and interchangeable payloads (including S.O.D.A.).",
@@ -310,31 +314,31 @@ const facilities = [
                 },
                 // Add more facilities as needed
             ];
-
             const facilityContainer = document.getElementById("facility-container");
+            if (facilityContainer) {
+                facilities.forEach((facility) => {
+                    const button = facility.link
+                        ? `<a href="${facility.link}" target="_blank" class="btn btn-slider trans-btn">Specs</a>`
+                        : "";
 
-            facilities.forEach((facility, index) => {
-                const button = facility.link
-                    ? `<a href="${facility.link}" target="_blank" class="btn btn-slider trans-btn">Specs</a>`
-                    : "";
-                
-                const facilityCard = `
-                    <div class="col-md-4 col-sm-6 text-center">
-                        <div class="facility-card">
-                            <div class="facility-photo">
-                                <img src="${facility.image}" alt="${facility.title}" class="img-fluid">
-                            </div>
-                            <div class="facility-info">
-                                <h3>${facility.title}</h3>
-                                <p>${facility.description}</p>
-                                ${button}
+                    const facilityCard = `
+                        <div class="col-md-4 col-sm-6 text-center">
+                            <div class="facility-card">
+                                <div class="facility-photo">
+                                    <img src="${facility.image}" alt="${facility.title}" class="img-fluid">
+                                </div>
+                                <div class="facility-info">
+                                    <h3>${facility.title}</h3>
+                                    <p>${facility.description}</p>
+                                    ${button}
+                                </div>
                             </div>
                         </div>
-                    </div>
-                `;
-                facilityContainer.innerHTML += facilityCard;
+                    `;
+                    facilityContainer.innerHTML += facilityCard;
+                });
+            }
 
-// Resource data array
             const resources = [
                 {
                     title: "University of California, Santa Cruz",
@@ -428,26 +432,27 @@ const facilities = [
                 },
                 // Add more resources here...
             ];
-
             const resourceContainer = document.getElementById("resource-container");
-
-            resources.forEach(resource => {
-                const resourceCard = `
-                    <div class="col-md-4 col-sm-6 text-center">
-                        <div class="resource-card">
-                            <div class="resource-photo">
-                                <img src="${resource.image}" alt="${resource.title}" class="img-fluid">
-                            </div>
-                            <div class="resource-info">
-                                <h3>${resource.title}</h3>
-                                <p>${resource.description}</p>
-                                <a href="${resource.link}" target="_blank" class="btn btn-slider trans-btn">Learn More</a>
+            if (resourceContainer) {
+                resources.forEach((resource) => {
+                    const resourceCard = `
+                        <div class="col-md-4 col-sm-6 text-center">
+                            <div class="resource-card">
+                                <div class="resource-photo">
+                                    <img src="${resource.image}" alt="${resource.title}" class="img-fluid">
+                                </div>
+                                <div class="resource-info">
+                                    <h3>${resource.title}</h3>
+                                    <p>${resource.description}</p>
+                                    <a href="${resource.link}" target="_blank" class="btn btn-slider trans-btn">Learn More</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                `;
-                resourceContainer.innerHTML += resourceCard;
-});
+                    `;
+                    resourceContainer.innerHTML += resourceCard;
+                });
+            }
+        });
         });
     </script>
     <!-- Plugin Js -->
