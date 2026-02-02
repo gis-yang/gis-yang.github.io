@@ -192,33 +192,73 @@
     <!-- Updated date -->
 
                     <!-- Share buttons -->
-                    <div class="share-buttons mt-4">
-                        <p class="text-muted mb-2">Share:</p>
-                        <a class="btn btn-slider trans-btn rounded-pill mr-2" id="share-twitter" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
-                        <a class="btn btn-slider trans-btn rounded-pill mr-2" id="share-linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                        <a class="btn btn-slider trans-btn rounded-pill" id="share-facebook" target="_blank" rel="noopener noreferrer">Facebook</a>
-                    </div>
+                        <div class="share-buttons mt-4 text-center">
+        <p class="text-muted mb-2">Share:</p>
+        <div class="share-btns d-flex justify-content-center flex-wrap">
+            <a class="share-btn" id="share-twitter" target="_blank" rel="noopener noreferrer" aria-label="Share on X"><i class="lni lni-twitter-original"></i><span>X</span></a>
+            <a class="share-btn" id="share-linkedin" target="_blank" rel="noopener noreferrer" aria-label="Share on LinkedIn"><i class="lni lni-linkedin-original"></i><span>LinkedIn</span></a>
+            <a class="share-btn" id="share-facebook" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook"><i class="lni lni-facebook-filled"></i><span>Facebook</span></a>
+            <a class="share-btn" id="share-email" target="_blank" rel="noopener noreferrer" aria-label="Share via email"><i class="lni lni-envelope"></i><span>Email</span></a>
+        </div>
+    </div>
 
                     <!-- Share links (no login; opens native share pages) -->
-                    <script>
-                        (function () {
-                            function setShareLinks() {
-                                var url = encodeURIComponent(window.location.href);
-                                var title = encodeURIComponent(document.title);
-                                var tw = document.getElementById('share-twitter');
-                                var li = document.getElementById('share-linkedin');
-                                var fb = document.getElementById('share-facebook');
-                                if (tw) tw.href = 'https://twitter.com/intent/tweet?url=' + url + '&text=' + title;
-                                if (li) li.href = 'https://www.linkedin.com/sharing/share-offsite/?url=' + url;
-                                if (fb) fb.href = 'https://www.facebook.com/sharer/sharer.php?u=' + url;
-                            }
-                            if (document.readyState === 'loading') {
-                                document.addEventListener('DOMContentLoaded', setShareLinks);
-                            } else {
-                                setShareLinks();
-                            }
-                        })();
-                    </script>
+                        <script>
+        (function () {
+            function absoluteUrl(src) {
+                if (!src) return '';
+                try { return new URL(src, window.location.href).href; } catch (e) { return src; }
+            }
+            function buildEmailBody() {
+                var titleEl = document.querySelector('h1.main-heading');
+                var title = titleEl ? titleEl.innerText : document.title;
+                var container = document.querySelector('.blog .col-lg-8');
+                var text = '';
+                if (container) {
+                    var paragraphs = Array.from(container.querySelectorAll('p'))
+                        .map(function (p) { return p.innerText.trim(); })
+                        .filter(Boolean);
+                    text = paragraphs.join('
+
+');
+                }
+                var images = container ? Array.from(container.querySelectorAll('img')) : [];
+                var imageUrls = images.map(function (img) { return absoluteUrl(img.getAttribute('src')); }).filter(Boolean);
+                var bodyParts = [];
+                if (title) bodyParts.push(title);
+                if (text) bodyParts.push(text);
+                if (imageUrls.length) bodyParts.push('Images:
+' + imageUrls.map(function (u) { return '• ' + u; }).join('
+'));
+                bodyParts.push('Original post: ' + window.location.href);
+                return bodyParts.join('
+
+');
+            }
+            function setShareLinks() {
+                var url = encodeURIComponent(window.location.href);
+                var title = encodeURIComponent(document.title);
+                var tw = document.getElementById('share-twitter');
+                var li = document.getElementById('share-linkedin');
+                var fb = document.getElementById('share-facebook');
+                var em = document.getElementById('share-email');
+                if (tw) tw.href = 'https://twitter.com/intent/tweet?url=' + url + '&text=' + title;
+                if (li) li.href = 'https://www.linkedin.com/sharing/share-offsite/?url=' + url;
+                if (fb) fb.href = 'https://www.facebook.com/sharer/sharer.php?u=' + url;
+                if (em) {
+                    var subjTitle = (document.querySelector('h1.main-heading') || {}).innerText || document.title;
+                    var subject = 'GeoFly Lab: ' + subjTitle;
+                    var body = buildEmailBody();
+                    em.href = 'mailto:?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+                }
+            }
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', setShareLinks);
+            } else {
+                setShareLinks();
+            }
+        })();
+    </script>
 
     <div class="container text-right mb-4">
         <p class="updated">Updated: October 19, 2020</p>
