@@ -9,6 +9,9 @@ Markers in index.html:
   <!-- RECENT_POSTS_START -->
   <!-- RECENT_POSTS_END -->
 
+  <!-- RECENT_POSTS_LIST_START -->
+  <!-- RECENT_POSTS_LIST_END -->
+
 No third-party deps.
 """
 
@@ -24,6 +27,9 @@ POSTS_DIR = ROOT / "posts"
 
 START = "<!-- RECENT_POSTS_START -->"
 END = "<!-- RECENT_POSTS_END -->"
+
+LIST_START = "<!-- RECENT_POSTS_LIST_START -->"
+LIST_END = "<!-- RECENT_POSTS_LIST_END -->"
 
 
 def extract_date_from_filename(name: str):
@@ -88,6 +94,15 @@ def build_item(p):
 """
 
 
+def build_list_item(p):
+    safe_title = html.escape(p["title"])
+    return f"""                        <li class=\"mb-2\">
+                            <span class=\"text-muted\">{p['date_long']}</span> —
+                            <a href=\"{p['url']}\" class=\"text-decoration-none\">{safe_title}</a>
+                        </li>
+"""
+
+
 def main(limit=5):
     posts = []
     for p in glob.glob(str(POSTS_DIR / "*.html")):
@@ -102,18 +117,26 @@ def main(limit=5):
         raise SystemExit(f"index.html not found at {INDEX}")
 
     index_txt = INDEX.read_text(encoding="utf-8", errors="ignore")
-    if START not in index_txt or END not in index_txt:
+    if START not in index_txt or END not in index_txt or LIST_START not in index_txt or LIST_END not in index_txt:
         raise SystemExit(
             "Missing markers in index.html. Add:\n"
-            f"  {START}\n  {END}"
+            f"  {START}\n  {END}\n  {LIST_START}\n  {LIST_END}"
         )
 
-    block = "".join(build_item(p) for p in posts)
+    carousel_block = "".join(build_item(p) for p in posts)
+    list_block = "".join(build_list_item(p) for p in posts)
 
     new_txt = re.sub(
         re.escape(START) + r"[\s\S]*?" + re.escape(END),
-        START + "\n" + block + "                    " + END,
+        START + "\n" + carousel_block + "                    " + END,
         index_txt,
+        flags=re.M,
+    )
+
+    new_txt = re.sub(
+        re.escape(LIST_START) + r"[\s\S]*?" + re.escape(LIST_END),
+        LIST_START + "\n" + list_block + "                        " + LIST_END,
+        new_txt,
         flags=re.M,
     )
 

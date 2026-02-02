@@ -868,12 +868,27 @@ input, select, textarea {margin :0;}
 
 /*****************HOMES SECTION START**************/
 .bg-banner-img{
-    background-image: url("../image/Drone3.jpg");
+    background-image: url("../image/hero_ucsc_gisday.jpg");
     height: 100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+/* add a subtle overlay for readability on busy photos */
+.home.bg-banner-img{
+    position: relative;
+}
+.home.bg-banner-img:before{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255,255,255,0.55);
+}
+.home.bg-banner-img > .container{
+    position: relative;
+    z-index: 1;
 }
 
 .slider-text .heading{
