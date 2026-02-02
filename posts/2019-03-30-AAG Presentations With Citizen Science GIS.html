@@ -315,7 +315,7 @@ Assigned to Session</p>
     </div>
 
                     <!-- Share links (no login; opens native share pages) -->
-                                    <script>
+                                        <script>
         (function () {
             function absoluteUrl(src) {
                 if (!src) return '';
@@ -330,22 +330,16 @@ Assigned to Session</p>
                     var paragraphs = Array.from(container.querySelectorAll('p'))
                         .map(function (p) { return p.innerText.trim(); })
                         .filter(Boolean);
-                    text = paragraphs.join('
-
-');
+                    text = paragraphs.join('\\n\\n');
                 }
                 var images = container ? Array.from(container.querySelectorAll('img')) : [];
                 var imageUrls = images.map(function (img) { return absoluteUrl(img.getAttribute('src')); }).filter(Boolean);
                 var bodyParts = [];
                 if (title) bodyParts.push(title);
                 if (text) bodyParts.push(text);
-                if (imageUrls.length) bodyParts.push('Images:
-' + imageUrls.map(function (u) { return '• ' + u; }).join('
-'));
+                if (imageUrls.length) bodyParts.push('Images:\\n' + imageUrls.map(function (u) { return '• ' + u; }).join('\\n'));
                 bodyParts.push('Original post: ' + window.location.href);
-                return bodyParts.join('
-
-');
+                return bodyParts.join('\\n\\n');
             }
             function popup(url) {
                 var w = 900, h = 700;
