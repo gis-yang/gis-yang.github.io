@@ -30,6 +30,9 @@
         .blog .card .card-img-top { width: 32%; max-height: 200px; object-fit: cover; }
         .blog .card .card-body { width: 68%; padding: 1rem 1.25rem; }
         .blog .card .card-text { margin-bottom: 0.5rem; }
+        /* Force compact typography for post list */
+        .blog .card-title { font-size: 0.6rem !important; line-height: 1.15 !important; margin-bottom: 0.2rem !important; }
+        .blog .card-text { font-size: 0.85rem !important; line-height: 1.25 !important; -webkit-line-clamp: 1 !important; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; }
         @media (max-width: 768px) {
             .blog .card { flex-direction: column; }
             .blog .card .card-img-top { width: 100%; max-height: 240px; }
