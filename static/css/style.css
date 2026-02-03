@@ -3410,9 +3410,6 @@ span{
   pointer-events: auto;
   z-index: 1;
 }
-.share-buttons .share-btn i {
-  font-size: 1rem;
-}
 .share-buttons .share-btn:hover {
   background: #0a66c2;
   color: #fff;
@@ -3421,9 +3418,9 @@ span{
 
 /* Posts index (post.html) compact titles + spacing */
 .blog .card-title {
-  font-size: 0.6rem;
-  line-height: 1.15;
-  margin-bottom: 0.2rem;
+  font-size: 0.95rem;
+  line-height: 1.25;
+  margin-bottom: 0.3rem;
 }
 .blog .card-text {
   font-size: 0.85rem;
