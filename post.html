@@ -1733,6 +1733,71 @@
     <script src="static/js/owl.carousel.min.js"></script>
     <script src="static/js/parallaxie.min.js"></script>
     <script src="static/js/function.js"></script>
+
+<script>
+(function(){
+  function parseDate(text){
+    // Expected format: "February 3, 2026"
+    var d = new Date(text);
+    return isNaN(d.getTime()) ? null : d;
+  }
+  function setup(){
+    var cards = Array.from(document.querySelectorAll('.blog .col-lg-8.mb-5'));
+    if (!cards.length) return;
+
+    // Attach data-date based on card-subtitle text
+    cards.forEach(function(card){
+      var dateEl = card.querySelector('.card-subtitle');
+      if (dateEl) {
+        var d = parseDate(dateEl.textContent.trim());
+        if (d) card.setAttribute('data-date', d.toISOString());
+      }
+    });
+
+    var oneYearAgo = new Date();
+    oneYearAgo.setFullYear(oneYearAgo.getFullYear()-1);
+
+    // Hide all cards initially
+    cards.forEach(function(c){ c.style.display = 'none'; });
+
+    // Keep a queue: recent first, then older
+    var recent = cards.filter(function(c){
+      var ds = c.getAttribute('data-date');
+      if (!ds) return false;
+      return new Date(ds) >= oneYearAgo;
+    });
+    var older = cards.filter(function(c){
+      var ds = c.getAttribute('data-date');
+      if (!ds) return true;
+      return new Date(ds) < oneYearAgo;
+    });
+
+    // Show recent (within 1 year)
+    recent.forEach(function(c){ c.style.display = ''; });
+
+    var batchSize = 8;
+    var idx = 0;
+    function showMore(){
+      var slice = older.slice(idx, idx+batchSize);
+      slice.forEach(function(c){ c.style.display = ''; });
+      idx += batchSize;
+      if (idx >= older.length) window.removeEventListener('scroll', onScroll);
+    }
+    function onScroll(){
+      if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 300)) {
+        showMore();
+      }
+    }
+    window.addEventListener('scroll', onScroll);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setup);
+  } else {
+    setup();
+  }
+})();
+</script>
+
 </body>
 
 </html>
