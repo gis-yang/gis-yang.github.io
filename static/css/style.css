@@ -1262,10 +1262,44 @@ input, select, textarea {margin :0;}
     transition: 0.5s ease;
 }
 
-.blog-item img {
+#blog-carousal .blog-item{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+#blog-carousal .blog-item .blog-img{
+    flex: 0 0 42%;
+}
+
+#blog-carousal .blog-item .blog-text{
+    flex: 1 1 auto;
+    text-align: left;
+}
+
+#blog-carousal .blog-item .date{
+    justify-content: flex-start !important;
+}
+
+#blog-carousal .blog-item img {
     width: 100%;
     height: auto;
     display: block;
+}
+
+@media (max-width: 768px){
+    #blog-carousal .blog-item{
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    #blog-carousal .blog-item .blog-text{
+        text-align: center;
+    }
+
+    #blog-carousal .blog-item .date{
+        justify-content: center !important;
+    }
 }
 
 #blog-carousal .owl-dots{
