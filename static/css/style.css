@@ -1609,149 +1609,54 @@ li.footer_list:hover{
 }
 
 .team-section {
-    padding: 110px 0 90px;
-    background: #f7f9f8;
-}
-
-.team-section .product-text {
-    margin-bottom: 58px;
-}
-
-.team-section .product-text .heading {
-    color: #0b6b5d;
-    font-size: 14px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    margin-bottom: 14px;
-    text-transform: uppercase;
-}
-
-.team-section .product-text .main-heading {
-    color: #182622;
-    font-size: 52px;
-    font-weight: 700;
-    line-height: 1.08;
-    margin-bottom: 18px;
-}
-
-.team-section .product-text .sub-heading {
-    color: #53625d;
-    font-size: 17px;
-    line-height: 1.75;
-    margin: 0 auto;
-    max-width: 850px;
-}
-
-.team-group {
-    margin-top: 18px;
-}
-
-.team-group + .team-group {
-    margin-top: 54px;
-    padding-top: 48px;
-    border-top: 1px solid rgba(24, 38, 34, 0.12);
-}
-
-.team-group-heading {
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 24px;
-}
-
-.team-group-heading h2 {
-    color: #182622;
-    font-size: 28px;
-    font-weight: 700;
-    line-height: 1.2;
-    margin: 0;
-}
-
-.team-group-heading:after {
-    background: linear-gradient(90deg, rgba(11, 107, 93, 0.45), rgba(11, 107, 93, 0));
-    content: "";
-    display: block;
-    flex: 1;
-    height: 1px;
-    margin-left: 22px;
-}
-
-.team-grid {
-    align-items: stretch;
+    padding: 80px 0;
 }
 
 .team-col {
     padding-left: 18px;
     padding-right: 18px;
-    display: flex;
 }
 
 .team-card {
     background: #fff;
-    border: 1px solid rgba(24, 38, 34, 0.1);
-    border-radius: 8px;
-    box-shadow: 0 18px 42px rgba(24, 38, 34, 0.08);
-    display: flex;
-    flex-direction: column;
-    margin: 0 0 36px;
-    overflow: hidden;
-    padding: 0;
-    transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
-    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 0 0 30px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .team-card:hover {
-    border-color: rgba(11, 107, 93, 0.28);
-    box-shadow: 0 24px 54px rgba(24, 38, 34, 0.13);
-    transform: translateY(-4px);
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
 }
 
 .team-photo {
-    background: #e7efed;
-    margin-bottom: 0;
-    overflow: hidden;
+    margin-bottom: 20px;
 }
 
 .team-photo img {
-    aspect-ratio: 4 / 3;
-    border-radius: 0;
-    display: block;
-    height: auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
-    object-position: center;
-    width: 100%;
-}
-
-.team-info {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
-    padding: 24px 24px 26px;
 }
 
 .team-info h3 {
-    color: #182622;
     font-size: 22px;
-    font-weight: 700;
-    line-height: 1.25;
-    margin: 0 0 7px;
+    font-weight: bold;
+    margin: 10px 0 5px;
 }
 
 .team-info p.sub-heading {
-    color: #0b6b5d;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 700;
-    letter-spacing: 0.2px;
-    line-height: 1.45;
-    margin-bottom: 15px;
+    font-size: 16px; 
+    font-style: italic; 
+    color: #555; 
 }
 
 .team-info p {
-    color: #53625d;
     font-size: 14px;
-    line-height: 1.72;
-    margin-bottom: 0;
+    color: #666;
 }
 
 .team-row {
@@ -1762,74 +1667,21 @@ li.footer_list:hover{
     padding-top: 120px;
 }
 
-.team-card-alumni {
-    box-shadow: none;
+.team-divider {
+    margin: 60px auto;
+    padding: 20px 0;
+    border-top: 3px solid #222;
+    text-align: center;
 }
 
-.team-card-alumni .team-info {
-    padding: 22px 22px 24px;
-}
-
-.team-card-alumni .team-info h3 {
-    font-size: 20px;
-}
-
-.team-card-alumni .team-info p {
-    font-size: 13px;
-}
-
-@media screen and (max-width: 991px) {
-    .team-section {
-        padding: 90px 0 70px;
-    }
-
-    .team-section .product-text .main-heading {
-        font-size: 42px;
-    }
-
-    .team-section .product-text .sub-heading {
-        font-size: 16px;
-    }
-}
-
-@media screen and (max-width: 767px) {
-    .team-section {
-        padding: 78px 0 58px;
-    }
-
-    .team-section .product-text {
-        margin-bottom: 38px !important;
-    }
-
-    .team-section .product-text .heading {
-        font-size: 12px;
-        margin-bottom: 10px;
-    }
-
-    .team-section .product-text .main-heading {
-        font-size: 34px;
-        line-height: 1.15;
-    }
-
-    .team-section .product-text .sub-heading {
-        font-size: 15px;
-        line-height: 1.65;
-    }
-
-    .team-group-heading {
-        align-items: flex-start;
-        flex-direction: column;
-    }
-
-    .team-group-heading:after {
-        flex: none;
-        margin: 14px 0 0;
-        width: 100%;
-    }
-
-    .team-info {
-        padding: 22px 20px 24px;
-    }
+.team-divider h2 {
+    margin-top: -20px;
+    display: inline-block;
+    background: #fff;
+    padding: 0 15px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #222;
 }
 
 /******CHOOSE SECTION START******/
