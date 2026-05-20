@@ -8,7 +8,7 @@
     <meta name="author" content="Bo Yang">
     <!-- description -->
     <meta name="description"
-        content="Meet our amazing team working behind the scenes">
+        content="Meet the GeoFly Lab research team working across GIS, remote sensing, UAV mapping, GeoAI, coastal ecosystems, and wildfire science.">
     <!-- keywords -->
     <meta name="keywords" content="team, members, geofly, about us">
     <!-- Page Title -->
@@ -150,15 +150,15 @@
     <section id="team" class="team-section">
         <div class="container">
             <div class="row text-center">
-                <div class="col-md-8 offset-md-2 col-sm-12">
+                <div class="col-lg-10 offset-lg-1 col-md-12 col-sm-12">
                     <div class="product-text">
-                        <h5 class="heading text-black">Meet Our Team</h5>
-                        <h1 class="main-heading text-black">GeoFly Science Team</h1>
-                        <p class="sub-heading text-black">Our dedicated team members who make it all happen.</p>
+                        <h5 class="heading text-black">People</h5>
+                        <h1 class="main-heading text-black">GeoFly Lab Team</h1>
+                        <p class="sub-heading text-black">Researchers and students advancing GIS, remote sensing, UAV mapping, GeoAI, coastal ecosystem monitoring, and wildfire science.</p>
                     </div>
                 </div>
             </div>
-            <div id="team-container" class="row">
+            <div id="team-container">
                 <!-- team members -->
             </div>
         </div>
@@ -177,7 +177,7 @@
                         <li class="footer_list"><i class="lni lni-google"></i></li>
                         <li class="footer_list"><i class="lni lni-instagram-filled"></i></li>
                     </ul> -->
-                    <p class="info footer_text"> &copy; 2025 Geofly Lab, University of California, Santa Cruz </p>
+                    <p class="info footer_text"> &copy; 2026 GeoFly Lab, University of California, Santa Cruz </p>
                 </div>
             </div>
         </div>
@@ -385,31 +385,29 @@
     
         const teamContainer = document.getElementById('team-container');
 
+        const groupNames = ["Current Team", "Lab Alumni"];
+
         teams.forEach((team, index) => {
+        const group = document.createElement("section");
+        group.className = `team-group ${index === 0 ? "team-group-current" : "team-group-alumni"}`;
+
+        const heading = document.createElement("div");
+        heading.className = "team-group-heading";
+        heading.innerHTML = `<h2>${groupNames[index]}</h2>`;
+        group.appendChild(heading);
+
         const row = document.createElement("div");
-        row.className = "row";
+        row.className = "row team-grid";
     
         team.forEach(member => {
             if (!member.name) return;
             const col = document.createElement("div");
-            col.className = "col-sm-6 col-md-4 team-col";
+            col.className = index === 0 ? "col-sm-6 col-lg-4 team-col" : "col-sm-6 col-lg-4 team-col team-col-alumni";
 
             const card = document.createElement("div");
-            card.className = "team-card text-center";
-
-            // card.innerHTML = `  // all with photo
-            //     <div class="team-photo">
-            //         <img src="${member.photo}" alt="${member.name}">
-            //     </div>
-            //     <div class="team-info">
-            //         <h3>${member.name}</h3>
-            //         <p class="sub-heading">${member.title}</p>
-            //         <p>${member.description}</p>
-            //     </div>
-            // `;
+            card.className = index === 0 ? "team-card team-card-current" : "team-card team-card-alumni";
 
             let photoHTML = "";
-            // only mean team have photo
             if (index === 0) {
             photoHTML = `
                 <div class="team-photo">
@@ -430,14 +428,8 @@
             row.appendChild(col);
         });
 
-        teamContainer.appendChild(row);
-
-        if (index < teams.length - 1) {
-            const divider = document.createElement("div");
-            divider.className = "team-divider";
-            divider.innerHTML = `<h2>Lab Alumni</h2>`;
-            teamContainer.appendChild(divider);
-        }
+        group.appendChild(row);
+        teamContainer.appendChild(group);
     });
     </script>
     <!-- Plugin Js -->
