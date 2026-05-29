@@ -151,9 +151,10 @@
 
     <section id="projects" class="projects">
         <div class="container">
-            <div class="text-center mb-5">
-                <h2 class="main-heading"><br />Our Projects</h2>
-                <p class="sub-heading">Explore the groundbreaking projects by Geofly Lab.</p>
+            <div class="projects-heading">
+                <span class="section-label">GeoFly Lab Research</span>
+                <h2 class="main-heading">Projects</h2>
+                <p class="sub-heading">Applied geospatial research using UAVs, remote sensing, spatial analytics, and community-engaged fieldwork.</p>
             </div>
             <!-- Start here -->
             <div id="project-container" class="project-container"></div>
@@ -188,6 +189,13 @@
                     image: "static/picture/AK_eelgrass.jpg",
                     link: "UAV_seagrass.html",
                     reverse: false
+                },
+                {
+                    title: "NASA FireSage Program",
+                    description: "GeoFly Lab collaborates with NASA Ames and SJSU wildfire researchers to mentor students in wildfire science, remote sensing, fire ecology, and geospatial analysis through hands-on research experiences.",
+                    image: "static/picture/firesage.jpg",
+                    link: "https://www.nasa.gov/firesage-program/",
+                    reverse: true
                 },
                 {
                     title: "Drone and Remote Sensing for California Wildfire",
@@ -274,16 +282,20 @@
 
             projects.forEach((project, index) => {
                 const projectHTML = `
-                    <div class="project-item d-flex align-items-center ${project.reverse ? "reverse" : ""} mb-5">
-                        <div class="project-image">
+                    <article class="project-item ${index < 2 ? "project-featured" : ""}">
+                        <a class="project-image" href="${project.link}" aria-label="Open ${project.title}">
                             <img src="${project.image}" alt="${project.title}">
-                        </div>
+                        </a>
                         <div class="project-content">
+                            <div class="project-meta">
+                                <span>Research</span>
+                                <span>Project ${String(index + 1).padStart(2, "0")}</span>
+                            </div>
                             <h3 class="project-title">${project.title}</h3>
                             <p class="project-description">${project.description}</p>
-                            <a href="${project.link}" class="btn btn-primary">Learn More</a>
+                            <a href="${project.link}" class="btn btn-primary">View Project</a>
                         </div>
-                    </div>
+                    </article>
                 `;
 
                 projectContainer.insertAdjacentHTML("beforeend", projectHTML);
