@@ -13,6 +13,16 @@ body {
 }
 </style>
 
+*2026:*
+* Ren, X., Yang, B., Filkov, A., Wilkin, K., Benterou, C., Hussey, O., & Clements, C. (2026). Integrating georeferencing and fire anatomy modeling in canyon fire experiments using thermal UAV remote sensing. *International Journal of Wildland Fire*, WF25235. [DOI: 10.1071/WF25235](https://doi.org/10.1071/WF25235)
+* Allen, J. E., Benterou, D., Brillon, H., Yang, B., et al. (2026). Reexamining the relationship between post-fire twig diameter and fire intensity in California's chaparral to better assess fire severity. *Fire Ecology*. [DOI: 10.1186/s42408-026-00486-4](https://doi.org/10.1186/s42408-026-00486-4)
+* Tran, M. T., Swindell, C., Yang, B., Skupin, A., & Akerkar, R. (2026). Quantifying the Impact of Transportation on Urban Heat Islands. *Annals of the American Association of Geographers*, 1–21. [DOI: 10.1080/24694452.2025.2600638](https://doi.org/10.1080/24694452.2025.2600638)
+
+*2025:*
+* Yang, B., Hussey, O., & Alexander, S. (2025). Quantifying highway expansion impact on urban heat island effect in San Francisco bay area. *Cities*, 169, 1065. [DOI: 10.1016/j.cities.2025.106555](https://doi.org/10.1016/j.cities.2025.106555)
+* Huang, Y., Yang, B., Ren, X., Lu, Y., Lan, M., & Gong, X. (2025). Spatio-temporal cokriging crime predictions using social media data: a multi-type case study in San Jose, California. *Computational Urban Science*, 5(1), 72. [DOI: 10.1007/s43762-025-00233-6](https://doi.org/10.1007/s43762-025-00233-6)
+* Aoki, L. R., Ritter, C. J., Beatty, D. S., ... Yang, B., & Duffy, J. E. (2025). Seagrass wasting disease prevalence and lesion area increase with invertebrate grazing across the northeastern Pacific. *Ecology*, 106(1), e4532. [DOI: 10.1002/ecy.4532](https://doi.org/10.1002/ecy.4532)
+
 *2024:*
 * Alexander, S. E., Yang, B., Hussey, O., & Hicks, D. (2023). Examining the Externalities of Highway Capacity Expansions in California: An Analysis of Land Use and Land Cover (LULC) Using Remote Sensing Technology. *Mineta Transportation Institute Publications* [DOI: 10.31979/mti.2023.2251](https://scholarworks.sjsu.edu/mti_publications/471/)
 
@@ -70,4 +80,3 @@ body {
 * Yang, B., & Zhang, W. (2011, October). Intelligent learning system based on HMM model. In 2011 IEEE. Fourth International Symposium on Knowledge Acquisition and Modeling (pp. 490-492). [DOI: 10.1109/KAM.2011.133](https://doi.org/10.1109/KAM.2011.133)
  
 More conference proceedings and colloquium talks can be found [here](https://gis-yang.github.io/talks/)
-
