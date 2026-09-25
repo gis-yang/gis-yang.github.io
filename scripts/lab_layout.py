@@ -9,6 +9,7 @@ import html
 NAV = [
     ("index.html", "Home"),
     ("project.html", "Research"),
+    ("team.html", "Team"),
     ("publication.html", "Publications"),
     ("facility.html", "Facilities"),
     ("post.html", "News"),
@@ -52,7 +53,7 @@ def header(active, prefix=""):
     <div class="wrap">
         <a class="brand" href="{prefix}index.html">
             <span class="brand-name">GeoFly Lab</span>
-            <span class="brand-sub">Environmental Studies &middot; University of California, Santa Cruz</span>
+            <span class="brand-sub">University of California, Santa Cruz</span>
         </a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
         <nav class="site-nav" id="site-nav" aria-label="Main">
@@ -81,6 +82,7 @@ def footer(prefix=""):
             <h2>Explore</h2>
             <ul>
                 <li><a href="{prefix}project.html">Research</a></li>
+                <li><a href="{prefix}team.html">Team</a></li>
                 <li><a href="{prefix}publication.html">Publications</a></li>
                 <li><a href="{prefix}facility.html">Facilities</a></li>
                 <li><a href="{prefix}post.html">News</a></li>
