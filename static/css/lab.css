@@ -372,7 +372,7 @@ main { padding-bottom: 40px; }
 .note-photo { display: grid; grid-template-columns: 1fr 300px; gap: 24px; align-items: center; }
 .note-photo img { width: 300px; height: 150px; object-fit: cover; border-radius: 2px; }
 @media (max-width: 700px) { .note-photo { grid-template-columns: 1fr; } .note-photo img { width: 100%; height: auto; } }
-.intro figure img { aspect-ratio: 16 / 10; object-fit: cover; object-position: center 20%; }
+.intro figure img { aspect-ratio: 16 / 9; object-fit: cover; object-position: center; }
 
 /* ---------- Team ---------- */
 .first-h { margin-top: 0; }
@@ -467,3 +467,22 @@ figure.fig figcaption, .lead-figure figcaption { font-size: 14.5px; color: var(-
 .refs li { margin-bottom: 10px; }
 .funding-tag { font-size: 14px; font-weight: 700; color: var(--navy); margin: -2px 0 10px; padding-left: 10px; border-left: 3px solid var(--gold); }
 figure.fig.fig-md { max-width: 780px; margin-left: auto; margin-right: auto; }
+
+/* =====================================================================
+   White-paper layout for research detail pages
+   ===================================================================== */
+.paper { max-width: 780px; margin: 0 auto; }
+.paper-meta { font-size: 15px; color: var(--muted); margin: 10px 0 0; }
+.paper .summary { font-size: 18.5px; line-height: 1.75; color: var(--ink); margin: 6px 0 26px; }
+.paper h2 { font-size: 24px; margin: 44px 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+.paper h3 { font-size: 19px; margin: 28px 0 8px; }
+.paper p { font-size: 17px; line-height: 1.8; text-align: left; }
+.paper figure { margin: 26px 0 30px; }
+.paper figure img { width: 100%; height: auto; border: 1px solid var(--line); }
+.paper figure.narrow-fig img { max-width: 520px; display: block; margin: 0 auto; }
+.paper figcaption { font-size: 14.5px; line-height: 1.55; color: var(--muted); margin-top: 8px; }
+.paper figcaption b { color: var(--ink); font-weight: 700; }
+.paper .references { font-size: 15px; padding-left: 0; list-style: none; }
+.paper .references li { padding-left: 1.6em; text-indent: -1.6em; margin-bottom: 10px; line-height: 1.6; }
+.paper .acknowledgment { font-size: 15.5px; color: var(--text); }
+.page-head.paper-head > * { max-width: 780px; margin-left: auto; margin-right: auto; }

@@ -35,156 +35,71 @@
 </header>
 <main>
 <div class="wrap">
-    <div class="page-head">
+    <div class="page-head paper-head">
         <p class="crumbs"><a href="project.html">Research</a></p>
         <h1>Wildfire Remote Sensing</h1>
         <p class="lede">Drones, AI, and GIS for prescribed fire mapping, home wildfire risk, and forest recovery after fire.</p>
-        <span class="funding">Funded by NASA through the FireSage program</span>
+        <p class="paper-meta">GeoFly Lab, University of California, Santa Cruz &middot; Funded by NASA through the FireSage program</p>
     </div>
 
-    <figure class="lead-figure">
-        <img src="static/image/Wildfire/image11.jpg" alt="Drone view of smoke and flames during a prescribed burn">
-        <figcaption>A prescribed burn captured from a GeoFly Lab drone.</figcaption>
-    </figure>
+    <article class="paper">
+        <p class="summary">GeoFly Lab uses drone remote sensing to study how fire moves through a landscape, how it threatens homes, and how forests recover afterward. Working with CAL FIRE and the <a href="https://www.wildfirecenter.org/">Wildfire Interdisciplinary Research Center</a> (WIRC), we fly thermal, multispectral, LiDAR, and RGB sensors before, during, and after fire events, capturing fire dynamics that are often invisible from the ground.</p>
 
-    <div class="narrow">
-        <p class="lead-text">GeoFly Lab uses drone technology to better understand wildfire behavior and to support prescribed fire research. Working with CAL FIRE and the <a href="https://www.wildfirecenter.org/">Wildfire Interdisciplinary Research Center</a> (WIRC), we fly thermal, multispectral, and LiDAR drones before, during, and after fire events to capture fire dynamics that are often invisible to the eye.</p>
-    </div>
-
-    <dl class="glance">
-        <div><dt>Sensors</dt><dd>Thermal, LiDAR, multispectral, and RGB drones</dd></div>
-        <div><dt>Study areas</dt><dd>Prescribed burns, Paradise, Tahoe Donner, Santa Cruz Mountains</dd></div>
-        <div><dt>Partners</dt><dd>CAL FIRE, WIRC, NASA Ames, Wilkin Fire Ecology Lab</dd></div>
-        <div><dt>Support</dt><dd>NASA FireSage; NSF IUCRC partnership through WIRC</dd></div>
-    </dl>
-
-    <ul class="project-nav">
-        <li><a href="#prescribed-fire"><span class="num">1</span><strong>Prescribed fire mapping</strong><span class="d">Thermal video, AI fire-front detection, and fuel mapping during controlled burns.</span></a></li>
-        <li><a href="#hiz"><span class="num">2</span><strong>Home Ignition Zone</strong><span class="d">Scaling up home wildfire-risk assessments with drones and remote sensing.</span></a></li>
-        <li><a href="#svr"><span class="num">3</span><strong>Post-burn recovery</strong><span class="d">Burn severity, biomass loss, and regrowth at San Vicente Redwoods.</span></a></li>
-    </ul>
-
-    <section class="proj" id="prescribed-fire">
-        <p class="kicker">Project 1</p>
-        <h2>Prescribed fire mapping</h2>
-        <p class="sub">Seeing through smoke with thermal drones and AI</p>
-        <div class="narrow">
-            <p>During prescribed burns, our thermal drones see through dense smoke and record the structure of active fire in real time. The georeferenced thermal video reveals flame intensity and spread at fine spatial scales. Combined with fuel type, elevation, and wind measurements, these data feed GIS-based models that simulate fire progression and improve prediction.</p>
-        </div>
-        <figure class="fig">
-            <img src="static/image/Wildfire/image7.png" alt="Live thermal view on a controller, a thermal drone payload, and a drone prepared for aerial deployment" loading="lazy">
-            <figcaption>Thermal drone operations in the field.</figcaption>
+        <figure>
+            <img src="static/image/Wildfire/image11.jpg" alt="Drone view of smoke and flames during a prescribed burn">
+            <figcaption><b>Figure 1.</b> A prescribed burn recorded from a GeoFly Lab drone.</figcaption>
         </figure>
-        <div class="split">
-            <div>
-                <h3 style="margin-top:0">AI detection of the fire front</h3>
-                <p>Firefighters on the ground often cannot see through smoke to locate the fire front. We train computer vision models on thermal drone video to detect the fire head automatically, giving crews precise, real-time information on where the fire is moving. The same thermal data serve as training sets for automated analysis of fire behavior.</p>
-            </div>
-            <figure class="fig">
-                <img src="static/image/Wildfire/image13.png" alt="Live thermal view on a drone controller beside the resulting thermal map of the fire" loading="lazy">
-                <figcaption>Live thermal feed and the resulting thermal map.</figcaption>
-            </figure>
-        </div>
-        <figure class="fig fig-md">
+
+        <h2>1. Prescribed fire mapping</h2>
+        <p>During prescribed burns, thermal drones see through dense smoke and record the structure of active fire in real time. The georeferenced thermal video resolves flame intensity and rate of spread at fine spatial scales. Combined with measurements of fuel type, terrain, and wind, these observations feed GIS-based models that simulate fire progression and improve prediction.</p>
+        <p>Crews on the ground often cannot see the fire front through smoke. We therefore train computer vision models on thermal drone video to detect the head of the fire automatically, giving firefighters precise, real-time information on where the fire is moving. The same archive of thermal imagery serves as training data for automated analysis of fire behavior.</p>
+
+        <figure>
             <img src="static/image/Wildfire/image12.png" alt="Thermal image of a burn next to matching RGB imagery, with sample areas outlined" loading="lazy">
-            <figcaption>Thermal imagery (left) compared with RGB imagery (right) of the same area.</figcaption>
+            <figcaption><b>Figure 2.</b> Thermal imagery (left) compared with RGB imagery (right) of the same area during a burn.</figcaption>
         </figure>
-        <div class="split flip">
-            <div>
-                <h3 style="margin-top:0">Fuels and burn severity</h3>
-                <p>LiDAR sensors map fuel volume and measure fuel change before and after burns, quantifying vegetation structure and fire impact across the landscape. Multispectral sensors, including near-infrared bands, track vegetation health, burn severity, and recovery over time.</p>
-                <p>Together with weather tower data and high-resolution RGB imagery, these sensors form a multi-sensor platform that supports prescribed fire management and broader wildfire resilience.</p>
-            </div>
-            <figure class="fig">
-                <img src="static/image/Wildfire/image14.png" alt="LiDAR-derived elevation and classification maps, and multispectral imagery before and after fire" loading="lazy">
-                <figcaption>LiDAR products and multispectral imagery before and after a burn.</figcaption>
-            </figure>
-        </div>
-        <p class="people-note">Data collection was led by Owen Hussey (M.A. Geography, 2025), and data analysis by Dr. Xiangyu Ren, who applied AI and GIS methods to turn raw imagery into fire science insights.</p>
-        <div class="link-row">
-            <a class="button" href="https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f">Canyon Fire Experiment story map</a>
-            <a class="button button-outline" href="https://sjsugis.maps.arcgis.com/home/webscene/viewer.html?webscene=f042d970db014fa2aed423ff448ff1ca">3D view of the study canyon</a>
-        </div>
-    </section>
 
-    <section class="proj" id="hiz">
-        <p class="kicker">Project 2</p>
-        <h2>Home Ignition Zone (HIZ)</h2>
-        <p class="sub">Scaling up home wildfire-risk assessment with drones</p>
-        <div class="split">
-            <div>
-                <p>The Home Ignition Zone project is a collaboration between GeoFly Lab and the Wilkin Fire Ecology Lab. Building on earlier on-the-ground surveys of conditions around homes, we now use drones and remote sensing to assess wildfire risk across whole communities, with faster, more consistent, and more scalable methods than traditional field evaluations.</p>
-                <p>The research is closely integrated with WIRC, CAL FIRE, and industry mentors through the NSF Industry&ndash;University Cooperative Research Center (IUCRC) program, linking the science to practical applications in insurance, utility management, and state wildfire planning.</p>
-            </div>
-            <figure class="fig">
-                <img src="static/image/Wildfire/image15.png" alt="Wildfire burning on a hillside behind a residential neighborhood" loading="lazy">
-                <figcaption>Wildfire at the wildland&ndash;urban interface.</figcaption>
-            </figure>
-        </div>
-        <figure class="fig">
+        <p>LiDAR surveys map fuel volume and measure fuel change before and after each burn, quantifying vegetation structure and fire impact across the landscape. Multispectral sensors, including near-infrared bands, track vegetation condition, burn severity, and recovery over time. Together with weather-tower data and high-resolution RGB imagery, these sensors form a multi-sensor platform for prescribed fire management.</p>
+
+        <figure>
+            <img src="static/image/Wildfire/image14.png" alt="LiDAR-derived elevation and classification maps, and multispectral imagery before and after fire" loading="lazy">
+            <figcaption><b>Figure 3.</b> LiDAR products and multispectral imagery before and after a prescribed burn.</figcaption>
+        </figure>
+
+        <p>Field data collection was led by Owen Hussey (M.A. Geography, 2025), and analysis by Dr. Xiangyu Ren, who applied AI and GIS methods to turn the imagery into fire-science results. The study is presented in the <a href="https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f">Canyon Fire Experiment story map</a>, with an accompanying <a href="https://sjsugis.maps.arcgis.com/home/webscene/viewer.html?webscene=f042d970db014fa2aed423ff448ff1ca">3D scene of the study canyon</a>.</p>
+
+        <h2>2. Home Ignition Zone</h2>
+        <p>The Home Ignition Zone (HIZ) project, a collaboration between GeoFly Lab and the Wilkin Fire Ecology Lab, extends earlier on-the-ground surveys of conditions around homes. Drones and remote sensing now allow wildfire risk to be assessed across whole communities, with methods that are faster, more consistent, and more scalable than traditional field evaluations. The work is integrated with WIRC, CAL FIRE, and industry mentors through the NSF Industry&ndash;University Cooperative Research Center (IUCRC) program, linking the science to insurance, utility management, and state wildfire planning.</p>
+
+        <figure>
             <img src="static/image/Wildfire/image16.png" alt="Home Ignition Zone assessment map of a property, and slope-based defensible space guidance" loading="lazy">
-            <figcaption>Mapping a property's Home Ignition Zone, with defensible-space distances that increase with slope.</figcaption>
+            <figcaption><b>Figure 4.</b> Mapping a property&rsquo;s Home Ignition Zone. Recommended defensible-space distances increase with slope.</figcaption>
         </figure>
-        <div class="narrow">
-            <p>Study sites include fire-affected and high-risk communities such as Paradise, Tahoe Donner, and Santa Cruz. We collect high-resolution drone imagery and thermal data to map vegetation, building materials, and potential ember pathways, and combine them with NASA satellite time series and street-level imagery for a multi-scale view of risk. Pairing drone products with curbside and full-property evaluations captures details that standard defensible-space inspections often miss, such as vent mesh size or gaps in construction materials.</p>
-        </div>
-        <figure class="fig">
-            <img src="static/image/Wildfire/image17.png" alt="Researchers evaluating homes during a Home Ignition Zone field survey" loading="lazy">
-            <figcaption>Property evaluations during a Home Ignition Zone field survey.</figcaption>
-        </figure>
-        <div class="split flip">
-            <div>
-                <h3 style="margin-top:0">Communities and students</h3>
-                <p>Community engagement is central to the project. We talk with residents about wildfire risk, home hardening, and the barriers they face in carrying out mitigation, so our recommendations are practical and specific to each community.</p>
-                <p>The project is closely tied to the NASA FireSage program, in which student interns analyze the drone and satellite data collected at HIZ sites and gain hands-on experience with thermal, multispectral, and LiDAR analysis.</p>
-            </div>
-            <figure class="fig">
-                <img src="static/image/Wildfire/image18.jpg" alt="Flyer for the SJSU&ndash;NASA FireSage summer internship with photos of students in the field" loading="lazy">
-                <figcaption>The SJSU&ndash;NASA FireSage summer internship.</figcaption>
-            </figure>
-        </div>
-        <p class="people-note">HIZ fieldwork was led by Henri Brillon (M.A. Geography, 2025), who coordinated site evaluations and connected community surveys with geospatial data collection.</p>
-    </section>
 
-    <section class="proj" id="svr">
-        <p class="kicker">Project 3</p>
-        <h2>Post-burn recovery at San Vicente Redwoods</h2>
-        <p class="sub">Remote sensing and field science to guide forest recovery after wildfire</p>
-        <div class="split">
-            <div>
-                <p>San Vicente Redwoods is one of the most ecologically important coastal mixed evergreen forests in Northern California. After the 2020 CZU Lightning Complex fire, GeoFly Lab and partners at WIRC, NASA Ames, and San Jos&eacute; State University have been studying how fire severity affects forest structure, aboveground biomass, and long-term recovery.</p>
-                <p>We combine remote sensing, LiDAR, and Continuous Forest Inventory plot data. Using NASA GEDI LiDAR and Sentinel-2 imagery, we map burn severity and track aboveground biomass before the fire, one year after, and three years after, revealing clear links between fire severity and tree mortality.</p>
-            </div>
-            <figure class="fig">
-                <img src="static/image/Wildfire/image22.png" alt="Drone orthomosaic of San Vicente Redwoods with field plot locations" loading="lazy">
-                <figcaption>Drone orthomosaic of the study area with field plot locations.</figcaption>
-            </figure>
-        </div>
-        <figure class="fig">
+        <p>Study sites include fire-affected and high-risk communities in Paradise, Tahoe Donner, and Santa Cruz. High-resolution drone imagery and thermal data map vegetation, building materials, and potential ember pathways, and are combined with NASA satellite time series and street-level imagery for a multi-scale view of risk. Pairing these products with curbside and full-property evaluations captures details that standard defensible-space inspections often miss, such as vent mesh size or gaps in construction materials.</p>
+        <p>Community engagement is central to the project. We speak with residents about wildfire risk, home hardening, and the barriers they face in carrying out mitigation, so that recommendations are practical and specific to each community. HIZ fieldwork was led by Henri Brillon (M.A. Geography, 2025), who coordinated site evaluations and connected community surveys with geospatial data collection.</p>
+
+        <h2>3. Post-fire recovery at San Vicente Redwoods</h2>
+        <p>San Vicente Redwoods is among the most ecologically important coastal mixed evergreen forests in Northern California. Since the 2020 CZU Lightning Complex fire, GeoFly Lab and partners at WIRC, NASA Ames, and San Jos&eacute; State University have studied how fire severity shapes forest structure, aboveground biomass, and long-term recovery.</p>
+        <p>We combine satellite remote sensing, drone surveys, and Continuous Forest Inventory plot data. NASA GEDI LiDAR and Sentinel-2 imagery are used to map burn severity and to track aboveground biomass before the fire, one year after, and three years after, revealing clear links between fire severity and tree mortality. Drone multispectral and LiDAR surveys add fine-scale detail on canopy structure, allowing biomass loss to be quantified accurately and species-specific recovery to be followed: coast live oak and Douglas-fir showed high mortality under high burn severity, while tanoak and madrone resprouted differently in moderately burned areas.</p>
+
+        <figure>
             <img src="static/image/Wildfire/image19.png" alt="Maps and charts of plant cover from field plots, grouped by burn severity" loading="lazy">
-            <figcaption>Plant cover measured in field plots along fuel-break treatments, compared across burn severity.</figcaption>
+            <figcaption><b>Figure 5.</b> Plant cover measured in field plots, compared across burn-severity classes.</figcaption>
         </figure>
-        <div class="narrow">
-            <p>Drone multispectral and LiDAR surveys complement the satellite data by capturing fine-scale change in vegetation and canopy structure. This lets us quantify biomass loss accurately and follow species-specific recovery: coast live oak and Douglas-fir showed high mortality under high burn severity, while tanoak and madrone resprouted differently in moderate burn areas.</p>
-        </div>
-        <figure class="fig fig-md">
-            <img src="static/image/Wildfire/image20.png" alt="Three-dimensional drone LiDAR point cloud of a forest" loading="lazy">
-            <figcaption>Drone LiDAR point cloud of the forest canopy.</figcaption>
-        </figure>
-        <div class="split portrait">
-            <div>
-                <p>Post-burn work at San Vicente Redwoods is about more than documenting damage. By linking field ecology, remote sensing, and fire science, it gives land managers, conservation groups, and policymakers the data they need for forest restoration and carbon management in the Santa Cruz Mountains.</p>
-                <p>The project is also a training ground for students through the NASA FireSage program, where interns and graduate researchers analyze drone and satellite data to study wildfire impacts.</p>
-                <p class="people-note">This work was led by student researcher Melina Kompella.</p>
-            </div>
-            <figure class="fig">
-                <img src="static/image/Wildfire/image21.png" alt="Student researchers in hard hats and safety vests collecting forest data" loading="lazy">
-                <figcaption>Students collecting forest inventory data.</figcaption>
-            </figure>
-        </div>
-    </section>
 
-    <p class="back"><a href="project.html">&larr; All research</a></p>
+        <p>By linking field ecology, remote sensing, and fire science, this work gives land managers, conservation organizations, and policymakers the information they need for forest restoration and carbon management in the Santa Cruz Mountains. It was led by student researcher Melina Kompella.</p>
+
+        <figure>
+            <img src="static/image/Wildfire/image20.png" alt="Three-dimensional drone LiDAR point cloud of a forest" loading="lazy">
+            <figcaption><b>Figure 6.</b> Drone LiDAR point cloud of the forest canopy at San Vicente Redwoods.</figcaption>
+        </figure>
+
+        <h2>4. Training and funding</h2>
+        <p>The research is supported by NASA through the FireSage program. Through FireSage, undergraduate interns and graduate researchers analyze the drone and satellite data collected at our study sites and gain hands-on experience with thermal, multispectral, and LiDAR analysis, preparing the next generation of wildfire scientists and practitioners.</p>
+
+        <p class="back"><a href="project.html">&larr; All research</a></p>
+    </article>
 </div>
 </main>
 <footer class="site-footer" id="contact">
