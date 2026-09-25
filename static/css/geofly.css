@@ -675,3 +675,13 @@ html, body { overflow-x: hidden; }
 .gf-form-status.is-ok { color: #1f7a3a; }
 .gf-form-status.is-error { color: #b42318; }
 #cf-submit[disabled] { opacity: .7; cursor: wait; }
+
+/* Menu: switch to the menu button before the links run out of room */
+@media (max-width: 1099px) {
+    #header #my-nav1 .navbar-collapse { display: none !important; }
+    #header .my-tog-btn { display: grid !important; margin-left: auto; padding-top: 6px; }
+    #header #my-nav1 > .container { display: flex; align-items: center; }
+}
+@media (min-width: 1100px) and (max-width: 1239px) {
+    #header #my-nav1 .navbar-nav .nav-link { padding: 8px 10px !important; font-size: 14.5px; }
+}
