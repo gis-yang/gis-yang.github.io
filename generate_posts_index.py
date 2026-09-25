@@ -37,11 +37,12 @@ def parse_post(fpath):
     title = h1.get_text(strip=True) if h1 else os.path.basename(fpath)
 
     # Reading time
-    rt = soup.find('p', class_='reading-time')
+    rt = soup.find(class_='reading-time')
     reading_time = rt.get_text(strip=True) if rt else ''
 
     # Snippet: first paragraph excluding reading-time
-    paragraphs = [p for p in soup.find_all('p') if 'reading-time' not in p.get('class', [])]
+    body = soup.select_one('.prose') or soup
+    paragraphs = [p for p in body.find_all('p') if 'reading-time' not in p.get('class', []) and p.get_text(strip=True)]
     if paragraphs:
         text = paragraphs[0].get_text(separator=' ', strip=True)
         words = text.split()
@@ -50,7 +51,7 @@ def parse_post(fpath):
         snippet = ''
 
     # Image: first image, use absolute path to /posts/images/
-    img = soup.find('img')
+    img = body.find('img')
     if img and img.has_attr('src'):
         image_name = os.path.basename(img['src'])
         image_url = f"./{posts_dir}/images/{image_name}"
@@ -62,7 +63,7 @@ def parse_post(fpath):
 
     # Date
     date = extract_date(os.path.basename(fpath))
-    date_formatted = date.strftime('%B %d, %Y') if date else ''
+    date_formatted = f"{date:%B} {date.day}, {date.year}" if date else ''
 
     return {
         'title': title,
@@ -72,6 +73,7 @@ def parse_post(fpath):
         'url': url,
         'date': date,
         'date_formatted': date_formatted,
+        'year': date.year if date else 0,
     }
 
 # ---------------------------------------

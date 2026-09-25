@@ -67,18 +67,11 @@ def parse_post(html_path: Path):
 
 
 def build_item(p):
-    img = f"posts/images/{p['img']}" if p["img"] else "static/picture/geoflylab_logo.png"
     safe_title = html.escape(p["title"])
     safe_url = html.escape(p["url"], quote=True)
-    return f"""                    <a class=\"gf-post-card\" href=\"{safe_url}\">
-                        <div class=\"gf-post-img\"><img src=\"{html.escape(img, quote=True)}\" alt=\"\" loading=\"lazy\"></div>
-                        <div class=\"gf-post-body\">
-                            <time datetime=\"{p['date'].strftime('%Y-%m-%d')}\">{p['date_long']}</time>
-                            <h3>{safe_title}</h3>
-                            <span class=\"gf-read\">Read more</span>
-                        </div>
-                    </a>
-"""
+    d = p["date"]
+    return (f'                <li><time datetime="{d:%Y-%m-%d}">{d:%B} {d.day}, {d.year}</time>'
+            f'<a href="{safe_url}">{safe_title}</a></li>\n')
 
 
 def build_list_item(p):
@@ -90,7 +83,7 @@ def build_list_item(p):
 """
 
 
-def main(limit=3):
+def main(limit=5):
     posts = []
     for p in glob.glob(str(POSTS_DIR / "*.html")):
         it = parse_post(Path(p))
@@ -114,7 +107,7 @@ def main(limit=3):
 
     new_txt = re.sub(
         re.escape(START) + r"[\s\S]*?" + re.escape(END),
-        START + "\n" + carousel_block + "                    " + END,
+        START + "\n" + carousel_block + "                " + END,
         index_txt,
         flags=re.M,
     )

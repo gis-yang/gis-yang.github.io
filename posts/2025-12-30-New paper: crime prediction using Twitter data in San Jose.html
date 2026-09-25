@@ -1,180 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Bo Yang">
-    <meta name="description" content="GeoFly Lab published a new paper on crime risk prediction using historical crime records and geo-tagged Twitter signals for San Jose and the San Francisco Bay Area.">
-    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>GeoFly Lab | New paper: crime prediction using Twitter data in San Jose</title>
-
-    <link rel="stylesheet" href="../static/css/bundle.min.css">
-    <link rel="stylesheet" href="../static/css/cubeportfolio.min.css">
-    <link rel="stylesheet" href="../static/css/owl.carousel.min.css">
-    <link href="../static/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="../static/css/LineIcons.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../static/css/style.css">
-    <meta property="og:type" content="article">
-    <meta property="og:site_name" content="GeoFly Lab">
-    <meta property="og:title" content="New paper: crime prediction using Twitter data in San Jose">
-    <meta property="og:description" content="GeoFly Lab published a new paper on crime risk prediction using historical crime records and geo-tagged Twitter signals for San Jose and the San Francisco Bay Area.">
-    <meta property="og:url" content="https://geofly.io/posts/2025-12-30-New%20paper:%20crime%20prediction%20using%20Twitter%20data%20in%20San%20Jose.html">
-    <meta property="og:image" content="https://geofly.io/posts/images/2025123001.png">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="New paper: crime prediction using Twitter data in San Jose">
-    <meta name="twitter:description" content="GeoFly Lab published a new paper on crime risk prediction using historical crime records and geo-tagged Twitter signals for San Jose and the San Francisco Bay Area.">
-    <meta name="twitter:image" content="https://geofly.io/posts/images/2025123001.png">
-    <!-- GeoFly polish layer -->
+    <meta name="description" content="GeoFly Lab published a new paper on crime risk prediction using historical crime records and geo-tagged Twitter signals for San Jose and the San Francisco Bay Area.">
+    <meta name="author" content="GeoFly Lab">
+    <meta content="article" property="og:type"/>
+    <meta content="GeoFly Lab" property="og:site_name"/>
+    <meta content="New paper: crime prediction using Twitter data in San Jose" property="og:title"/>
+    <meta content="GeoFly Lab published a new paper on crime risk prediction using historical crime records and geo-tagged Twitter signals for San Jose and the San Francisco Bay Area." property="og:description"/>
+    <meta content="https://geofly.io/posts/2025-12-30-New%20paper:%20crime%20prediction%20using%20Twitter%20data%20in%20San%20Jose.html" property="og:url"/>
+    <meta content="https://geofly.io/posts/images/2025123001.png" property="og:image"/>
+    <meta content="summary_large_image" name="twitter:card"/>
+    <meta content="New paper: crime prediction using Twitter data in San Jose" name="twitter:title"/>
+    <meta content="GeoFly Lab published a new paper on crime risk prediction using historical crime records and geo-tagged Twitter signals for San Jose and the San Francisco Bay Area." name="twitter:description"/>
+    <meta content="https://geofly.io/posts/images/2025123001.png" name="twitter:image"/>
     <link rel="icon" type="image/png" href="../static/picture/geoflylab_logo.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
-    <link rel="stylesheet" href="../static/css/geofly.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+    <link rel="stylesheet" href="../static/css/lab.css">
 </head>
-
-<body data-spy="scroll" data-target=".navbar" data-offset="150">
-
-    <div class="loader-area">
-        <div class="psoload">
-            <div class="straight"></div>
-            <div class="curve"></div>
-            <div class="center"></div>
-            <div class="inner"></div>
-        </div>
-    </div>
-
-    <header id="header">
-        <nav id="my-nav1" class="navbar navbar-expand-sm navbar-light rounded-bar inner-navs transparent-bar">
-            <div class="container bg-trans-color">
-                <a class="gf-brand" href="../index.html"><span>GeoFly Lab<small>UC Santa Cruz</small></span></a>
-                <div class="ml-auto mr-auto small-screen">
-                    <div class="banner-icons"><a><i class="lab la-facebook-f icons"></i></a></div>
-                    <div class="banner-icons">
-                        <a class="dropdown-toggle" data-toggle="dropdown"><i class="las la-shopping-cart icons"></i></a>
-                        <div class="dropdown-menu dropdown-menu-right dropdown-cart"><div class="arrow"><i class="fas fa-caret-up user-utiliity-caret"></i></div></div>
-                    </div>
-                </div>
-                <div class="my-tog-btn"><span></span><span></span><span></span></div>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent1">
-                    <div class="collapse navbar-collapse">
-                        <ul id="primary" class="navbar-nav ml-auto mr-auto">
-                            <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
-                            <li class="nav-item"><a class="nav-link" href="../project.html">Research</a></li>
-                            <li class="nav-item"><a class="nav-link" href="../publication.html">Publications</a></li>
-                            <li class="nav-item"><a class="nav-link" href="../resource.html">Resources</a></li>
-                            <li class="nav-item"><a class="nav-link" href="../gallery.html">Gallery</a></li>
-                            <li class="nav-item"><a class="nav-link active" href="../post.html">Posts</a></li>
-                            <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+<body>
+<header class="site-header">
+    <div class="wrap">
+        <a class="brand" href="../index.html">
+            <span class="brand-name">GeoFly Lab</span>
+            <span class="brand-sub">Environmental Studies &middot; University of California, Santa Cruz</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav class="site-nav" id="site-nav" aria-label="Main">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../project.html">Research</a></li>
+                <li><a href="../publication.html">Publications</a></li>
+                <li><a href="../facility.html">Facilities</a></li>
+                <li><a href="../post.html" aria-current="page">News</a></li>
+                <li><a href="../contact.html">Contact</a></li>
+            </ul>
         </nav>
-
-        <div class="outer-window">
-            <div class="navbar_small"><a class="close-outerwindow"><i class="lni lni-close"></i></a></div>
-            <nav class="navbar1">
-                <ul class="navbar-nav">
-                <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="../project.html">Research</a></li>
-                <li class="nav-item"><a class="nav-link" href="../publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="../resource.html">Resources</a></li>
-                <li class="nav-item"><a class="nav-link" href="../gallery.html">Gallery</a></li>
-                <li class="nav-item"><a class="nav-link active" href="../post.html">Posts</a></li>
-                <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
-                </ul>
-            </nav>
-            <div class="side-nav-footer"></div>
-        </div>
-    </header>
-
-    <section class="blog gf-has-head padding-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center gf-page-head">
-                    <span class="gf-eyebrow"><a href="../post.html">News</a></span>
-                    <h1 class="main-heading text-black gf-page-title" style="max-width:860px;margin-left:auto!important;margin-right:auto!important">New paper: crime prediction using Twitter data in San Jose</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12 text-center mb-4">
-                    <p class="reading-time"><i class="las la-clock"></i> 2 minutes read</p>
-                </div>
-            </div>
-
-            <div class="row justify-content-center">
-                <div class="col-lg-8 gf-article">
-                    <p>GeoFly Lab published a new study on <strong>crime risk prediction</strong> that combines two information sources: (1) historical crime records and (2) <strong>crime-related geo-tagged Twitter signals</strong>. The work focuses on improving when and where elevated risk is likely to occur, to support more informed resource planning.</p>
-
-                    <p>This research was conducted in collaboration with <strong>Penn State University</strong>.</p>
-
-                    <p><img src="images/2025123001.png" alt="Crime prediction using historical crime and geo-tagged Twitter data"></p>
-
-                    <p>Many widely used approaches treat crime prediction as a single-variable problem or do not fully account for space and time together. In this paper, we use a <strong>spatio-temporal co-kriging</strong> framework (ST-Cokriging) that integrates multiple inputs to produce smoother and more consistent risk surfaces.</p>
-
-                    <p>We evaluate performance across three common categories: <strong>street crime</strong>, <strong>property crime</strong>, and <strong>vehicle crime</strong>, with experiments comparing weekdays vs. weekends. Results show that adding social-media signals improves agreement with observed patterns and reduces prediction error (e.g., lower RMSE) compared with a model using crime history alone.</p>
-
-                    <p>In practical terms, the study suggests that combining official records with timely, location-aware public signals can help identify risk hotspots more reliably—an important step toward proactive, data-informed crime prevention.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                        
     </div>
+</header>
+<main>
+<article class="wrap">
+    <div class="page-head">
+        <p class="crumbs"><a href="../post.html">News</a></p>
+        <h1>New paper: crime prediction using Twitter data in San Jose</h1>
+        <p class="meta"><time datetime="2025-12-30">December 30, 2025</time> &middot; <span class="reading-time">2 minutes read</span></p>
     </div>
-
-                                    
-
-                <div class="container text-right mb-4" style="padding-right:0;">
-                    <p class="updated">Updated: December 30, 2025</p>
-                </div>
-            </div>
+    <div class="prose">
+<p>GeoFly Lab published a new study on <strong>crime risk prediction</strong> that combines two information sources: (1) historical crime records and (2) <strong>crime-related geo-tagged Twitter signals</strong>. The work focuses on improving when and where elevated risk is likely to occur, to support more informed resource planning.</p>
+<p>This research was conducted in collaboration with <strong>Penn State University</strong>.</p>
+<p><img alt="Crime prediction using historical crime and geo-tagged Twitter data" src="images/2025123001.png"/></p>
+<p>Many widely used approaches treat crime prediction as a single-variable problem or do not fully account for space and time together. In this paper, we use a <strong>spatio-temporal co-kriging</strong> framework (ST-Cokriging) that integrates multiple inputs to produce smoother and more consistent risk surfaces.</p>
+<p>We evaluate performance across three common categories: <strong>street crime</strong>, <strong>property crime</strong>, and <strong>vehicle crime</strong>, with experiments comparing weekdays vs. weekends. Results show that adding social-media signals improves agreement with observed patterns and reduces prediction error (e.g., lower RMSE) compared with a model using crime history alone.</p>
+<p>In practical terms, the study suggests that combining official records with timely, location-aware public signals can help identify risk hotspots more reliably—an important step toward proactive, data-informed crime prevention.</p>
+    </div>
+    <p class="back"><a href="../post.html">&larr; All news</a></p>
+</article>
+</main>
+<footer class="site-footer">
+    <div class="wrap">
+        <div>
+            <div class="footer-name">GeoFly Lab</div>
+            <p>GIS, remote sensing, and UAV-based mapping for environmental research and education.</p>
+        </div>
+        <div>
+            <h2>Visit</h2>
+            <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street<br>Santa Cruz, CA 95064</p>
+        </div>
+        <div>
+            <h2>Explore</h2>
+            <ul>
+                <li><a href="../project.html">Research</a></li>
+                <li><a href="../publication.html">Publications</a></li>
+                <li><a href="../facility.html">Facilities</a></li>
+                <li><a href="../post.html">News</a></li>
+                <li><a href="../gallery.html">Photo gallery</a></li>
+                <li><a href="../contact.html">Contact</a></li>
+            </ul>
         </div>
     </div>
-
-    <footer id="footer" class="gf-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-5">
-                <div class="gf-footer-brand">GeoFly Lab</div>
-                <p>GIS, remote sensing, and UAV-based mapping for environmental research and education at the University of California, Santa Cruz.</p>
-            </div>
-            <div class="col-6 col-md-3">
-                <h4>Explore</h4>
-                <ul>
-                    <li><a href="../project.html">Research</a></li>
-                    <li><a href="../publication.html">Publications</a></li>
-                    <li><a href="../resource.html">Resources</a></li>
-                    <li><a href="../gallery.html">Gallery</a></li>
-                    <li><a href="../post.html">News &amp; Posts</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4">
-                <h4>Visit</h4>
-                <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street, Santa Cruz, CA 95064</p>
-                <p><a href="../contact.html">Contact the lab &rarr;</a></p>
-            </div>
-        </div>
-        <div class="gf-footer-bottom">
-            <p>&copy; 2026 GeoFly Lab, University of California, Santa Cruz</p>
-        </div>
+    <div class="copyright">
+        <div class="wrap">&copy; 2026 GeoFly Lab, University of California, Santa Cruz</div>
     </div>
 </footer>
-
-    <script src="../static/js/bundle.min.js"></script>
-    <script src="../static/js/owl.carousel.min.js"></script>
-    <script src="../static/js/jquery.cubeportfolio.min.js"></script>
-    <script src="../static/js/wow.min.js"></script>
-    <script src="../static/js/jquery.fancybox.min.js"></script>
-    <script src="../static/js/parallaxie.min.js"></script>
-    <script src="../static/js/function.js"></script>
-        <script src="../static/js/share.js"></script>
+<script src="../static/js/lab.js" defer></script>
 </body>
-
 </html>
