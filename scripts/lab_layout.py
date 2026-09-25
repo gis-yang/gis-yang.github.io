@@ -12,8 +12,10 @@ NAV = [
     ("publication.html", "Publications"),
     ("facility.html", "Facilities"),
     ("post.html", "News"),
-    ("contact.html", "Contact"),
+    ("gallery.html", "Gallery"),
 ]
+
+LAB_EMAIL = "geoflylab@gmail.com"
 
 FONTS = ("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700"
          "&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap")
@@ -64,15 +66,16 @@ def header(active, prefix=""):
 
 
 def footer(prefix=""):
-    return f"""<footer class="site-footer">
+    return f"""<footer class="site-footer" id="contact">
     <div class="wrap">
         <div>
             <div class="footer-name">GeoFly Lab</div>
             <p>GIS, remote sensing, and UAV-based mapping for environmental research and education.</p>
         </div>
         <div>
-            <h2>Visit</h2>
+            <h2>Contact</h2>
             <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street<br>Santa Cruz, CA 95064</p>
+            <p><a class="button button-gold" href="mailto:{LAB_EMAIL}?subject=GeoFly%20Lab%20inquiry">Email the lab</a></p>
         </div>
         <div>
             <h2>Explore</h2>
@@ -81,8 +84,8 @@ def footer(prefix=""):
                 <li><a href="{prefix}publication.html">Publications</a></li>
                 <li><a href="{prefix}facility.html">Facilities</a></li>
                 <li><a href="{prefix}post.html">News</a></li>
-                <li><a href="{prefix}gallery.html">Photo gallery</a></li>
-                <li><a href="{prefix}contact.html">Contact</a></li>
+                <li><a href="{prefix}gallery.html">Gallery</a></li>
+                <li><a href="{prefix}DroneMapping/">Drone mapping course</a></li>
             </ul>
         </div>
     </div>
