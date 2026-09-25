@@ -16,7 +16,6 @@ NAV = [
     ("gallery.html", "Gallery"),
 ]
 
-LAB_EMAIL = "geoflylab@gmail.com"
 
 FONTS = ("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700"
          "&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap")
@@ -76,7 +75,7 @@ def footer(prefix=""):
         <div>
             <h2>Contact</h2>
             <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street<br>Santa Cruz, CA 95064</p>
-            <p><a class="button button-gold" href="mailto:{LAB_EMAIL}?subject=GeoFly%20Lab%20inquiry">Email the lab</a></p>
+            <p><a class="button button-gold" href="{prefix}contact.html">Contact the lab</a></p>
         </div>
         <div>
             <h2>Explore</h2>

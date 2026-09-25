@@ -1,12 +1,149 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url=index.html#contact">
-  <link rel="canonical" href="https://geofly.io/#contact">
-  <title>GeoFly Lab | Contact</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GeoFly Lab | Contact</title>
+    <meta name="description" content="Contact GeoFly Lab at UC Santa Cruz.">
+    <meta name="author" content="GeoFly Lab">
+    <link rel="icon" type="image/png" href="static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+    <link rel="stylesheet" href="static/css/lab.css">
 </head>
 <body>
-  <p>Contact details are at the bottom of every page. You can also <a href="mailto:geoflylab@gmail.com">email the lab</a>.</p>
+<header class="site-header">
+    <div class="wrap">
+        <a class="brand" href="index.html">
+            <span class="brand-name">GeoFly Lab</span>
+            <span class="brand-sub">University of California, Santa Cruz</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav class="site-nav" id="site-nav" aria-label="Main">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="project.html">Research</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="publication.html">Publications</a></li>
+                <li><a href="facility.html">Facilities</a></li>
+                <li><a href="post.html">News</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<main>
+<div class="wrap">
+    <div class="page-head">
+        <h1>Contact</h1>
+        <p class="lede">We welcome inquiries from prospective students, visiting scholars, collaborators, and anyone interested in our research or drone mapping course. Send us a message and we will reply by email.</p>
+    </div>
+    <div class="contact-grid form-first">
+        <div>
+            <form class="contact-form" id="contact-form" novalidate>
+                <input type="text" name="_honey" tabindex="-1" autocomplete="off" class="visually-hidden" aria-hidden="true">
+                <div class="two">
+                    <div>
+                        <label for="cf-name">Name</label>
+                        <input type="text" id="cf-name" name="name" autocomplete="name" required>
+                    </div>
+                    <div>
+                        <label for="cf-email">Your email</label>
+                        <input type="email" id="cf-email" name="email" autocomplete="email" required>
+                    </div>
+                </div>
+                <label for="cf-message">Your question</label>
+                <textarea id="cf-message" name="message" rows="8" required></textarea>
+                <button class="button" type="submit" id="cf-submit">Send message</button>
+                <p class="form-status" id="cf-status" role="status" aria-live="polite"></p>
+            </form>
+        </div>
+        <div>
+            <h2 style="margin-top:0">Location</h2>
+            <address>
+                GeoFly Lab<br>
+                Department of Environmental Studies<br>
+                University of California, Santa Cruz<br>
+                1156 High Street<br>
+                Santa Cruz, CA 95064
+            </address>
+            <h2>Join the lab</h2>
+            <p>We welcome inquiries from:</p>
+            <ul>
+                <li>Prospective master's and PhD students</li>
+                <li>Visiting students and visiting scholars</li>
+                <li>Undergraduate researchers and student interns</li>
+                <li>Postdoctoral researchers</li>
+                <li>Research, education, and community partners</li>
+            </ul>
+            <p>In your message, please briefly describe your background, research interests, and the timeframe you have in mind. A CV is welcome in a follow-up email once we reply.</p>
+        </div>
+    </div>
+</div>
+</main>
+<footer class="site-footer" id="contact">
+    <div class="wrap">
+        <div>
+            <div class="footer-name">GeoFly Lab</div>
+            <p>GIS, remote sensing, and UAV-based mapping for environmental research and education.</p>
+        </div>
+        <div>
+            <h2>Contact</h2>
+            <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street<br>Santa Cruz, CA 95064</p>
+            <p><a class="button button-gold" href="contact.html">Contact the lab</a></p>
+        </div>
+        <div>
+            <h2>Explore</h2>
+            <ul>
+                <li><a href="project.html">Research</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="publication.html">Publications</a></li>
+                <li><a href="facility.html">Facilities</a></li>
+                <li><a href="post.html">News</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="DroneMapping/">Drone mapping course</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="wrap">&copy; 2026 GeoFly Lab, University of California, Santa Cruz</div>
+    </div>
+</footer>
+<script src="static/js/lab.js" defer></script>
+<script>
+/* Contact form: sends through FormSubmit. The recipient address is assembled here so it never appears on the page. */
+(function () {
+    var form = document.getElementById('contact-form');
+    if (!form) return;
+    var parts = ['byang85', 'ucsc', 'edu'];
+    var endpoint = 'https://formsubmit.co/ajax/' + parts[0] + '@' + parts[1] + '.' + parts[2];
+    var button = document.getElementById('cf-submit');
+    var status = document.getElementById('cf-status');
+    function show(msg, ok) { status.textContent = msg; status.className = 'form-status ' + (ok ? 'is-ok' : 'is-error'); }
+    form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        if (!form.checkValidity()) { form.reportValidity(); return; }
+        if (form._honey.value) return;
+        var data = {
+            name: form.name.value.trim(),
+            email: form.email.value.trim(),
+            message: form.message.value.trim(),
+            _subject: 'GeoFly Lab website question from ' + form.name.value.trim(),
+            _template: 'table',
+            _captcha: 'false'
+        };
+        button.disabled = true; button.textContent = 'Sending\u2026'; show('', true);
+        fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' }, body: JSON.stringify(data) })
+            .then(function (r) { return r.json(); })
+            .then(function (res) {
+                if (res && (res.success === true || res.success === 'true')) { form.reset(); show('Thank you. Your message has been sent, and we will reply by email.', true); }
+                else { throw new Error(); }
+            })
+            .catch(function () { show('Sorry, your message could not be sent right now. Please try again later.', false); })
+            .then(function () { button.disabled = false; button.textContent = 'Send message'; });
+    });
+})();
+</script>
 </body>
 </html>
