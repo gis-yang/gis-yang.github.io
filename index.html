@@ -7,11 +7,11 @@
      <!-- Author -->
      <meta name="author" content="Bo Yang">
      <!-- description -->
-     <meta name="description" content="Main Page">
+     <meta name="description" content="GeoFly Lab at UC Santa Cruz advances geospatial research and education through GIS, remote sensing, and UAV-based mapping.">
      <!-- keywords -->
-     <meta name="keywords" content="Main">
+     <meta name="keywords" content="GeoFly Lab, UC Santa Cruz, GIS, remote sensing, UAV, drone mapping, seagrass, wildfire, urban heat">
      <!-- Page Title -->
-     <title>Geofly Lab | Home</title>
+     <title>GeoFly Lab | Home</title>
     
     <!-- Favicon -->
    
@@ -26,6 +26,12 @@
     <link rel="stylesheet" href="static/css/style.css">
     <link rel="stylesheet" href="static/css/settings.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-MZ+QnQ63vUDV7Cw8+xg5JPpj0z2xvIxF5c5Ti5eCsiOuh6U5mpauUdY6UJzGCxMYkifgN4p4O+vmN4LvPX3/3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- GeoFly polish layer -->
+    <link rel="icon" type="image/png" href="static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="static/css/geofly.css">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="150">
@@ -50,6 +56,7 @@
     <nav id="my-nav1" class="navbar navbar-expand-sm navbar-light rounded-bar transparent-bar">
 
         <div class="container bg-trans-color">
+                <a class="gf-brand" href="index.html"><span>GeoFly Lab<small>UC Santa Cruz</small></span></a>
             <div class="logo">
                 <a href="#home" class="scroll">
                     <!-- 这是放左上角的logo，注释了 -->
@@ -88,7 +95,7 @@
                     <ul id="primary" class="navbar-nav ml-auto mr-auto">
 
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="#home">
+                            <a class="nav-link scroll active" href="#home">
                                 <!-- <img src="static/image/logo.png" alt="Logos Icon" class="nav-icon"> -->
                                 Home
                             </a>
@@ -100,12 +107,9 @@
                             <a class="nav-link" href="publication.html">Publications</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="resource.html">Data</a>
+                            <a class="nav-link" href="resource.html">Resources</a>
                         </li>                        <li class="nav-item">
-                            <a class="nav-link" href="team.html">People</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="gallery.html">Demo</a>
+                            <a class="nav-link" href="gallery.html">Gallery</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="post.html">Posts</a>
@@ -142,12 +146,11 @@
         </div>
         <nav class="navbar1">
             <ul class="navbar-nav">
-                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="project.html">Research</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="resource.html">Data</a></li>
-                <li class="nav-item"><a class="nav-link" href="team.html">People</a></li>
-                <li class="nav-item"><a class="nav-link" href="gallery.html">Demo</a></li>
+                <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>
+                <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
             </ul>
@@ -173,15 +176,15 @@
                         GeoFly Lab at UC Santa Cruz advances geospatial research and education through
                         rigorous GIS, remote sensing, and UAV-based mapping.
                     </p>
-                    <ul class="text" style="font-size:18px; font-weight:600; color: rgb(0, 60, 109);">
+                    <ul class="text">
                         <li>Remote Sensing & Environmental Monitoring</li>
                         <li>GIScience & Geospatial Data Science</li>
                         <li>UAV Mapping, Field Methods, and Education</li>
                     </ul>
                     <div class="mt-4">
-                        <a href="project.html" class="btn btn-slider trans-btn rounded-pill mr-2">Research</a>
+                        <a href="project.html" class="btn btn-slider blue-btn rounded-pill mr-2">Explore our research</a>
                         <a href="publication.html" class="btn btn-slider trans-btn rounded-pill mr-2">Publications</a>
-                        <a href="contact.html" class="btn btn-slider blue-btn rounded-pill" target="_blank" rel="noopener no-referrer">Contact</a>
+                        <a href="contact.html" class="btn btn-slider trans-btn rounded-pill">Contact</a>
                     </div>
                 </div>
             </div>
@@ -201,7 +204,7 @@
         <div class="col-12 col-md-6">
             <div class="bridal-content">
             <div class="bridal-img">
-                <img src="static/picture/Wildfire1.PNG" alt="image">
+                <img src="static/picture/Wildfire1.PNG" alt="Drone view of a prescribed burn">
             </div>
             <div class="bridal-wear-content">
                 <div class="overlay">
@@ -210,7 +213,7 @@
                             <h5 class="heading mb-3 text-white">NASA funds FireSage for wildfire modeling using drones and sensing</h5>
                             <!--<h6 class="heading mb-3 text-white">(If your internet speed is slow, it may take a long time to load this page)</h6>-->
                             <h1 class="main-heading mb-3 text-white">Wildfire remote sensing</h1>
-                            <a target="_blank" href="UAV_wildfire.html" class="btn btn-slider trans-btn white-btn rounded-pill">Find More</a>
+                            <a href="UAV_wildfire.html" class="btn btn-slider trans-btn white-btn rounded-pill">Find More</a>
                         </div>
                         </div>
                     </div>
@@ -221,7 +224,7 @@
         <div class="col-12 col-md-6 order-1 order-sm-2">
             <div class="bridal-content">
                 <div class="bridal-img">
-                    <img src="static/picture/AK_Seagrass2.png" alt="image">
+                    <img src="static/picture/AK_Seagrass2.png" alt="Researchers surveying a seagrass meadow from above">
                 </div>
                 <div class="bridal-wear-content">
                     <div class="overlay">
@@ -229,7 +232,7 @@
                             <div class="content wow fadeInRight" data-wow-duration=".8s">
                                 <h5 class="heading mb-3 text-white">NSF B2 project maps seagrass habitats, climate stressors, and disease</h5>
                                 <h1 class="main-heading mb-3 text-white">Coastal Seagrass Mapping</h1>
-                                <a target="_blank" href="UAV_seagrass.html" class="btn btn-slider white-btn rounded-pill">Find More</a>
+                                <a href="UAV_seagrass.html" class="btn btn-slider white-btn rounded-pill">Find More</a>
                             </div>
                         </div>
                     </div>
@@ -246,7 +249,7 @@
         <div class="col-12 col-md-6">
             <div class="bridal-content">
             <div class="bridal-img">
-                <img src="static/picture/Picture68.jpg" alt="image">
+                <img src="static/picture/Picture68.jpg" alt="Map of street crime in San Jose">
             </div>
             <div class="bridal-wear-content">
                 <div class="overlay">
@@ -254,7 +257,7 @@
                         <div class="content wow fadeInLeft" data-wow-duration=".8s">
                             <h5 class="heading mb-3 text-white">AI (ST-Cokriging) analyzes urban heat, crime, and transportation</h5>
                             <h1 class="main-heading mb-3 text-white">Urban-environmental Data Science</h1>
-                            <a target="_blank" href="UAV_others.html" class="btn btn-slider trans-btn white-btn rounded-pill">Find More</a>
+                            <a href="UAV_others.html" class="btn btn-slider trans-btn white-btn rounded-pill">Find More</a>
                         </div>
                         </div>
                     </div>
@@ -278,9 +281,9 @@
                     <div class="overlay">
                         <div class="height1 d-flex justify-content-center align-items-center text-center">
                             <div class="content wow fadeInRight" data-wow-duration=".8s">
-                                <h5 class="heading mb-3 text-white">GeoFlyLab uses drones and GIS for hands-on geospatial education</h5>
+                                <h5 class="heading mb-3 text-white">GeoFly Lab uses drones and GIS for hands-on geospatial education</h5>
                                 <h1 class="main-heading mb-3 text-white">GIS and Drone for Education</h1>
-                                <a target="_blank" href="UAV_edu.html" class="btn btn-slider white-btn rounded-pill">Find More</a>
+                                <a href="UAV_edu.html" class="btn btn-slider white-btn rounded-pill">Find More</a>
                             </div>
                         </div>
                     </div>
@@ -299,8 +302,7 @@
                 <div class="heading-area">
                     <!-- <span class="sub-heading">The idea of applying for a PhD since in 2020</span>
                     <h4 class="heading">As hard as it is to pursue a Ph.D., it is still my unwavering, aspired goal</h4> -->
-                    <span class="sub-heading"> </span>
-                    <h4 class="heading">High-Performance GIS, Remote Sensing, and AI</h4>
+                                        <h4 class="heading">High-Performance GIS, Remote Sensing, and AI</h4>
                     <div class="mt-3">
                         <img src="static/picture/geoflylab_logo.png" alt="GeoFly Lab" style="max-width: 260px; width: 100%; height: auto;" class="img-fluid">
                     </div>
@@ -308,13 +310,17 @@
             </div>
             <div class="col-12 col-lg-6 d-flex align-items-center text-center text-lg-left  wow fadeInRight" data-wow-delay=".2s">
                 <div class="detail-area">
-                    <p class="text" style="font-size: 20px;">
-                        GeoFly Lab at UCSC conducts peer‑reviewed research in GIS, remote sensing, and UAV-based mapping, supported by
-                        NSF/NASA/CalFire funding. We have 8+ years of UAV field operations and data collection, and curate a
-                        high‑resolution aerial imagery (120,000+). We develop reproducible geospatial workflows for
-                        analysis, modeling, and education. GeoFly Lab leverages GPU-accelerated computing to enable scalable data processing 
-                         and machine-learning applications while training for drone-enabled geospatial research.
+                    <p class="text">
+                        GeoFly Lab at UC Santa Cruz conducts peer-reviewed research in GIS, remote sensing, and UAV-based mapping,
+                        supported by NSF, NASA, and CAL FIRE. We build reproducible geospatial workflows for analysis, modeling,
+                        and education, and use GPU-accelerated computing to scale data processing and machine learning while
+                        training students in drone-enabled geospatial research.
                     </p>
+                    <div class="gf-stats">
+                        <div class="gf-stat"><strong>8+</strong><span>years of UAV field operations</span></div>
+                        <div class="gf-stat"><strong>120,000+</strong><span>high-resolution aerial images</span></div>
+                        <div class="gf-stat"><strong>18&deg;</strong><span>of latitude surveyed on the Pacific coast</span></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -347,8 +353,8 @@
         <div class="row">
             <div class="col-md-8 offset-md-2 col-sm-12 text-center">
                 <div class="product-text wow fadeInUp" data-wow-duration=".8s">
-                    <h5 class="heading text-black">Geofly Lab's Latest News</h5>
-                    <h1 class="main-heading text-black"><a href="post.html" class="text-decoration-none">Recent posts</a></h1>
+                    <h5 class="heading text-black">Latest news</h5>
+                    <h2 class="main-heading text-black">Recent posts</h2>
                 </div>
             </div>
         </div>
@@ -356,98 +362,32 @@
         <div class="row">
             <div class="col-12">
 
-                <div class="owl-carousel owl-theme no-gutters" id="blog-carousal">
+                <div class="gf-post-grid">
                     <!-- RECENT_POSTS_START -->
-                    <div class="item blog-item wow fadeInUp" data-wow-duration=".8s">
-                        <div class="blog-img">
-                            <a href="posts/2026-01-20-histories-of-fire-and-industry.html">
-                            <img src="posts/images/2026012001.jpg" alt="blog img">
-                            </a>
+                    <a class="gf-post-card" href="posts/2026-01-20-histories-of-fire-and-industry.html">
+                        <div class="gf-post-img"><img src="posts/images/2026012001.jpg" alt="" loading="lazy"></div>
+                        <div class="gf-post-body">
+                            <time datetime="2026-01-20">January 20, 2026</time>
+                            <h3>GeoFly Lab Members Contribute to &#x27;Histories of Fire and Industry in the Santa Cruz Mountains&#x27;</h3>
+                            <span class="gf-read">Read more</span>
                         </div>
-
-                        <div class="blog-text text-center">
-                            <div class="date d-flex justify-content-center text-black">
-                                <p class="mb-0 text-black sub-heading mr-3">01-20 2026</p>
-                                <p class="text-black sub-heading">GeoFly Lab Members Contribute to 'Histories of Fire and Industry in the Santa Cruz Mountains'</p>
-                            </div>
-                            <div class="info-blog mb-3">
-                                <a href="posts/2026-01-20-histories-of-fire-and-industry.html" class="text-decoration-none"><h4 class="text-black mb-3 mt-2 blog-heading">GeoFly Lab Members Contribute to 'Histories of Fire and Industry in the Santa Cruz Mountains'</h4></a>
-                            </div>
-                            <a href="posts/2026-01-20-histories-of-fire-and-industry.html" class="btn btn-slider trans-btn rounded-pill">Read More</a>
+                    </a>
+                    <a class="gf-post-card" href="posts/2026-01-15-GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project.html">
+                        <div class="gf-post-img"><img src="posts/images/2026011501.jpg" alt="" loading="lazy"></div>
+                        <div class="gf-post-body">
+                            <time datetime="2026-01-15">January 15, 2026</time>
+                            <h3>GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project</h3>
+                            <span class="gf-read">Read more</span>
                         </div>
-                     </div>
-                    <div class="item blog-item wow fadeInUp" data-wow-duration=".8s">
-                        <div class="blog-img">
-                            <a href="posts/2026-01-21-New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19.html">
-                            <img src="posts/images/2026012101.jpg" alt="blog img">
-                            </a>
+                    </a>
+                    <a class="gf-post-card" href="posts/2026-01-15-New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19.html">
+                        <div class="gf-post-img"><img src="posts/images/2026012101.jpg" alt="" loading="lazy"></div>
+                        <div class="gf-post-body">
+                            <time datetime="2026-01-15">January 15, 2026</time>
+                            <h3>New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19</h3>
+                            <span class="gf-read">Read more</span>
                         </div>
-
-                        <div class="blog-text text-center">
-                            <div class="date d-flex justify-content-center text-black">
-                                <p class="mb-0 text-black sub-heading mr-3">01-21 2026</p>
-                                <p class="text-black sub-heading">New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19</p>
-                            </div>
-                            <div class="info-blog mb-3">
-                                <a href="posts/2026-01-21-New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19.html" class="text-decoration-none"><h4 class="text-black mb-3 mt-2 blog-heading">New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19</h4></a>
-                            </div>
-                            <a href="posts/2026-01-21-New paper in Annals of AAG: thermal remote sensing of traffic impacts on urban heat during COVID-19.html" class="btn btn-slider trans-btn rounded-pill">Read More</a>
-                        </div>
-                     </div>
-                    <div class="item blog-item wow fadeInUp" data-wow-duration=".8s">
-                        <div class="blog-img">
-                            <a href="posts/2026-01-15-GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project.html">
-                            <img src="posts/images/2026011501.jpg" alt="blog img">
-                            </a>
-                        </div>
-
-                        <div class="blog-text text-center">
-                            <div class="date d-flex justify-content-center text-black">
-                                <p class="mb-0 text-black sub-heading mr-3">01-15 2026</p>
-                                <p class="text-black sub-heading">GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project</p>
-                            </div>
-                            <div class="info-blog mb-3">
-                                <a href="posts/2026-01-15-GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project.html" class="text-decoration-none"><h4 class="text-black mb-3 mt-2 blog-heading">GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project</h4></a>
-                            </div>
-                            <a href="posts/2026-01-15-GeoFly Lab welcomes a new eBee X drone for our NSF seagrass mapping project.html" class="btn btn-slider trans-btn rounded-pill">Read More</a>
-                        </div>
-                     </div>
-                    <div class="item blog-item wow fadeInUp" data-wow-duration=".8s">
-                        <div class="blog-img">
-                            <a href="posts/2025-12-30-New paper: crime prediction using Twitter data in San Jose.html">
-                            <img src="posts/images/2025123001.png" alt="blog img">
-                            </a>
-                        </div>
-
-                        <div class="blog-text text-center">
-                            <div class="date d-flex justify-content-center text-black">
-                                <p class="mb-0 text-black sub-heading mr-3">12-30 2025</p>
-                                <p class="text-black sub-heading">New paper: crime prediction using Twitter data in San Jose</p>
-                            </div>
-                            <div class="info-blog mb-3">
-                                <a href="posts/2025-12-30-New paper: crime prediction using Twitter data in San Jose.html" class="text-decoration-none"><h4 class="text-black mb-3 mt-2 blog-heading">New paper: crime prediction using Twitter data in San Jose</h4></a>
-                            </div>
-                            <a href="posts/2025-12-30-New paper: crime prediction using Twitter data in San Jose.html" class="btn btn-slider trans-btn rounded-pill">Read More</a>
-                        </div>
-                     </div>
-                    <div class="item blog-item wow fadeInUp" data-wow-duration=".8s">
-                        <div class="blog-img">
-                            <a href="posts/2025-11-21-UCSC GIS Day 2025 Jointly hosted by GISTAR CISR GeoFly Lab and the GIS & Drone Society.html">
-                            <img src="posts/images/2025112102.jpg" alt="blog img">
-                            </a>
-                        </div>
-
-                        <div class="blog-text text-center">
-                            <div class="date d-flex justify-content-center text-black">
-                                <p class="mb-0 text-black sub-heading mr-3">11-21 2025</p>
-                                <p class="text-black sub-heading">UCSC GIS Day 2025: Jointly hosted by GISTAR, CISR, GeoFly Lab, and the GIS &amp; Drone Society</p>
-                            </div>
-                            <div class="info-blog mb-3">
-                                <a href="posts/2025-11-21-UCSC GIS Day 2025 Jointly hosted by GISTAR CISR GeoFly Lab and the GIS & Drone Society.html" class="text-decoration-none"><h4 class="text-black mb-3 mt-2 blog-heading">UCSC GIS Day 2025: Jointly hosted by GISTAR, CISR, GeoFly Lab, and the GIS &amp; Drone Society</h4></a>
-                            </div>
-                            <a href="posts/2025-11-21-UCSC GIS Day 2025 Jointly hosted by GISTAR CISR GeoFly Lab and the GIS & Drone Society.html" class="btn btn-slider trans-btn rounded-pill">Read More</a>
-                        </div>
-                     </div>
+                    </a>
                     <!-- RECENT_POSTS_END -->
                 </div>
 
@@ -477,22 +417,38 @@
 </section>
 
 
-<section id="footer" class="footer">
+<footer id="footer" class="gf-footer">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center wow fadeIn" data-wow-duration=".8s">
-                <!-- 底下的推特，等图标 -->
-                <!-- <ul class="footer_ul">
-                    <li class="footer_list"><i class="lni lni-facebook-filled"></i></li>
-                    <li class="footer_list"><i class="lni lni-twitter-original"></i></li>
-                    <li class="footer_list"><i class="lni lni-google"></i></li>
-                    <li class="footer_list"><i class="lni lni-instagram-filled"></i></li>
-                </ul> -->
-                <p class="info footer_text"> &copy; 2025 Geofly Lab, University of California, Santa Cruz</p>
+            <div class="col-12 col-md-5">
+                <div class="gf-footer-brand">GeoFly Lab</div>
+                <p>GIS, remote sensing, and UAV-based mapping for environmental research and education at the University of California, Santa Cruz.</p>
+                <div class="gf-social">
+                    <a href="https://www.linkedin.com/company/90439721" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on LinkedIn"><i class="lni lni-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@GeoFlyLab" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on YouTube"><i class="lni lni-youtube"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="project.html">Research</a></li>
+                    <li><a href="publication.html">Publications</a></li>
+                    <li><a href="resource.html">Resources</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="post.html">News &amp; Posts</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md-4">
+                <h4>Visit</h4>
+                <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street, Santa Cruz, CA 95064</p>
+                <p><a href="contact.html">Contact the lab &rarr;</a></p>
             </div>
         </div>
+        <div class="gf-footer-bottom">
+            <p>&copy; 2026 GeoFly Lab, University of California, Santa Cruz</p>
+        </div>
     </div>
-</section>
+</footer>
 
 
 

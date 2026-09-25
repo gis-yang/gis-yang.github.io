@@ -12,7 +12,7 @@
     <!-- keywords -->
     <meta name="keywords" content="team, members, geofly, about us">
     <!-- Page Title -->
-    <title>Geofly Lab | Projects</title>
+    <title>GeoFly Lab | Projects</title>
     <!-- Favicon -->
 
     <!-- Bundle -->
@@ -24,6 +24,12 @@
     <link href="static/css/LineIcons.min.css" rel="stylesheet">
     <!-- Style Sheet -->
     <link rel="stylesheet" href="static/css/style.css">
+    <!-- GeoFly polish layer -->
+    <link rel="icon" type="image/png" href="static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="static/css/geofly.css">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="150">
@@ -46,6 +52,7 @@
         <nav id="my-nav1" class="navbar navbar-expand-sm navbar-light rounded-bar inner-navs transparent-bar">
 
             <div class="container bg-trans-color">
+                <a class="gf-brand" href="index.html"><span>GeoFly Lab<small>UC Santa Cruz</small></span></a>
                 <!-- 删除logo -->
                 <!-- <div class="logo">
                     <a href="index.html"><img src="static/picture/logo.png" alt="Logo Img"></a>
@@ -84,18 +91,15 @@
                                 <a class="nav-link" href="index.html">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="project.html">Research</a>
+                                <a class="nav-link active" href="project.html">Research</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="publication.html">Publications</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="resource.html">Data</a>
+                                <a class="nav-link" href="resource.html">Resources</a>
                             </li>                            <li class="nav-item">
-                                <a class="nav-link" href="team.html">People</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="gallery.html">Demo</a>
+                                <a class="nav-link" href="gallery.html">Gallery</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="post.html">Posts</a>
@@ -130,11 +134,10 @@
         <nav class="navbar1">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="project.html">Research</a></li>
+                <li class="nav-item"><a class="nav-link active" href="project.html">Research</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="resource.html">Data</a></li>
-                <li class="nav-item"><a class="nav-link" href="team.html">People</a></li>
-                <li class="nav-item"><a class="nav-link" href="gallery.html">Demo</a></li>
+                <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>
+                <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
             </ul>
@@ -149,34 +152,50 @@
     <!-- ____________________________________________________________________________________________________________________________________ -->
     
 
-    <section id="projects" class="projects">
+    <section id="projects" class="projects gf-has-head">
         <div class="container">
-            <div class="projects-heading">
-                <span class="section-label">GeoFly Lab Research</span>
-                <h2 class="main-heading">Projects</h2>
-                <p class="sub-heading">Applied geospatial research using UAVs, remote sensing, spatial analytics, and community-engaged fieldwork.</p>
+            <div class="projects-heading gf-page-head">
+                <span class="gf-eyebrow">GeoFly Lab Research</span>
+                <h1 class="main-heading gf-page-title">Research Projects</h1>
+                <p class="sub-heading gf-page-lede">Applied geospatial research using UAVs, remote sensing, spatial analytics, and community-engaged fieldwork.</p>
             </div>
             <!-- Start here -->
             <div id="project-container" class="project-container"></div>
         </div>
     </section>
 
-    <section id="footer" class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center wow fadeIn" data-wow-duration=".8s">
-                    <!-- 注释掉了推特等图标 -->
-                    <!-- <ul class="footer_ul">
-                        <li class="footer_list"><i class="lni lni-facebook-filled"></i></li>
-                        <li class="footer_list"><i class="lni lni-twitter-original"></i></li>
-                        <li class="footer_list"><i class="lni lni-google"></i></li>
-                        <li class="footer_list"><i class="lni lni-instagram-filled"></i></li>
-                    </ul> -->
-                    <p class="info footer_text"> &copy; 2025 Geofly Lab, University of California, Santa Cruz </p>
+    <footer id="footer" class="gf-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-5">
+                <div class="gf-footer-brand">GeoFly Lab</div>
+                <p>GIS, remote sensing, and UAV-based mapping for environmental research and education at the University of California, Santa Cruz.</p>
+                <div class="gf-social">
+                    <a href="https://www.linkedin.com/company/90439721" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on LinkedIn"><i class="lni lni-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@GeoFlyLab" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on YouTube"><i class="lni lni-youtube"></i></a>
                 </div>
             </div>
+            <div class="col-6 col-md-3">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="project.html">Research</a></li>
+                    <li><a href="publication.html">Publications</a></li>
+                    <li><a href="resource.html">Resources</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="post.html">News &amp; Posts</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md-4">
+                <h4>Visit</h4>
+                <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street, Santa Cruz, CA 95064</p>
+                <p><a href="contact.html">Contact the lab &rarr;</a></p>
+            </div>
         </div>
-    </section>
+        <div class="gf-footer-bottom">
+            <p>&copy; 2026 GeoFly Lab, University of California, Santa Cruz</p>
+        </div>
+    </div>
+</footer>
 
     <!-- JavaScript -->
     <script src="static/js/bundle.min.js"></script>
@@ -205,14 +224,14 @@
                     reverse: true
                 },
                 {
-                    title: "Drone Mapping the Florida Coastal",
+                    title: "Drone Mapping the Florida Coast",
                     description: "Field trials of the multispectral UAV mapping were conducted over the Indian River Lagoon along the central Atlantic coast of Florida with Ground Control Points (GCPs), allowing for comparison to geo-referenced satellite and aerial imagery.",
                     image: "static/picture/FL.jpg",
                     link: "https://www.mdpi.com/2504-446X/3/3/60",
                     reverse: false
                 },
                 {
-                    title: "Urban Heat and Urban Transporation",
+                    title: "Urban Heat and Urban Transportation",
                     description: "We use thermal remote sensing and the urban heat budget to isolate and quantify the transportation impact on urban heat and climate change.",
                     image: "static/picture/Image_20230301103055.jpg",
                     link: "https://www.nature.com/articles/s43247-022-00427-4",

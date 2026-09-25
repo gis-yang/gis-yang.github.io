@@ -12,7 +12,7 @@
     <!-- keywords -->
     <meta name="keywords" content="UAV, drone, education, training, workshops">
     <!-- Page Title -->
-    <title>Geofly Lab | Drones for Education</title>
+    <title>GeoFly Lab | Drones for Education</title>
     <!-- Favicon -->
 
     <!-- Bundle -->
@@ -24,6 +24,12 @@
     <link href="static/css/LineIcons.min.css" rel="stylesheet">
     <!-- Style Sheet -->
     <link rel="stylesheet" href="static/css/style.css">
+    <!-- GeoFly polish layer -->
+    <link rel="icon" type="image/png" href="static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="static/css/geofly.css">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="150">
@@ -46,6 +52,7 @@
         <nav id="my-nav1" class="navbar navbar-expand-sm navbar-light rounded-bar inner-navs transparent-bar">
 
             <div class="container bg-trans-color">
+                <a class="gf-brand" href="index.html"><span>GeoFly Lab<small>UC Santa Cruz</small></span></a>
                 <!-- 删除logo -->
                 <!-- <div class="logo">
                     <a href="index.html"><img src="static/picture/logo.png" alt="Logo Img"></a>
@@ -84,18 +91,15 @@
                                 <a class="nav-link" href="index.html">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="project.html">Research</a>
+                                <a class="nav-link active" href="project.html">Research</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="publication.html">Publications</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="resource.html">Data</a>
+                                <a class="nav-link" href="resource.html">Resources</a>
                             </li>                            <li class="nav-item">
-                                <a class="nav-link" href="team.html">People</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="gallery.html">Demo</a>
+                                <a class="nav-link" href="gallery.html">Gallery</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="post.html">Posts</a>
@@ -130,11 +134,10 @@
         <nav class="navbar1">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="project.html">Research</a></li>
+                <li class="nav-item"><a class="nav-link active" href="project.html">Research</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="resource.html">Data</a></li>
-                <li class="nav-item"><a class="nav-link" href="team.html">People</a></li>
-                <li class="nav-item"><a class="nav-link" href="gallery.html">Demo</a></li>
+                <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>
+                <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
             </ul>
@@ -149,12 +152,13 @@
     <!-- ____________________________________________________________________________________________________________________________________ -->
     
     <!-- MAIN CONTENT -->
-    <section id="uav-edu" class="about-sec">
+    <section id="uav-edu" class="about-sec gf-has-head">
         <div class="container">
             <div class="row mb-4">
-                <div class="col-12 text-center wow fadeInUp" data-wow-duration=".8s">
-                    <h2 class="main-heading">Drones for Education</h2>
-                    <p class="sub-heading">Empowering learners through UAV training, workshops, and community engagement.</p>
+                <div class="col-12 text-center gf-page-head">
+                    <span class="gf-eyebrow"><a href="project.html">Research</a></span>
+                    <h1 class="main-heading gf-page-title">Drones for Education</h1>
+                    <p class="sub-heading gf-page-lede">Empowering learners through UAV training, workshops, and community engagement.</p>
                 </div>
             </div>
             <!-- Open Access Drone Course -->
@@ -206,22 +210,38 @@
     </section>
 
 <!-- FOOTER -->
-    <section id="footer" class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center wow fadeIn" data-wow-duration=".8s">
-                    <!-- 注释掉了推特等图标 -->
-                    <!-- <ul class="footer_ul">
-                        <li class="footer_list"><i class="lni lni-facebook-filled"></i></li>
-                        <li class="footer_list"><i class="lni lni-twitter-original"></i></li>
-                        <li class="footer_list"><i class="lni lni-google"></i></li>
-                        <li class="footer_list"><i class="lni lni-instagram-filled"></i></li>
-                    </ul> -->
-                    <p class="info footer_text"> &copy; 2025 Geofly Lab, University of California, Santa Cruz </p>
+    <footer id="footer" class="gf-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-5">
+                <div class="gf-footer-brand">GeoFly Lab</div>
+                <p>GIS, remote sensing, and UAV-based mapping for environmental research and education at the University of California, Santa Cruz.</p>
+                <div class="gf-social">
+                    <a href="https://www.linkedin.com/company/90439721" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on LinkedIn"><i class="lni lni-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@GeoFlyLab" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on YouTube"><i class="lni lni-youtube"></i></a>
                 </div>
             </div>
+            <div class="col-6 col-md-3">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="project.html">Research</a></li>
+                    <li><a href="publication.html">Publications</a></li>
+                    <li><a href="resource.html">Resources</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="post.html">News &amp; Posts</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md-4">
+                <h4>Visit</h4>
+                <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street, Santa Cruz, CA 95064</p>
+                <p><a href="contact.html">Contact the lab &rarr;</a></p>
+            </div>
         </div>
-    </section>
+        <div class="gf-footer-bottom">
+            <p>&copy; 2026 GeoFly Lab, University of California, Santa Cruz</p>
+        </div>
+    </div>
+</footer>
 
     <!-- JavaScript -->
     <script src="static/js/bundle.min.js"></script>

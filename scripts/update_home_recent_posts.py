@@ -67,31 +67,17 @@ def parse_post(html_path: Path):
 
 
 def build_item(p):
-    # Homepage uses mixed image paths; prefer posts/images for consistency.
-    img_tag = (
-        f"\n                            <img src=\"posts/images/{p['img']}\" alt=\"blog img\">\n"
-        if p["img"]
-        else "\n                            <img src=\"static/picture/SJSU_logo.png\" alt=\"blog img\">\n"
-    )
-
+    img = f"posts/images/{p['img']}" if p["img"] else "static/picture/geoflylab_logo.png"
     safe_title = html.escape(p["title"])
-
-    return f"""                    <div class=\"item blog-item wow fadeInUp\" data-wow-duration=\".8s\">
-                        <div class=\"blog-img\">
-                            <a href=\"{p['url']}\">{img_tag}                            </a>
+    safe_url = html.escape(p["url"], quote=True)
+    return f"""                    <a class=\"gf-post-card\" href=\"{safe_url}\">
+                        <div class=\"gf-post-img\"><img src=\"{html.escape(img, quote=True)}\" alt=\"\" loading=\"lazy\"></div>
+                        <div class=\"gf-post-body\">
+                            <time datetime=\"{p['date'].strftime('%Y-%m-%d')}\">{p['date_long']}</time>
+                            <h3>{safe_title}</h3>
+                            <span class=\"gf-read\">Read more</span>
                         </div>
-
-                        <div class=\"blog-text text-center\">
-                            <div class=\"date d-flex justify-content-center text-black\">
-                                <p class=\"mb-0 text-black sub-heading mr-3\">{p['date_mmddyyyy']}</p>
-                                <p class=\"text-black sub-heading\">{safe_title}</p>
-                            </div>
-                            <div class=\"info-blog mb-3\">
-                                <a href=\"{p['url']}\" class=\"text-decoration-none\"><h4 class=\"text-black mb-3 mt-2 blog-heading\">{safe_title}</h4></a>
-                            </div>
-                            <a href=\"{p['url']}\" class=\"btn btn-slider trans-btn rounded-pill\">Read More</a>
-                        </div>
-                     </div>
+                    </a>
 """
 
 
@@ -104,7 +90,7 @@ def build_list_item(p):
 """
 
 
-def main(limit=5):
+def main(limit=3):
     posts = []
     for p in glob.glob(str(POSTS_DIR / "*.html")):
         it = parse_post(Path(p))

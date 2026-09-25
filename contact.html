@@ -24,6 +24,12 @@
     <link href="static/css/LineIcons.min.css" rel="stylesheet">
     <!-- Style Sheet -->
     <link rel="stylesheet" href="static/css/style.css">
+    <!-- GeoFly polish layer -->
+    <link rel="icon" type="image/png" href="static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="static/css/geofly.css">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="150">
@@ -46,6 +52,7 @@
         <nav id="my-nav1" class="navbar navbar-expand-sm navbar-light rounded-bar inner-navs transparent-bar">
 
             <div class="container bg-trans-color">
+                <a class="gf-brand" href="index.html"><span>GeoFly Lab<small>UC Santa Cruz</small></span></a>
                 <!-- 删除logo -->
                 <!-- <div class="logo">
                     <a href="index.html"><img src="static/picture/logo.png" alt="Logo Img"></a>
@@ -90,18 +97,15 @@
                                 <a class="nav-link" href="publication.html">Publications</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="resource.html">Data</a>
+                                <a class="nav-link" href="resource.html">Resources</a>
                             </li>                            <li class="nav-item">
-                                <a class="nav-link" href="team.html">People</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="gallery.html">Demo</a>
+                                <a class="nav-link" href="gallery.html">Gallery</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="post.html">Posts</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Contact</a>
+                                <a class="nav-link active" href="contact.html">Contact</a>
                             </li>
                         </ul>
 
@@ -132,11 +136,10 @@
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="project.html">Research</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="resource.html">Data</a></li>
-                <li class="nav-item"><a class="nav-link" href="team.html">People</a></li>
-                <li class="nav-item"><a class="nav-link" href="gallery.html">Demo</a></li>
+                <li class="nav-item"><a class="nav-link" href="resource.html">Resources</a></li>
+                <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
-                <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                <li class="nav-item"><a class="nav-link active" href="contact.html">Contact</a></li>
             </ul>
         </nav>
         <div class="side-nav-footer">
@@ -184,7 +187,6 @@
                         <div class="col-12 col-md-6 country-1">
                             <h4 class="heading-text text-left text-black">University of California, Santa Cruz</h4>
                             <ul>
-                                <!-- <li><i class="fas fa-envelope"></i><a>byang85@ucsc.edu</a></li> -->
                                 <!-- <li><i class="lni lni-github-original"></i><a target="_blank" href="">Github</a></li> -->
 
                                 <li><i class="fas fa-map-marker"></i><a target="_blank" href="https://maps.app.goo.gl/Zpz8C6GxNDW6KHmt9">
@@ -213,81 +215,80 @@
                 <div class="c-box wow fadeInRight">
                     <h4 class="small-heading">Send a message</h4>
                     <p class="sub-heading text-grey small-text text-left mb-3">
-                        Please provide a valid email address so we can respond. Fields marked * are required.
+                        We read every message and will reply by email. All fields are required.
                     </p>
 
-                    <!-- NOTE: GitHub Pages is static. To send email without exposing addresses, use a form backend such as Formspree.
-                         Replace the action URL below with your Formspree endpoint: https://formspree.io/f/<your-id>
-                         In Formspree dashboard, configure notifications to deliver to geoflylab@gmail.com and byang85@ucsc.edu.
-                    -->
-                    <form class="contact-form" id="contact-form-data" action="https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID" method="POST">
+                    <!-- Sends through FormSubmit (formsubmit.co). The destination address is
+                         assembled in the script at the bottom of this page, so it never
+                         appears on the page itself. -->
+                    <form class="contact-form gf-contact-form" id="gf-contact-form" novalidate>
                         <div class="row my-form">
-                            <div class="col-md-12 col-sm-12">
-                                <div id="result"></div>
-                            </div>
-
-                            <!-- honeypot for spam bots -->
-                            <input type="text" name="_gotcha" style="display:none">
+                            <!-- honeypot for spam bots: real visitors never see or fill this -->
+                            <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display:none">
 
                             <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" name="firstName" placeholder="First name *" required>
+                                <label for="cf-name">Name</label>
+                                <input type="text" class="form-control" id="cf-name" name="name" autocomplete="name" required>
                             </div>
                             <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" name="lastName" placeholder="Last name *" required>
+                                <label for="cf-email">Your email</label>
+                                <input type="email" class="form-control" id="cf-email" name="email" autocomplete="email" required>
                             </div>
-                            <div class="col-12 col-md-6">
-                                <input type="email" class="form-control" name="email" placeholder="Email *" required>
+                            <div class="col-12">
+                                <label for="cf-subject">Subject</label>
+                                <input type="text" class="form-control" id="cf-subject" name="subject" required>
                             </div>
-                            <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" name="affiliation" placeholder="Affiliation (e.g., UCSC, agency, company)">
-                            </div>
-
-                            <div class="col-12 col-md-6">
-                                <select class="form-control" name="category" required>
-                                    <option value="" disabled selected>Inquiry type *</option>
-                                    <option>Prospective student</option>
-                                    <option>Visiting scholar / collaboration</option>
-                                    <option>Data / methods inquiry</option>
-                                    <option>Media / outreach</option>
-                                    <option>Other</option>
-                                </select>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <input type="text" class="form-control" name="subject" placeholder="Subject *" required>
+                            <div class="col-12">
+                                <label for="cf-message">Message</label>
+                                <textarea class="form-control" id="cf-message" name="message" rows="7" required></textarea>
                             </div>
 
                             <div class="col-12">
-                                <textarea class="form-control" name="message" placeholder="Message *" rows="7" required></textarea>
-                            </div>
-
-                            <div class="col-12">
-                                <button class="btn contact_btn btn-slider trans-btn mt-4 rounded-pill" type="submit">Submit</button>
+                                <button class="btn btn-slider blue-btn mt-3 rounded-pill" type="submit" id="cf-submit">Send message</button>
+                                <p class="gf-form-status" id="cf-status" role="status" aria-live="polite"></p>
                             </div>
                         </div>
                     </form>
                 </div>
             </div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3186.807320358471!2d-122.06101032266932!3d36.99053217219342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e41a2ff8cbf4f%3A0x3a8e3b7c928320d5!2sUniversity%20of%20California%2C%20Santa%20Cruz!5e0!3m2!1sen!2sus!4v1749243648928!5m2!1sen!2sus" width="800" height="500" style="border: 0px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="col-12" style="margin-top:48px"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3186.807320358471!2d-122.06101032266932!3d36.99053217219342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e41a2ff8cbf4f%3A0x3a8e3b7c928320d5!2sUniversity%20of%20California%2C%20Santa%20Cruz!5e0!3m2!1sen!2sus!4v1749243648928!5m2!1sen!2sus" title="Map of UC Santa Cruz" style="border:0;width:100%;height:380px;border-radius:12px;display:block" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
         </div>
     </div>
     
 </section>
 
-<section id="footer" class="footer">
+<footer id="footer" class="gf-footer">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center wow fadeIn" data-wow-duration=".8s">
-                <!-- <ul class="footer_ul">
-                    <li class="footer_list"><i class="lni lni-facebook-filled"></i></li>
-                    <li class="footer_list"><i class="lni lni-twitter-original"></i></li>
-                    <li class="footer_list"><i class="lni lni-google"></i></li>
-                    <li class="footer_list"><i class="lni lni-instagram-filled"></i></li>
-                </ul> -->
-                <p class="info footer_text"> &copy; 2025 Geofly Lab, University of California, Santa Cruz </p>
+            <div class="col-12 col-md-5">
+                <div class="gf-footer-brand">GeoFly Lab</div>
+                <p>GIS, remote sensing, and UAV-based mapping for environmental research and education at the University of California, Santa Cruz.</p>
+                <div class="gf-social">
+                    <a href="https://www.linkedin.com/company/90439721" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on LinkedIn"><i class="lni lni-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@GeoFlyLab" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on YouTube"><i class="lni lni-youtube"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-3">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="project.html">Research</a></li>
+                    <li><a href="publication.html">Publications</a></li>
+                    <li><a href="resource.html">Resources</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="post.html">News &amp; Posts</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md-4">
+                <h4>Visit</h4>
+                <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street, Santa Cruz, CA 95064</p>
+                <p><a href="contact.html">Contact the lab &rarr;</a></p>
             </div>
         </div>
+        <div class="gf-footer-bottom">
+            <p>&copy; 2026 GeoFly Lab, University of California, Santa Cruz</p>
+        </div>
     </div>
-</section>
+</footer>
 
 <!-- JavaScript -->
 <script src="static/js/bundle.min.js"></script>
@@ -302,8 +303,66 @@
 <script src="static/js/wow.min.js"></script>
 <script src="static/js/jquery.cubeportfolio.min.js"></script>
 <script src="static/js/jquery.fancybox.min.js"></script>
-<!--contact form-->
-<script src="static/js/contact_us.js"></script>
+<script>
+/* Contact form: posts to FormSubmit; the recipient is built here so it is not shown on the page. */
+(function () {
+    var form = document.getElementById('gf-contact-form');
+    if (!form) return;
+    var parts = ['byang85', 'ucsc', 'edu'];
+    var endpoint = 'https://formsubmit.co/ajax/' + parts[0] + '@' + parts[1] + '.' + parts[2];
+    var button = document.getElementById('cf-submit');
+    var status = document.getElementById('cf-status');
+
+    function show(msg, ok) {
+        status.textContent = msg;
+        status.className = 'gf-form-status ' + (ok ? 'is-ok' : 'is-error');
+    }
+
+    form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        if (!form.checkValidity()) {
+            form.reportValidity();
+            return;
+        }
+        if (form._honey.value) return; // bot
+
+        var data = {
+            name: form.name.value.trim(),
+            email: form.email.value.trim(),
+            message: form.message.value.trim(),
+            _subject: 'GeoFly Lab website: ' + form.subject.value.trim(),
+            _template: 'table',
+            _captcha: 'false'
+        };
+
+        button.disabled = true;
+        button.textContent = 'Sending\u2026';
+        show('', true);
+
+        fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify(data)
+        })
+        .then(function (r) { return r.json(); })
+        .then(function (res) {
+            if (res && (res.success === true || res.success === 'true')) {
+                form.reset();
+                show('Thank you! Your message has been sent. We will reply by email.', true);
+            } else {
+                throw new Error(res && res.message);
+            }
+        })
+        .catch(function () {
+            show('Sorry, your message could not be sent right now. Please try again later.', false);
+        })
+        .then(function () {
+            button.disabled = false;
+            button.textContent = 'Send message';
+        });
+    });
+})();
+</script>
 <script src="static/js/function.js"></script>
 </body>
 </html>

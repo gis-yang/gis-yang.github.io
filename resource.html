@@ -24,6 +24,12 @@
     <link href="static/css/LineIcons.min.css" rel="stylesheet">
     <!-- Style Sheet -->
     <link rel="stylesheet" href="static/css/style.css">
+    <!-- GeoFly polish layer -->
+    <link rel="icon" type="image/png" href="static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="static/css/geofly.css">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="150">
@@ -46,6 +52,7 @@
         <nav id="my-nav1" class="navbar navbar-expand-sm navbar-light rounded-bar inner-navs transparent-bar">
 
             <div class="container bg-trans-color">
+                <a class="gf-brand" href="index.html"><span>GeoFly Lab<small>UC Santa Cruz</small></span></a>
                 <!-- 删除logo -->
                 <!-- <div class="logo">
                     <a href="index.html"><img src="static/picture/logo.png" alt="Logo Img"></a>
@@ -90,16 +97,10 @@
                                 <a class="nav-link" href="publication.html">Publications</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="resource.html">Data</a>
+                                <a class="nav-link active" href="resource.html">Resources</a>
                             </li>
                             <li class="nav-item">
-                                
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="team.html">People</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="gallery.html">Demo</a>
+                                <a class="nav-link" href="gallery.html">Gallery</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="post.html">Posts</a>
@@ -136,10 +137,8 @@
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="project.html">Research</a></li>
                 <li class="nav-item"><a class="nav-link" href="publication.html">Publications</a></li>
-                <li class="nav-item"><a class="nav-link" href="resource.html">Data</a></li>
-                <li class="nav-item"></li>
-                <li class="nav-item"><a class="nav-link" href="team.html">People</a></li>
-                <li class="nav-item"><a class="nav-link" href="gallery.html">Demo</a></li>
+                <li class="nav-item"><a class="nav-link active" href="resource.html">Resources</a></li>
+                <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="post.html">Posts</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
             </ul>
@@ -152,13 +151,14 @@
     </header>
     <!-- END NAVBAR SECTION -->
     <!-- ____________________________________________________________________________________________________________________________________ -->
-    <section id="facility" class="facility-section" style="padding-top: 120px;">
+    <section id="facility" class="facility-section gf-has-head">
         <div class="container">
             <div class="row text-center">
-                <div class="col-md-8 offset-md-2 col-sm-12">
+                <div class="col-md-8 offset-md-2 col-sm-12 gf-page-head">
                     <div class="product-text">
-                        <h1 class="main-heading text-black">Facilities and Instruments</h1>
-                        <p class="sub-heading text-black">UAV platforms, sensors, and instruments that support geospatial research and education.</p>
+                        <span class="gf-eyebrow">Resources</span>
+                        <h1 class="main-heading text-black gf-page-title">Facilities and Instruments</h1>
+                        <p class="sub-heading text-black gf-page-lede">The computing lab, UAV platforms, sensors, and field instruments behind our research and teaching.</p>
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@
                         </div>
                         <div class="facility-info">
                             <h3>CISR/GISTAR GIS Lab</h3>
-                            <p>The UCSC CISR GISTAR Lab is a state-of-the-art facility for geospatial research and education, equipped with high-performance computers featuring GTX 4090/3060 GPUs, SSD storage, and dual monitors. It supports GIS, remote sensing, drone mapping, machine learning and AI with access to drones, a large-format plotter, and a 3D printer. The lab includes a seminar room, student workspace, high-resolution projection systems, an AR map sandbox, and a DTEN interactive display. Software resources include ArcGIS Pro, Esri Drone2Map, QGIS, ENVI, Google Earth Engine, and statistical tools, enabling advanced spatial analysis and research.</p>
+                            <p>The UCSC CISR GISTAR Lab is a state-of-the-art facility for geospatial research and education, equipped with high-performance computers featuring RTX 4090/3060 GPUs, SSD storage, and dual monitors. It supports GIS, remote sensing, drone mapping, machine learning and AI with access to drones, a large-format plotter, and a 3D printer. The lab includes a seminar room, student workspace, high-resolution projection systems, an AR map sandbox, and a DTEN interactive display. Software resources include ArcGIS Pro, Esri Drone2Map, QGIS, ENVI, Google Earth Engine, and statistical tools, enabling advanced spatial analysis and research.</p>
                             <a href="https://maps.app.goo.gl/bdVAcWBKc5YDTn5r7" target="_blank" class="btn btn-slider trans-btn">Interdisciplinary Sciences Building 486 and 450</a>
                         </div>
                     </div>
@@ -179,7 +179,7 @@
                 <!-- Intro -->
                 <div class="col-md-8 offset-md-2 col-sm-12">
                     <div class="product-text">
-                        <p class="sub-heading text-black">UAVs, sensors, and precision instruments at GeoFly Lab for innovative research and education.</p>
+                        <h2 class="gf-section-title text-center" style="margin:36px 0 24px!important">UAVs, Sensors &amp; Field Instruments</h2>
                     </div>
                 </div>
                 <!-- Dynamic Facilities -->
@@ -187,14 +187,13 @@
         </div>
     </section>
 
-<section id="resource" class="resource-section" style="padding-top: 60px;">
+<section id="resource" class="resource-section" style="padding-top: 40px;">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-8 offset-md-2 col-sm-12">
                     <div class="product-text">
-                        <h5 class="heading text-black"><br /><br /></h5>
-                        <h1 class="main-heading text-black"><br />Data</h1>
-                        <p class="sub-heading text-black"></p>
+                        <h2 class="gf-section-title">Partners &amp; Affiliations</h2>
+                        <p class="gf-page-lede">Institutions, programs, and professional networks we work with.</p>
                     </div>
                 </div>
             </div>
@@ -206,22 +205,38 @@
 
     
 
-    <section id="footer" class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center wow fadeIn" data-wow-duration=".8s">
-                    <!-- 注释掉了推特等图标 -->
-                    <!-- <ul class="footer_ul">
-                        <li class="footer_list"><i class="lni lni-facebook-filled"></i></li>
-                        <li class="footer_list"><i class="lni lni-twitter-original"></i></li>
-                        <li class="footer_list"><i class="lni lni-google"></i></li>
-                        <li class="footer_list"><i class="lni lni-instagram-filled"></i></li>
-                    </ul> -->
-                    <p class="info footer_text"> &copy; 2025 Geofly Lab, University of California, Santa Cruz </p>
+    <footer id="footer" class="gf-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-5">
+                <div class="gf-footer-brand">GeoFly Lab</div>
+                <p>GIS, remote sensing, and UAV-based mapping for environmental research and education at the University of California, Santa Cruz.</p>
+                <div class="gf-social">
+                    <a href="https://www.linkedin.com/company/90439721" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on LinkedIn"><i class="lni lni-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@GeoFlyLab" target="_blank" rel="noopener noreferrer" aria-label="GeoFly Lab on YouTube"><i class="lni lni-youtube"></i></a>
                 </div>
             </div>
+            <div class="col-6 col-md-3">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="project.html">Research</a></li>
+                    <li><a href="publication.html">Publications</a></li>
+                    <li><a href="resource.html">Resources</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="post.html">News &amp; Posts</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md-4">
+                <h4>Visit</h4>
+                <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street, Santa Cruz, CA 95064</p>
+                <p><a href="contact.html">Contact the lab &rarr;</a></p>
+            </div>
         </div>
-    </section>
+        <div class="gf-footer-bottom">
+            <p>&copy; 2026 GeoFly Lab, University of California, Santa Cruz</p>
+        </div>
+    </div>
+</footer>
 
     <!-- JavaScript -->
     <script src="static/js/bundle.min.js"></script>
@@ -242,24 +257,24 @@
                 },
                 {
                     title: "Inspire 2",
-                    description: "Multispectral drone platform with intelligent flight features. 27 minutes flight time",
+                    description: "Multispectral drone platform with intelligent flight features. 27-minute flight time.",
                     image: "static/image/Drone3.jpg",
                     link: "https://www.dji.com/inspire-2/info"
                 },
                 {
                     title: "Matrice 200",
-                    description: "Versatile and rugged thermal drone platform supports multiple payload configurations. 38 minutes flight time",
+                    description: "Versatile and rugged thermal drone platform supports multiple payload configurations. 38-minute flight time.",
                     image: "static/image/M200.png",
                     link: "https://www.dji.com/matrice-200-series/info"
                 },
                 {
                     title: "Matrice 300 RTK",
-                    description: "state-of-the-art industrial drone solution with LiDAR/RGB aerial mapping capabilities. 55-minute maximum flight time",
+                    description: "State-of-the-art industrial drone solution with LiDAR/RGB aerial mapping capabilities. 55-minute maximum flight time",
                     image: "static/image/M300RTK.png",
                     link: "https://www.dji.com/matrice-300/specs"
                 },
                 {
-                    title: "Micasense 10band Dual Sensor",
+                    title: "MicaSense 10-Band Dual Sensor",
                     description: "This advanced sensor system combines two powerful 5-band sensors, capturing high-resolution imagery across ten spectral bands, including visible light, near-infrared, and red edge.",
                     image: "static/image/10band.png",
                     link: "https://support.micasense.com/hc/en-us/articles/360037369993-RedEdge-MX-Dual-Camera-System-Integration-Guide"
@@ -277,26 +292,26 @@
                     link: "https://www.dji.com/zenmuse-l1/specs"
                 },
                 {
-                    title: "DJI phantom IV Pro",
+                    title: "DJI Phantom 4 Pro",
                     description: "Aerial photography and videography drone designed to capture stunning images and breathtaking footage",
                     image: "static/image/P4P.png",
                     link: "https://www.dji.com/phantom-4-pro/info"
                 },
                 {
                     title: "DJI Mavic 3",
-                    description: "Dual-camera foldable drones that takes aerial photography and videography to new heights",
+                    description: "Dual-camera foldable drone that takes aerial photography and videography to new heights",
                     image: "static/image/Mavic3.png",
                     link: "https://www.dji.com/mavic-3/specs"
                 },
                 {
-                    title: "DJI MINI SE",
-                    description: "Weighing just 249 grams a perfect entry point for beginners and educationnal use alike.",
+                    title: "DJI Mini SE",
+                    description: "Weighing just 249 grams a perfect entry point for beginners and educational use alike.",
                     image: "static/image/MiniSE.png",
                     link: "https://www.dji.com/mini-se/specs"
                 },
                 {
                     title: "Trimble GNSS",
-                    description: "high-performance and compact GNSS receiver for high-quality, location-based data collection and management",
+                    description: "High-performance, compact GNSS receiver for high-quality, location-based data collection and management",
                     image: "static/image/Trimble.png",
                     link: ""
                 },
@@ -307,7 +322,7 @@
                     link: ""
                 },
                 {
-                    title: "YSI water sonde",
+                    title: "YSI Water Sonde",
                     description: "This advanced multi-parameter instrument measures key water quality parameters such as temperature, conductivity, dissolved oxygen, pH, turbidity, and more",
                     image: "static/image/YSI.png",
                     link: ""
@@ -455,7 +470,6 @@
                     resourceContainer.innerHTML += resourceCard;
                 });
             }
-        });
         });
     </script>
     <!-- Plugin Js -->
