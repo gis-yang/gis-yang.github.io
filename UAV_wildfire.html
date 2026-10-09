@@ -53,22 +53,29 @@
         </figure>
 
         <h2>1. Prescribed fire mapping</h2>
-        <p>During prescribed burns, thermal drones see through dense smoke and record the structure of active fire in real time. The georeferenced thermal video resolves flame intensity and rate of spread at fine spatial scales. Combined with measurements of fuel type, terrain, and wind, these observations feed GIS-based models that simulate fire progression and improve prediction.</p>
-        <p>Crews on the ground often cannot see the fire front through smoke. We therefore train computer vision models on thermal drone video to detect the head of the fire automatically, giving firefighters precise, real-time information on where the fire is moving. The same archive of thermal imagery serves as training data for automated analysis of fire behavior.</p>
+        <p>Our work on fire behavior centers on a canyon fire experiment burned on <strong>24 October 2022</strong>. Multispectral, RGB, and thermal drone systems flew alongside airborne infrared, radar and LiDAR instruments, and ground weather-tower stations. Drone surveys bracketed the burn: multispectral and RGB imagery in July 2022, multispectral in early October, the burn itself on 24 October, multispectral and RGB again in November 2022, and a final RGB survey in April 2023. That timeline captures the site before the fire, during it, and through the following spring&rsquo;s regrowth.</p>
+
+        <p>During the burn, a thermal drone recorded <strong>59 minutes of continuous video</strong> of the active fire. Thermal sensors penetrate smoke that defeats both the naked eye and visible-band cameras, so the footage resolves flame intensity and rate of spread at fine spatial scales. Combined with drone-derived fuel type, elevation, and wind speed and direction, these observations feed GIS-based models that simulate fire progression and improve prediction.</p>
+
+        <p>Turning that footage into data required georeferencing it frame by frame. Keyframes were extracted from the optical and thermal videos every 20 to 30 seconds and tied to the ground with roughly 15 tie points each. In the opening minutes, RGB keyframes located the flame and the drone; once smoke closed over the visible bands, the thermal keyframes were georeferenced directly. <strong>127 keyframes were georeferenced successfully, covering 53 minutes, or 84 percent of the video.</strong></p>
 
         <figure>
             <img src="static/image/Wildfire/image12.png" alt="Thermal image of a burn next to matching RGB imagery, with sample areas outlined" loading="lazy">
             <figcaption><b>Figure 2.</b> Thermal imagery (left) compared with RGB imagery (right) of the same area during a burn.</figcaption>
         </figure>
 
-        <p>LiDAR surveys map fuel volume and measure fuel change before and after each burn, quantifying vegetation structure and fire impact across the landscape. Multispectral sensors, including near-infrared bands, track vegetation condition, burn severity, and recovery over time. Together with weather-tower data and high-resolution RGB imagery, these sensors form a multi-sensor platform for prescribed fire management.</p>
+        <p>The georeferenced imagery shows how differently vegetation types burn. Oak woodland reached lower temperatures than the surrounding grass and stayed cooler after the flame front passed, suggesting a degree of fire resistance. Combined stands of black sage, <em>Ceanothus</em>, and chamise ignited readily and burned hot.</p>
+
+        <p>LiDAR and photogrammetric surveys measure what the fire consumed. Digital surface models at 0.07 to 0.10 m resolution, differenced between July 2022, November 2022, and April 2023, quantify the vegetation volume lost to the burn and the regrowth that followed. Drone orthomosaics support Anderson fuel-type classification, and we classify vegetation using Meta&rsquo;s Segment Anything Model (SAM) alongside Esri supervised image classification. Multispectral bands, including near-infrared, track vegetation condition, burn severity, and recovery over time.</p>
 
         <figure>
             <img src="static/image/Wildfire/image14.png" alt="LiDAR-derived elevation and classification maps, and multispectral imagery before and after fire" loading="lazy">
             <figcaption><b>Figure 3.</b> LiDAR products and multispectral imagery before and after a prescribed burn.</figcaption>
         </figure>
 
-        <p>Field data collection was led by Owen Hussey (M.A. Geography, 2025), and analysis by Dr. Xiangyu Ren, who applied AI and GIS methods to turn the imagery into fire-science results. The study is presented in the <a href="https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f">Canyon Fire Experiment story map</a>, with an accompanying <a href="https://sjsugis.maps.arcgis.com/home/webscene/viewer.html?webscene=f042d970db014fa2aed423ff448ff1ca">3D scene of the study canyon</a>.</p>
+        <p>Crews on the ground often cannot see the fire front through smoke. We therefore train computer vision models on thermal drone video to detect the head of the fire automatically, giving firefighters precise, real-time information on where the fire is moving. The same archive of thermal imagery serves as training data for automated analysis of fire behavior.</p>
+
+        <p>Field data collection was led by Owen Hussey (M.A. Geography, 2025), and the thermal analysis was co-led by Dr. Xiangyu Ren, who applied AI and GIS methods to turn the imagery into fire-science results. The results are published in the <a href="https://doi.org/10.1071/WF25235"><em>International Journal of Wildland Fire</em></a> and <a href="https://doi.org/10.3390/drones10070520"><em>Drones</em></a>. The study is also presented in the <a href="https://storymaps.arcgis.com/stories/482e511cfe564335a0e2f87e79fd819f">Canyon Fire Experiment story map</a>, with an accompanying <a href="https://sjsugis.maps.arcgis.com/home/webscene/viewer.html?webscene=f042d970db014fa2aed423ff448ff1ca">3D scene of the study canyon</a>.</p>
 
         <h2>2. Home Ignition Zone</h2>
         <p>The Home Ignition Zone (HIZ) project, a collaboration between GeoFly Lab and the Wilkin Fire Ecology Lab, extends earlier on-the-ground surveys of conditions around homes. Drones and remote sensing now allow wildfire risk to be assessed across whole communities, with methods that are faster, more consistent, and more scalable than traditional field evaluations. The work is integrated with WIRC, CAL FIRE, and industry mentors through the NSF Industry&ndash;University Cooperative Research Center (IUCRC) program, linking the science to insurance, utility management, and state wildfire planning.</p>
