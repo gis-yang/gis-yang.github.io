@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GeoFly Lab | Three new papers from the canyon fire experiment</title>
+    <meta name="description" content="Three 2026 papers from the October 2022 California canyon fire experiment, on thermal UAV fire behavior, fuel structure and dynamics, and post-fire twig diameter as a severity proxy.">
+    <meta name="author" content="GeoFly Lab">
+    <meta content="article" property="og:type"/>
+    <meta content="GeoFly Lab" property="og:site_name"/>
+    <meta content="Three new papers from the canyon fire experiment" property="og:title"/>
+    <meta content="Three 2026 papers from the October 2022 California canyon fire experiment, on thermal UAV fire behavior, fuel structure and dynamics, and post-fire twig diameter as a severity proxy." property="og:description"/>
+    <meta content="https://geofly.io/posts/2026-10-09-Three%20new%20papers%20from%20the%20canyon%20fire%20experiment.html" property="og:url"/>
+    <meta content="https://geofly.io/posts/images/2026100901.jpg" property="og:image"/>
+    <meta content="summary_large_image" name="twitter:card"/>
+    <meta content="Three new papers from the canyon fire experiment" name="twitter:title"/>
+    <meta content="Three 2026 papers from the October 2022 California canyon fire experiment, on thermal UAV fire behavior, fuel structure and dynamics, and post-fire twig diameter as a severity proxy." name="twitter:description"/>
+    <meta content="https://geofly.io/posts/images/2026100901.jpg" name="twitter:image"/>
+    <link rel="icon" type="image/png" href="../static/picture/geoflylab_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+    <link rel="stylesheet" href="../static/css/lab.css">
+</head>
+<body>
+<header class="site-header">
+    <div class="wrap">
+        <a class="brand" href="../index.html">
+            <span class="brand-name">GeoFly Lab</span>
+            <span class="brand-sub">University of California, Santa Cruz</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav class="site-nav" id="site-nav" aria-label="Main">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../project.html">Research</a></li>
+                <li><a href="../publication.html">Publications</a></li>
+                <li><a href="../team.html">Team</a></li>
+                <li><a href="../gallery.html">Gallery</a></li>
+                <li><a href="../post.html" aria-current="page">News</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<main>
+<article class="wrap">
+    <div class="page-head">
+        <p class="crumbs"><a href="../post.html">News</a></p>
+        <h1>Three new papers from the canyon fire experiment</h1>
+        <p class="meta"><time datetime="2026-10-09">October 9, 2026</time> &middot; <span class="reading-time">4 minute read</span></p>
+    </div>
+    <div class="prose">
+<p>Three papers published in 2026 report results from the California canyon fire experiment, a prescribed burn carried out on 24 October 2022. GeoFly Lab flew multispectral, RGB, and thermal drone systems before, during, and after the fire, alongside airborne infrared, radar and LiDAR instruments and ground weather-tower stations. Together the three papers move from what the fire did, to what it consumed, to how its severity can be read afterward in the field.</p>
+
+<p><img alt="Smoke and flames during a prescribed burn, recorded from a GeoFly Lab drone" src="images/2026100901.jpg"/></p>
+
+<h2>1. Reading fire behavior from thermal drone video</h2>
+<p>During the burn, a thermal drone recorded 59 minutes of continuous video of the active fire. Thermal sensors see through smoke that defeats both the eye and visible-band cameras, so the footage captures flame intensity and rate of spread as the fire moved.</p>
+<p>Turning that footage into data required georeferencing it frame by frame. Keyframes were extracted from the optical and thermal video every 20 to 30 seconds and tied to the ground with roughly 15 tie points each. In the opening minutes, RGB keyframes located the flame and the drone; once smoke closed over the visible bands, the thermal keyframes were georeferenced directly. In all, 127 keyframes were georeferenced successfully, covering 53 minutes, or 84 percent of the video.</p>
+<p>The georeferenced imagery shows how differently vegetation types burn. Oak woodland reached lower temperatures than the surrounding grass and stayed cooler after the flame front passed, suggesting a degree of fire resistance. Combined stands of black sage, <em>Ceanothus</em>, and chamise ignited readily and burned hot.</p>
+<p>Ren, X., Yang, B., Filkov, A., Wilkin, K., Benterou, C., Hussey, O., &amp; Clements, C. (2026). Integrating georeferencing and fire anatomy modeling in canyon fire experiments using thermal UAV remote sensing. <em>International Journal of Wildland Fire</em>, WF25235. <a href="https://doi.org/10.1071/WF25235">DOI: 10.1071/WF25235</a></p>
+
+<h2>2. Measuring fuel structure and what the fire consumed</h2>
+<p>The second paper uses the drone surveys that bracket the burn to measure fuel rather than flame. Digital surface models at 0.07 to 0.10 m resolution, differenced between July 2022, November 2022, and April 2023, quantify the vegetation volume lost to the fire and the regrowth that followed the next spring.</p>
+<p>High-resolution orthomosaics support Anderson fuel-type classification across the site, and vegetation is classified using Meta&rsquo;s Segment Anything Model (SAM) alongside Esri supervised image classification. The result is a repeatable way to measure fuel structure and its change over time from drone data alone.</p>
+<p>Ren, X., Benterou, D., Allen, J., Wilkin, K. M., Brillon, H., Clements, C. B., &amp; Yang, B. (2026). UAV-Based Estimation of Fuel Structure and Dynamics in a California Canyon Fire Experiment. <em>Drones</em>, 10(7), 520. <a href="https://doi.org/10.3390/drones10070520">DOI: 10.3390/drones10070520</a></p>
+
+<h2>3. Twig diameter as a field proxy for fire severity</h2>
+<p>The third paper tests a long-standing field shortcut: after a fire, the diameter of the smallest surviving twigs is often used to estimate how severe the fire was. Pairing field measurements with the temperature record from the experiment, the study finds that heating duration predicted fire effects better than maximum temperature. Time spent above lower temperature thresholds explained twig consumption better than brief exposure to extreme heat.</p>
+<p>Twig diameter does work as a field proxy for severity, but the results depend strongly on the sampling method, and timing matters: weathering of twig tips can weaken the severity&ndash;diameter relationship as the months pass.</p>
+<p>Allen, J. E., Benterou, D., Brillon, H., Yang, B., et al. (2026). Reexamining the relationship between post-fire twig diameter and fire intensity in California&rsquo;s chaparral to better assess fire severity. <em>Fire Ecology</em>. <a href="https://doi.org/10.1186/s42408-026-00486-4">DOI: 10.1186/s42408-026-00486-4</a></p>
+
+<h2>Acknowledgment</h2>
+<p>The canyon fire experiment was a collaboration with the Wildfire Interdisciplinary Research Center and CAL FIRE. Field data collection was led by Owen Hussey (M.A. Geography, 2025), and the thermal analysis was co-led by Dr. Xiangyu Ren. This research is supported by NASA through the <a href="https://www.nasa.gov/firesage-program/">FireSage program</a>. More about the project is on our <a href="../UAV_wildfire.html">Wildfire Remote Sensing</a> page.</p>
+    </div>
+    <p class="back"><a href="../post.html">&larr; All news</a></p>
+</article>
+</main>
+<footer class="site-footer" id="contact">
+    <div class="wrap">
+        <div>
+            <div class="footer-name">GeoFly Lab</div>
+            <p>GIS, remote sensing, and UAV-based mapping for environmental research and education.</p>
+        </div>
+        <div>
+            <h2>Contact</h2>
+            <p>Department of Environmental Studies<br>University of California, Santa Cruz<br>1156 High Street<br>Santa Cruz, CA 95064</p>
+        </div>
+        <div>
+            <h2>Explore</h2>
+            <ul>
+                <li><a href="../project.html">Research</a></li>
+                <li><a href="../publication.html">Publications</a></li>
+                <li><a href="../team.html">Team</a></li>
+                <li><a href="../gallery.html">Gallery</a></li>
+                <li><a href="../post.html">News</a></li>
+                <li><a href="../DroneMapping/">Drone mapping course</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="wrap">&copy; 2026 GeoFly Lab, University of California, Santa Cruz</div>
+    </div>
+</footer>
+<script src="../static/js/lab.js" defer></script>
+</body>
+</html>
