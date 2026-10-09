@@ -57,11 +57,16 @@
 
         <p>During the burn, a thermal drone recorded <strong>59 minutes of continuous video</strong> of the active fire. Thermal sensors penetrate smoke that defeats both the naked eye and visible-band cameras, so the footage resolves flame intensity and rate of spread at fine spatial scales. Combined with drone-derived fuel type, elevation, and wind speed and direction, these observations feed GIS-based models that simulate fire progression and improve prediction.</p>
 
+        <figure class="narrow-fig">
+            <img src="static/image/Wildfire/canyon-fire-thermal-view.gif" alt="Animation: a drone controller screen showing a live thermal view of the fire, with the real smoke plume rising from the hillside behind it" loading="lazy">
+            <figcaption><b>Figure 2.</b> The thermal view during the burn. The controller screen resolves the flame front while the plume behind it hides the fire from the naked eye.</figcaption>
+        </figure>
+
         <p>Turning that footage into data required georeferencing it frame by frame. Keyframes were extracted from the optical and thermal videos every 20 to 30 seconds and tied to the ground with roughly 15 tie points each. In the opening minutes, RGB keyframes located the flame and the drone; once smoke closed over the visible bands, the thermal keyframes were georeferenced directly. <strong>127 keyframes were georeferenced successfully, covering 53 minutes, or 84 percent of the video.</strong></p>
 
         <figure>
             <img src="static/image/Wildfire/image12.png" alt="Thermal image of a burn next to matching RGB imagery, with sample areas outlined" loading="lazy">
-            <figcaption><b>Figure 2.</b> Thermal imagery (left) compared with RGB imagery (right) of the same area during a burn.</figcaption>
+            <figcaption><b>Figure 3.</b> Thermal imagery (left) compared with RGB imagery (right) of the same area during a burn.</figcaption>
         </figure>
 
         <p>The georeferenced imagery shows how differently vegetation types burn. Oak woodland reached lower temperatures than the surrounding grass and stayed cooler after the flame front passed, suggesting a degree of fire resistance. Combined stands of black sage, <em>Ceanothus</em>, and chamise ignited readily and burned hot.</p>
@@ -70,7 +75,7 @@
 
         <figure>
             <img src="static/image/Wildfire/image14.png" alt="LiDAR-derived elevation and classification maps, and multispectral imagery before and after fire" loading="lazy">
-            <figcaption><b>Figure 3.</b> LiDAR products and multispectral imagery before and after a prescribed burn.</figcaption>
+            <figcaption><b>Figure 4.</b> LiDAR products and multispectral imagery before and after a prescribed burn.</figcaption>
         </figure>
 
         <p>Crews on the ground often cannot see the fire front through smoke. We therefore train computer vision models on thermal drone video to detect the head of the fire automatically, giving firefighters precise, real-time information on where the fire is moving. The same archive of thermal imagery serves as training data for automated analysis of fire behavior.</p>
@@ -82,7 +87,7 @@
 
         <figure>
             <img src="static/image/Wildfire/image16.png" alt="Home Ignition Zone assessment map of a property, and slope-based defensible space guidance" loading="lazy">
-            <figcaption><b>Figure 4.</b> Mapping a property&rsquo;s Home Ignition Zone. Recommended defensible-space distances increase with slope.</figcaption>
+            <figcaption><b>Figure 5.</b> Mapping a property&rsquo;s Home Ignition Zone. Recommended defensible-space distances increase with slope.</figcaption>
         </figure>
 
         <p>Study sites include fire-affected and high-risk communities in Paradise, Tahoe Donner, and Santa Cruz. High-resolution drone imagery and thermal data map vegetation, building materials, and potential ember pathways, and are combined with NASA satellite time series and street-level imagery for a multi-scale view of risk. Pairing these products with curbside and full-property evaluations captures details that standard defensible-space inspections often miss, such as vent mesh size or gaps in construction materials.</p>
@@ -94,14 +99,14 @@
 
         <figure>
             <img src="static/image/Wildfire/image19.png" alt="Maps and charts of plant cover from field plots, grouped by burn severity" loading="lazy">
-            <figcaption><b>Figure 5.</b> Plant cover measured in field plots, compared across burn-severity classes.</figcaption>
+            <figcaption><b>Figure 6.</b> Plant cover measured in field plots, compared across burn-severity classes.</figcaption>
         </figure>
 
         <p>By linking field ecology, remote sensing, and fire science, this work gives land managers, conservation organizations, and policymakers the information they need for forest restoration and carbon management in the Santa Cruz Mountains. It was led by student researcher Melina Kompella.</p>
 
         <figure>
             <img src="static/image/Wildfire/image20.png" alt="Three-dimensional drone LiDAR point cloud of a forest" loading="lazy">
-            <figcaption><b>Figure 6.</b> Drone LiDAR point cloud of the forest canopy at San Vicente Redwoods.</figcaption>
+            <figcaption><b>Figure 7.</b> Drone LiDAR point cloud of the forest canopy at San Vicente Redwoods.</figcaption>
         </figure>
 
         <h2>4. Training and funding</h2>
